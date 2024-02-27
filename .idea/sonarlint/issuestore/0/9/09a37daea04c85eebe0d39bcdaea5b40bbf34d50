@@ -1,0 +1,8 @@
+
+h
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ØøØš
+_
+java:S1134/"DTake the required action to fix the issue indicated by this comment.(Ê¶Å€ûÿÿÿÿ
+7	java:S1312""Add a default case to this switch.(ÜŸ•
+Y
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(ÂÑçŸÿÿÿÿÿ

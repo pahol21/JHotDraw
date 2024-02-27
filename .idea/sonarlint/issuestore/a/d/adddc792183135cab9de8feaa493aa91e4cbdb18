@@ -1,0 +1,44 @@
+
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(¥·ð‚
+o
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÍ‡—
+j
+java:S1192Œ"NDefine a constant instead of duplicating this literal "\" not found." 3 times.(•œûýÿÿÿÿ
+x
+java:S1192Œ"\Define a constant instead of duplicating this literal "Warning ResourceBundleUtil[" 8 times.(•œûýÿÿÿÿ
+y
+java:S1488†"]Immediately return this expression instead of assigning it to the temporary variable "value".(™ýØúÿÿÿÿ
+y
+java:S1488ð"]Immediately return this expression instead of assigning it to the temporary variable "value".(ó›Ü¢ÿÿÿÿÿ
+y
+java:S1488„"]Immediately return this expression instead of assigning it to the temporary variable "value".(ØõƒÉÿÿÿÿÿ
+^
+java:S2095÷"GUse try-with-resources or close this "Formatter" in a "finally" clause.(ð€ÞÓ
+S
+java:S3878>"8Remove this array creation and simply pass the elements.(óã¿Þùÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(™Òö°ýÿÿÿÿ
+P	java:S125Š"<This block of commented-out lines of code should be removed.(Õ±*
+F	java:S106Œ"+Replace this use of System.err by a logger.(•œûýÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(½éŠÛ
+R	java:S125ö"<This block of commented-out lines of code should be removed.(ÔùÅ÷
+F	java:S106‡"+Replace this use of System.err by a logger.(•œûýÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(†€éˆ
+F	java:S106¸"+Replace this use of System.err by a logger.(å§èûÿÿÿÿ
+@	java:S106½"+Replace this use of System.err by a logger.(›”ÆL
+R	java:S125¾"<This block of commented-out lines of code should be removed.(†€éˆ
+A	java:S106ß"+Replace this use of System.err by a logger.( —Á
+R	java:S125à"<This block of commented-out lines of code should be removed.(†€éˆ
+F	java:S106ô"+Replace this use of System.err by a logger.(ÉÓ°Øûÿÿÿÿ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(†€éˆ
+A	java:S106ˆ"+Replace this use of System.err by a logger.(ðÁï
+R	java:S125‰"<This block of commented-out lines of code should be removed.(†€éˆ
+C
+java:S1905›",Remove this unnecessary cast to "KeyStroke".(¼ëèÒ
+C
+java:S1905¯",Remove this unnecessary cast to "KeyStroke".(¼ëèÒ
+A	java:S106²"+Replace this use of System.err by a logger.(»áãè
+R	java:S125³"<This block of commented-out lines of code should be removed.(†€éˆ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(¡¼öÜ

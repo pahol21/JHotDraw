@@ -1,0 +1,27 @@
+
+b
+java:S1192!"LDefine a constant instead of duplicating this literal ".constraint" 3 times.(íƒë
+d
+java:S1192%"IDefine a constant instead of duplicating this literal ".visible" 3 times.(úŠïüÿÿÿÿ
+K
+java:S1066"/Merge this if statement with the enclosing one.(†ç×İÿÿÿÿÿ
+K
+java:S1066Š"/Merge this if statement with the enclosing one.(†ç×İÿÿÿÿÿ
+`
+java:S3252""EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ô˜˜øÿÿÿÿÿ
+^
+java:S3252""CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(ô˜˜øÿÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(›Ÿ¼
+V	java:S1250"<This block of commented-out lines of code should be removed.(®´ñªüÿÿÿÿ
+h
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(«ê´ã
+Z
+java:S1134J"DTake the required action to fix the issue indicated by this comment.(ÕÃ÷¦
+[
+java:S3252Y"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(¿›ÍÃ
+`
+java:S3252["EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(Î·üùûÿÿÿÿ
+[
+java:S3252f"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(¿›ÍÃ
+`
+java:S3252h"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(Î·üùûÿÿÿÿ

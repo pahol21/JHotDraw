@@ -1,0 +1,12 @@
+
+p
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ëè•
+t
+java:S3252w"YUse static access with "org.jhotdraw.draw.AttributeKeys" for "getPerpendicularHitGrowth".(öÒºÿÿÿÿÿ
+j
+java:S3252¯"SUse static access with "org.jhotdraw.draw.AttributeKeys" for "getStrokeTotalWidth".(…ËÊÄ
+o
+java:S3252°"XUse static access with "org.jhotdraw.draw.AttributeKeys" for "getStrokeTotalMiterLimit".(½’ïĞ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(Û¸Ò£ûÿÿÿÿ
+j
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ø¾“ô

@@ -1,0 +1,21 @@
+
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(›÷¢Ÿ
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(á»¨Ü
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(áèñ¦ıÿÿÿÿ
+n
+java:S1450m"XRemove the "linkLabel" field and declare it as a local variable in the relevant methods.(ÆÛ—
+v
+java:S1450o"[Remove the "opacityLabel" field and declare it as a local variable in the relevant methods.(ÈÆ†•úÿÿÿÿ
+>
+java:S1948 "(Make "editor" transient or serializable.(³šà¦
+P
+java:S1948""5Make "opacityFieldHandler" transient or serializable.(®¼¶Şûÿÿÿÿ
+K
+java:S1948#"6Make "opacitySliderHandler" transient or serializable.(ãŠB
+M
+java:S1948$"2Make "linkFieldHandler" transient or serializable.(‡„êüùÿÿÿÿ
+Y
+java:S3252,"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(÷ß•Á

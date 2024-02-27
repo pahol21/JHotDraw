@@ -1,0 +1,10 @@
+
+p
+java:S1450#"ZRemove the "startLength" field and declare it as a local variable in the relevant methods.(û”øƒ
+T
+java:S5993("9Change the visibility of this constructor to "protected".(ğšàúÿÿÿÿ
+7	java:S131""Add a default case to this switch.( à×H
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo
+E
+java:S1068#"/Remove this unused "startLength" private field.(û”øƒ

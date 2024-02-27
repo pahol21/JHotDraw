@@ -1,0 +1,8 @@
+
+u
+java:S1192ë"YUse already-defined constant 'ARC_HEIGHT_PROPERTY' instead of duplicating its value here.(ÇŒðûøÿÿÿÿ
+t
+java:S1192ê"XUse already-defined constant 'ARC_WIDTH_PROPERTY' instead of duplicating its value here.(’Ò‰åýÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(þ‹’‰úÿÿÿÿ
+o
+java:S2975ß"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(‚ãùüÿÿÿÿ

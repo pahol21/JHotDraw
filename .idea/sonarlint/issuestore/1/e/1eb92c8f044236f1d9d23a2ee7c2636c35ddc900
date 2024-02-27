@@ -1,0 +1,28 @@
+
+Œ
+java:S1192G"vDefine a constant instead of duplicating this literal "PaletteColorChooserUI warning: unable to instantiate " 4 times.(‘‹»²
+F
+java:S1066û"/Merge this if statement with the enclosing one.(‚¾ÚÕ
+c
+java:S2259§"GA "NullPointerException" could be thrown; "mainPanel" is nullable here.(‘¶õÓÿÿÿÿÿ
+C
+java:S1172'"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+@
+java:S1181R"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Z
+java:S2147I"DCombine this catch with the one at line 69, which has the same body.(”ı¾
+_
+java:S2147R"DCombine this catch with the one at line 78, which has the same body.(•”ø¾øÿÿÿÿ
+N
+java:S1874D"3Remove this use of "newInstance"; it is deprecated.(ß¥ëƒûÿÿÿÿ
+b
+java:S5738E"GRemove this call to a deprecated class, it has been marked for removal.(Î€ıÈüÿÿÿÿ
+@	java:S106G"+Replace this use of System.err by a logger.(‘‹»²
+@	java:S106L"+Replace this use of System.err by a logger.(‘‹»²
+P	java:S125J"<This block of commented-out lines of code should be removed.(ã‡ìb
+@	java:S106P"+Replace this use of System.err by a logger.(‘‹»²
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(†€éˆ
+@	java:S106S"+Replace this use of System.err by a logger.(‘‹»²
+V	java:S125V"<This block of commented-out lines of code should be removed.(Ù‚ÿÕÿÿÿÿÿ
+i
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÌÕ„ë

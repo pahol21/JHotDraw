@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Û’±ğøÿÿÿÿ
+E	java:S106V"+Replace this use of System.err by a logger.(ÉìÙ™úÿÿÿÿ
+@	java:S106q"+Replace this use of System.out by a logger.(ş©Ş®
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(¿…ÎÛ
+`
+java:S3551–"IMake this method "synchronized" to match the parent class implementation.(‡ç˜‚
+e
+java:S3551½"IMake this method "synchronized" to match the parent class implementation.(ß•şŠşÿÿÿÿ
+F	java:S106¿"+Replace this use of System.out by a logger.(Œ§“üÿÿÿÿ
+A	java:S106â"+Replace this use of System.out by a logger.(’‰½‹

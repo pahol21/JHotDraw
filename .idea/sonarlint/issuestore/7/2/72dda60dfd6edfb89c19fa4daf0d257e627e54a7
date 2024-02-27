@@ -1,0 +1,46 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÏ§ÿÿÿÿÿ
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+p
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+I
+java:S1121^".Extract the assignment out of this expression.(áùŞ‰ıÿÿÿÿ
+D
+java:S1121`".Extract the assignment out of this expression.(¥ø–Â
+D
+java:S1121b".Extract the assignment out of this expression.(Ó´âÖ
+I
+java:S1121d".Extract the assignment out of this expression.(Œ×à øÿÿÿÿ
+I
+java:S1121f".Extract the assignment out of this expression.(Îáø´úÿÿÿÿ
+D
+java:S1121i".Extract the assignment out of this expression.(´Âş§
+D
+java:S1121k".Extract the assignment out of this expression.(” ¨ä
+I
+java:S1121m".Extract the assignment out of this expression.(µİŸııÿÿÿÿ
+I
+java:S1121o".Extract the assignment out of this expression.(“çü½øÿÿÿÿ
+I
+java:S1121q".Extract the assignment out of this expression.(ä”º©ûÿÿÿÿ
+r
+java:S1450İ"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+u
+java:S1450Ş"YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(Ë£³Ğÿÿÿÿÿ
+u
+java:S1450ß"^Remove the "toolButtonGroup" field and declare it as a local variable in the relevant methods.(—ŠÊô
+>
+java:S19488"(Make "editor" transient or serializable.(³šà¦
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ôÚãŠıÿÿÿÿ
+Z
+java:S1134X"DTake the required action to fix the issue indicated by this comment.(Ù¿²á
+Q
+java:S1117w";Rename "drawing" which hides the field declared at line 55.(ÿå±±
+F
+java:S10687"+Remove this unused "drawing" private field.(Òâéƒûÿÿÿÿ
+J
+java:S1068ß"3Remove this unused "toolButtonGroup" private field.(—ŠÊô

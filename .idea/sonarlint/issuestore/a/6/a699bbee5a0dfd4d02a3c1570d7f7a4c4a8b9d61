@@ -1,0 +1,49 @@
+
+K
+java:S3740€"/Provide the parametrized type for this generic.(ŽµŽðýÿÿÿÿ
+K
+java:S3740•"/Provide the parametrized type for this generic.(ŽµŽðýÿÿÿÿ
+f
+java:S1192¬"ODefine a constant instead of duplicating this literal "needsSeparator" 4 times.(ß“Î¯
+f
+java:S1192e"PDefine a constant instead of duplicating this literal "recentFileCount" 3 times.(°“”÷
+h
+java:S1192ò"LDefine a constant instead of duplicating this literal "application" 8 times.(Î­Ã®ýÿÿÿÿ
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(Öª÷½
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(Öª÷½
+D
+java:S1604Æ"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ
+O
+java:S5993\"9Change the visibility of this constructor to "protected".(”¿õƒ
+B
+java:S1948I"'Make "views" transient or serializable.(Ú¹Ã“ÿÿÿÿÿ
+N
+java:S1948J"3Make "unmodifiableViews" transient or serializable.(‚·§üÿÿÿÿ
+B
+java:S1948M"'Make "model" transient or serializable.(’Ôãÿÿÿÿÿÿ
+B
+java:S1948N"'Make "prefs" transient or serializable.(èÝþ¯üÿÿÿÿ
+B
+java:S1948O",Make "activeView" transient or serializable.(Àû—ã
+H
+java:S1948T"-Make "openChooser" transient or serializable.(Ëœ™°þÿÿÿÿ
+C
+java:S1948U"-Make "saveChooser" transient or serializable.(«€ÅÚ
+E
+java:S1948V"/Make "importChooser" transient or serializable.(”ëàÊ
+D
+java:S1948W"/Make "exportChooser" transient or serializable.(ê…6
+u
+java:S2142¡"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+C
+java:S1481„"'Remove this unused "mi" local variable.(®ì÷Ãúÿÿÿÿ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ã˜÷ÿÿÿÿÿ
+U
+java:S1155Í">Use isEmpty() to check whether the collection is empty or not.(óÙ¿
+i
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õ»øì
+U
+java:S1155ô">Use isEmpty() to check whether the collection is empty or not.(¤Ü½É
+U
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.(¤Ü½É

@@ -1,0 +1,26 @@
+
+t
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶™¶úùÿÿÿÿ
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÈù³ÿÿÿÿÿ
+>
+java:S1604J"(Make this anonymous inner class a lambda(ÌÚ½­
+?
+java:S1604Á"(Make this anonymous inner class a lambda(ÈØ¿»
+?
+java:S1604Ü"(Make this anonymous inner class a lambda(ÈØ¿»
+>
+java:S1948<"(Make "editor" transient or serializable.(³šà¦
+g
+java:S3252^"QUse static access with "javax.swing.ScrollPaneConstants" for "LOWER_LEFT_CORNER".(Ïö¶Ü
+V	java:S125_"<This block of commented-out lines of code should be removed.(Ü´¸ûÿÿÿÿ
+\
+java:S2147Î"ECombine this catch with the one at line 202, which has the same body.(åþáÿ
+u
+java:S2142Ê"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+a
+java:S2147ç"ECombine this catch with the one at line 229, which has the same body.(è®ã¶øÿÿÿÿ
+z
+java:S2142ç"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+s
+java:S2177ø"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ

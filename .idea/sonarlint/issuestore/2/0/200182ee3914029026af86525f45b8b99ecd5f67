@@ -1,0 +1,33 @@
+
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¦–Üûÿÿÿÿ
+u
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ü½ƒøÿÿÿÿ
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¾ü
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¾ü
+C
+java:S1121W".Extract the assignment out of this expression.(¢ÛÑ
+I
+java:S1121Y".Extract the assignment out of this expression.(¸æŸ›ÿÿÿÿÿ
+?
+java:S1604Ê"(Make this anonymous inner class a lambda(ûÔ¶
+x
+java:S1488¯"\Immediately return this expression instead of assigning it to the temporary variable "list".(Ã¦–Üûÿÿÿÿ
+[
+java:S2583ı"DChange this condition so that it does not always evaluate to "false"(¡†ªö
+F
+java:S1481["+Remove this unused "action" local variable.(ÍÚËğùÿÿÿÿ
+Q	java:S125e"<This block of commented-out lines of code should be removed.(‹òº¢
+<
+java:S1481l"'Remove this unused "aa" local variable.(ş˜
+Q
+java:S1751ä"5Remove this "break" statement or make it conditional.(»ó¶…øÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(µ†¹ùÿÿÿÿ
+[
+java:S1134ø"DTake the required action to fix the issue indicated by this comment.(ÉÁÓ
+L
+java:S1068="1Remove this unused "SCALE_FACTORS" private field.(ˆ®ŞÍúÿÿÿÿ
+N
+java:S1068>"3Remove this unused "gridConstrainer" private field.(òõÊŠûÿÿÿÿ

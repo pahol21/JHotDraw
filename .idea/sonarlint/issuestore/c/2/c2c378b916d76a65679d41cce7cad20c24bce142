@@ -1,0 +1,13 @@
+
+W	java:S107)"BConstructor has 10 parameters, which is greater than 7 authorized.(»Ï¾û
+5
+java:S1659f" Declare "fp" on a separate line.(‡Øëo
+@	java:S106n"+Replace this use of System.out by a logger.(¦¹ñ’
+f
+java:S3252‚"JUse static access with "java.awt.MultipleGradientPaint" for "CycleMethod".(À‘şûÿÿÿÿ
+d
+java:S3252ƒ"MUse static access with "java.awt.MultipleGradientPaint" for "ColorSpaceType".(ÿ„†
+j
+java:S2975À"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

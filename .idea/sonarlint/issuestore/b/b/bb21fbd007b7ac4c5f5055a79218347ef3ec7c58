@@ -1,0 +1,12 @@
+
+K
+java:S3740›"/Provide the parametrized type for this generic.(µğıÿÿÿÿ
+Q
+java:S1141¦"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+m
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ü“‹ûÿÿÿÿ
+u
+java:S2142‰"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+u
+java:S2142²"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(½­„úÿÿÿÿ

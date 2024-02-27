@@ -1,0 +1,37 @@
+
+j
+java:S1192“"SDefine a constant instead of duplicating this literal "Illegal component:" 3 times.(à€ˆ”
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊåĞ‡
+k	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œá‹ÿÿÿÿÿ
+k	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì“§øÿÿÿÿ
+k	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â´§‹úÿÿÿÿ
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¿»˜úÿÿÿÿ
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íˆ™˜úÿÿÿÿ
+g	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ı†ú
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í„¯à
+g	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¯‘¿
+l	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚õ®şÿÿÿÿ
+g	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£Ø
+g	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åº£«
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Á ıÿÿÿÿ
+g	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïßÙü
+f
+java:S1301m"KReplace this "switch" statement by "if" statements to increase readability.(äÉõıÿÿÿÿ
+b	java:S1163"MRename this field "Xw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·êºò
+g	java:S1167"MRename this field "Yw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æˆëüÿÿÿÿ
+b	java:S116;"MRename this field "Zw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¦í
+7
+java:S1116E"Remove this empty statement.(ôŸìúÿÿÿÿ
+s	java:S131m"YComplete cases by adding the missing enum constants or add a default case to this switch.(äÉõıÿÿÿÿ
+[
+java:S1659©"?Declare "yr" and all following declarations on a separate line.(³İú†şÿÿÿÿ
+[
+java:S1659ì"?Declare "fy" and all following declarations on a separate line.(ä˜½øÿÿÿÿ
+=	java:S131Œ""Add a default case to this switch.(¬Ÿ¸Øüÿÿÿÿ
+=	java:S131˜""Add a default case to this switch.(¬Ÿ¸Øüÿÿÿÿ
+=	java:S131¤""Add a default case to this switch.(¬Ÿ¸Øüÿÿÿÿ
+A	java:S106º"+Replace this use of System.out by a logger.(ê†ì
+A	java:S106¼"+Replace this use of System.out by a logger.(áø¿¹
+F	java:S106¾"+Replace this use of System.out by a logger.(›‹²ıÿÿÿÿ
+F	java:S106À"+Replace this use of System.out by a logger.(ŸªÈşÿÿÿÿ
+F	java:S106Â"+Replace this use of System.out by a logger.(ŸªÈşÿÿÿÿ

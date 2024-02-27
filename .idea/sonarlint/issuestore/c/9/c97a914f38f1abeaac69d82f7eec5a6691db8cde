@@ -1,0 +1,66 @@
+
+C
+java:S1948“"'Make "prefs" transient or serializable.(¦ŠÍ¾ùÿÿÿÿ
+_
+java:S1134O"DTake the required action to fix the issue indicated by this comment.(Û®ä”ùÿÿÿÿ
+7
+java:S1116d"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+R
+java:S6353t"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ý‘ö³
+R
+java:S6353t"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ý‘ö³
+R
+java:S6353t"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ý‘ö³
+R
+java:S6353x"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÚŽÿ—
+R
+java:S6353x"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÚŽÿ—
+R
+java:S6353x"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÚŽÿ—
+P
+java:S6397|"5Replace this character class by the character itself.(øØé¥øÿÿÿÿ
+W
+java:S6353|"<Use concise character class syntax '\\d' instead of '[0-9]'.(øØé¥øÿÿÿÿ
+W
+java:S6353|"<Use concise character class syntax '\\d' instead of '[0-9]'.(øØé¥øÿÿÿÿ
+W
+java:S6353|"<Use concise character class syntax '\\d' instead of '[0-9]'.(øØé¥øÿÿÿÿ
+W
+java:S6353|"<Use concise character class syntax '\\d' instead of '[0-9]'.(øØé¥øÿÿÿÿ
+W
+java:S6353|"<Use concise character class syntax '\\d' instead of '[0-9]'.(øØé¥øÿÿÿÿ
+W
+java:S6353|"<Use concise character class syntax '\\d' instead of '[0-9]'.(øØé¥øÿÿÿÿ
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ú‰›‘ùÿÿÿÿ
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ú‰›‘ùÿÿÿÿ
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ú‰›‘ùÿÿÿÿ
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ú‰›‘ùÿÿÿÿ
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ú‰›‘ùÿÿÿÿ
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ú‰›‘ùÿÿÿÿ
+X
+java:S6353†"<Use concise character class syntax '\\d' instead of '[0-9]'.(„¨øˆýÿÿÿÿ
+X
+java:S6353†"<Use concise character class syntax '\\d' instead of '[0-9]'.(„¨øˆýÿÿÿÿ
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ƒç‹
+T
+java:S3878à"8Remove this array creation and simply pass the elements.(–Ìß„ýÿÿÿÿ
+h
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(´ÎÅ+
+t	java:S131Œ"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÍÂŠºøÿÿÿÿ
+j
+java:S5843t"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(Ý‘ö³
+j
+java:S5843x"TSimplify this regular expression to reduce its complexity from 27 to the 20 allowed.(ÚŽÿ—
+o
+java:S5843|"TSimplify this regular expression to reduce its complexity from 40 to the 20 allowed.(øØé¥øÿÿÿÿ
+p
+java:S5843"TSimplify this regular expression to reduce its complexity from 39 to the 20 allowed.(ú‰›‘ùÿÿÿÿ
+Þ
+java:S6541ø"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 113 to 64, Complexity from 17 to 14, Nesting Level from 3 to 2, Number of Variables from 21 to 6.(ƒç‹

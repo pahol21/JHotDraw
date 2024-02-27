@@ -1,0 +1,121 @@
+
+v
+java:S1192Õ"ZDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 16 times.(¸ÿÙÎıÿÿÿÿ
+p
+java:S1192Ö"YDefine a constant instead of duplicating this literal "attribute.color.noColor" 11 times.(ÆøÛ€
+r
+java:S1192Ò
+"\Define a constant instead of duplicating this literal "attribute.strokeType.double" 3 times.(äŠ<
+l
+java:S1192¿"PDefine a constant instead of duplicating this literal "toolButtonGroup" 4 times.(–àé—øÿÿÿÿ
+c
+java:S1192É"LDefine a constant instead of duplicating this literal "toolHandler" 3 times.(Å§Í©
+Ÿ
+java:S1192õ"‚Define a constant instead of duplicating this literal "/org/jhotdraw/draw/action/images/attribute.color.colorChooser.png" 3 times.(ıŞÃßùÿÿÿÿ
+y
+java:S1192ÿ"]Define a constant instead of duplicating this literal "attribute.color.colorChooser" 4 times.(ÚÉ†˜ûÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(÷ÉÓşÿÿÿÿ
+J
+java:S1121Ü".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+J
+java:S1121ê".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+E
+java:S1121ø".Extract the assignment out of this expression.(÷•Õ¤
+J
+java:S1121°".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+J
+java:S1121Â".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+J
+java:S1121Ğ".Extract the assignment out of this expression.(ª¡Íúÿÿÿÿ
+D
+java:S1121´".Extract the assignment out of this expression.(áã¨<
+D
+java:S1121Æ".Extract the assignment out of this expression.(áã¨<
+J
+java:S1121Ô".Extract the assignment out of this expression.(×ˆ³ùÿÿÿÿ
+E
+java:S1121¸
+".Extract the assignment out of this expression.(¼÷ô¥
+E
+java:S1121÷".Extract the assignment out of this expression.(öï©œ
+E
+java:S1121ù".Extract the assignment out of this expression.(…¥à³
+J
+java:S1121û".Extract the assignment out of this expression.(ñÊú¼úÿÿÿÿ
+E
+java:S1121ı".Extract the assignment out of this expression.(‹®±Œ
+E
+java:S1121ÿ".Extract the assignment out of this expression.(™¢ç¦
+J
+java:S1121".Extract the assignment out of this expression.(ëÕ·˜øÿÿÿÿ
+J
+java:S1121„".Extract the assignment out of this expression.(™¹û†ıÿÿÿÿ
+E
+java:S1121†".Extract the assignment out of this expression.(ìºŸ
+J
+java:S1121ˆ".Extract the assignment out of this expression.(Ÿ¥•¼ıÿÿÿÿ
+E
+java:S1121Š".Extract the assignment out of this expression.(‡¹®×
+E
+java:S1121Ã".Extract the assignment out of this expression.(×¤»
+E
+java:S1121Ì".Extract the assignment out of this expression.(×¤»
+E
+java:S1121Õ".Extract the assignment out of this expression.(×¤»
+E
+java:S1121ó".Extract the assignment out of this expression.(×¤»
+E
+java:S1121ü".Extract the assignment out of this expression.(×¤»
+E
+java:S1121…".Extract the assignment out of this expression.(×¤»
+J
+java:S1121•".Extract the assignment out of this expression.(¼§éåüÿÿÿÿ
+J
+java:S1121¬".Extract the assignment out of this expression.(ß‘¹ëúÿÿÿÿ
+?
+java:S1604ÿ"(Make this anonymous inner class a lambda(­Å÷À
+?
+java:S1604ª"(Make this anonymous inner class a lambda(ı…¢€
+?
+java:S1604‡"(Make this anonymous inner class a lambda(­Å÷À
+?
+java:S1604›"(Make this anonymous inner class a lambda(“‚¯
+?
+java:S1604¢"(Make this anonymous inner class a lambda(ı…¢€
+W	java:S107Ã"<Method has 8 parameters, which is greater than 7 authorized.(ßíãÀûÿÿÿÿ
+W	java:S107ò"<Method has 8 parameters, which is greater than 7 authorized.(ééĞ¬şÿÿÿÿ
+W	java:S107™"<Method has 9 parameters, which is greater than 7 authorized.(ééĞ¬şÿÿÿÿ
+R	java:S107í"<Method has 8 parameters, which is greater than 7 authorized.(ª „
+R	java:S107û"<Method has 8 parameters, which is greater than 7 authorized.(¶íÒÚ
+R	java:S107"<Method has 9 parameters, which is greater than 7 authorized.(¶íÒÚ
+Q	java:S107ò"<Method has 8 parameters, which is greater than 7 authorized.(´ÓÖO
+Z
+java:S1134A"DTake the required action to fix the issue indicated by this comment.(¶¢ÇŠ
+=
+java:S1481å"&Remove this unused "c" local variable.(æ˜Å‡
+E
+java:S1481¼")Remove this unused "tool" local variable.(âÇàûÿÿÿÿ
+F
+java:S1481½"/Remove this unused "attributes" local variable.(¸®ç¾
+U
+java:S1155ú">Use isEmpty() to check whether the collection is empty or not.(œÓ»
+W	java:S125™"<This block of commented-out lines of code should be removed.(İùÔİÿÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(İùÔİÿÿÿÿÿ
+T
+java:S1172ğ"8Remove this unused method parameter "defaultAttributes".(÷£‹ıÿÿÿÿ
+T
+java:S1172ô"8Remove this unused method parameter "defaultAttributes".(ûƒ§÷ûÿÿÿÿ
+D
+java:S1172È	"-Remove this unused method parameter "widths".(åè­õ
+Q	java:S125©
+"<This block of commented-out lines of code should be removed.(·Œ…
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(²Õƒå
+]
+java:S3252š"AUse static access with "javax.swing.SwingConstants" for "CENTER".(‰ì´ùÿÿÿÿ
+X
+java:S3252›"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(Ê¦ğİ
+]
+java:S3252±"AUse static access with "javax.swing.SwingConstants" for "CENTER".(‰ì´ùÿÿÿÿ
+X
+java:S3252²"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(Ê¦ğİ

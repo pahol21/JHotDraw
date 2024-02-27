@@ -1,0 +1,9 @@
+
+}
+java:S1192Y"bDefine a constant instead of duplicating this literal "rows and cols cannot both be zero" 3 times.(øó–Àıÿÿÿÿ
+
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã²¾ûüÿÿÿÿ
+
+java:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÃ„Åÿÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(âµô«şÿÿÿÿ

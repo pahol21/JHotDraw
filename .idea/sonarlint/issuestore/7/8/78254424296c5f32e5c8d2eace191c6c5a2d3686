@@ -1,0 +1,12 @@
+
+[	java:S107)"AConstructor has 9 parameters, which is greater than 7 authorized.(çúÄ…ýÿÿÿÿ
+a
+java:S3252˜"JUse static access with "java.awt.MultipleGradientPaint" for "CycleMethod".(ÏÔßâ
+d
+java:S3252™"MUse static access with "java.awt.MultipleGradientPaint" for "ColorSpaceType".(¨ÿàÅ
+j
+java:S2975Á"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo
+K
+java:S1068!"0Remove this unused "spreadMethod" private field.(—²±Þüÿÿÿÿ

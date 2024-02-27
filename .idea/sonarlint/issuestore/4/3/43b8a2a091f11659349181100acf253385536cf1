@@ -1,0 +1,25 @@
+
+K
+java:S3740°"/Provide the parametrized type for this generic.(µğıÿÿÿÿ
+s
+java:S1192N"XDefine a constant instead of duplicating this literal "org.jhotdraw.app.Labels" 3 times.(•Éÿ‘ûÿÿÿÿ
+P
+java:S1141m"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+@
+java:S1181{"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+_
+java:S1134h"DTake the required action to fix the issue indicated by this comment.(©Ü–±úÿÿÿÿ
+e
+java:S3252j"JUse static access with "javax.print.attribute.ResolutionSyntax" for "DPI".(‚Ş—¯ûÿÿÿÿ
+E	java:S106y"+Replace this use of System.out by a logger.(ªÈ“³ûÿÿÿÿ
+A
+java:S1181˜"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+f
+java:S3252‹"JUse static access with "javax.print.attribute.ResolutionSyntax" for "DPI".(‚Ş—¯ûÿÿÿÿ
+F	java:S106–"+Replace this use of System.out by a logger.(ªÈ“³ûÿÿÿÿ
+`
+java:S1134¦"DTake the required action to fix the issue indicated by this comment.(ãøœøÿÿÿÿ
+M
+java:S1854¾"6Remove this useless assignment to local variable "pf".(¿Ü’À

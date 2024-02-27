@@ -1,0 +1,44 @@
+
+>
+java:S1604f"(Make this anonymous inner class a lambda(»Ñ›
+d
+java:S3824Ë"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ìõßãûÿÿÿÿ
+t
+java:S1450‡"XRemove the "infoPanel" field and declare it as a local variable in the relevant methods.(½¨‘¬ùÿÿÿÿ
+t
+java:S1450‰"XRemove the "separator" field and declare it as a local variable in the relevant methods.(õÃ§¥ıÿÿÿÿ
+p
+java:S1450Š"YRemove the "strutPanel" field and declare it as a local variable in the relevant methods.(“ı Œ
+D
+java:S1948;")Make "manager" transient or serializable.(…²•‡ıÿÿÿÿ
+J
+java:S1948<"/Make "activityOwner" transient or serializable.(²èÃ‡şÿÿÿÿ
+=
+java:S1948R"'Make "views" transient or serializable.(¹¤ñš
+?
+java:S1948|")Make "handler" transient or serializable.(ïóî‘
+Z
+java:S1134A"DTake the required action to fix the issue indicated by this comment.(Ü Ê£
+Z
+java:S1134H"DTake the required action to fix the issue indicated by this comment.(Ü Ê£
+Z
+java:S1134O"DTake the required action to fix the issue indicated by this comment.(Ü Ê£
+Z
+java:S3358a"DExtract this nested ternary operation into an independent statement.(Œ¶øÎ
+r
+java:S3923o"]This conditional operation returns the same value whether the condition is "true" or "false".(•÷G
+W	java:S125–"<This block of commented-out lines of code should be removed.(ùÍõÚûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(æ’ş…øÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(æ’ş…øÿÿÿÿ
+u
+java:S2142Ÿ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(£ÙÜø
+F
+java:S1172÷"*Remove this unused method parameter "evt".(ß¿Ä¦şÿÿÿÿ
+A
+java:S1172û"*Remove this unused method parameter "evt".(ÎµÊê
+A
+java:S3398÷"%Move this method into "FormListener".(ß¿Ä¦şÿÿÿÿ
+<
+java:S3398û"%Move this method into "FormListener".(ÎµÊê
+N
+java:S1144™"2Remove this unused private "invokeAndWait" method.(İÁ—“úÿÿÿÿ

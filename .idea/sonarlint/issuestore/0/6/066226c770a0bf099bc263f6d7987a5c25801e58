@@ -1,0 +1,94 @@
+
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ğĞ
+^
+java:S2259¿"BA "NullPointerException" could be thrown; "gzos" is nullable here.(ãîõ—ûÿÿÿÿ
+Y
+java:S2259Š"BA "NullPointerException" could be thrown; "gzis" is nullable here.(§Ù…ù
+X
+java:S2259µ"AA "NullPointerException" could be thrown; "ois" is nullable here.(¨ÿÃš
+X
+java:S2259ï"AA "NullPointerException" could be thrown; "bos" is nullable here.(Éï‰­
+X
+java:S2259Ò"AA "NullPointerException" could be thrown; "bos" is nullable here.(Éï‰­
+W
+java:S2259º"AA "NullPointerException" could be thrown; "oos" is nullable here.(İÛĞK
+]
+java:S2259È"AA "NullPointerException" could be thrown; "bis" is nullable here.(ö˜Øüÿÿÿÿ
+^
+java:S2259°"BA "NullPointerException" could be thrown; "bais" is nullable here.(ûØõÏùÿÿÿÿ
+^
+java:S2259³"BA "NullPointerException" could be thrown; "gzos" is nullable here.(ãîõ—ûÿÿÿÿ
+}
+java:S4165­"aRemove this useless assignment; "obj" already holds the assigned value along all execution paths.(ĞÙÖÌûÿÿÿÿ
+
+java:S4165Ï"eRemove this useless assignment; "success" already holds the assigned value along all execution paths.(Íñˆ¡ÿÿÿÿÿ
+
+java:S4165ì"eRemove this useless assignment; "success" already holds the assigned value along all execution paths.(Íñˆ¡ÿÿÿÿÿ
+h
+java:S1845¹"QRename method "decode" to prevent any misunderstanding/clash with field "DECODE".(¥©´¤
+m
+java:S1845ä"QRename method "decode" to prevent any misunderstanding/clash with field "DECODE".(µéâùÿÿÿÿ
+T
+java:S4719q"9Replace charset name argument with StandardCharsets.UTF_8(ÍëŒÍúÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(«Ííîşÿÿÿÿ
+F
+java:S2093©"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+P
+java:S4719Ğ"9Replace charset name argument with StandardCharsets.UTF_8( Ÿ¸š
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¦ŠÄ³üÿÿÿÿ
+F
+java:S2093§"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+P
+java:S4719Ä"9Replace charset name argument with StandardCharsets.UTF_8( Ÿ¸š
+P
+java:S4719â"9Replace charset name argument with StandardCharsets.UTF_8(ÁèØ’
+R	java:S125…"<This block of commented-out lines of code should be removed.(âŒÏš
+W	java:S125"<This block of commented-out lines of code should be removed.(Ô­®ùúÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(ˆ©ßşùÿÿÿÿ
+8
+java:S1110Ÿ"!Remove these useless parentheses.(„Áµ
+@	java:S106¥"+Replace this use of System.out by a logger.(©§î
+F	java:S106¦"+Replace this use of System.out by a logger.(…±‚˜ûÿÿÿÿ
+A	java:S106§"+Replace this use of System.out by a logger.(ˆóÀë
+@	java:S106¨"+Replace this use of System.out by a logger.(‘ææ
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥©´¤
+F	java:S106Ó"+Replace this use of System.err by a logger.(…šİúúÿÿÿÿ
+=
+java:S1168Ô"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(µéâùÿÿÿÿ
+P
+java:S4719ç"9Replace charset name argument with StandardCharsets.UTF_8(İø¼
+B
+java:S1905ñ"&Remove this unnecessary cast to "int".(¸ë×åıÿÿÿÿ
+F
+java:S2093ø"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093§"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093É"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+P
+java:S4719é"9Replace charset name argument with StandardCharsets.UTF_8(–ßğ‹
+F
+java:S2093æ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+A	java:S106‹"+Replace this use of System.err by a logger.(ßåŠ¬
+=
+java:S1168Œ"&Return an empty array instead of null.(¥¹ï
+F	java:S106›"+Replace this use of System.err by a logger.(şĞÌìùÿÿÿÿ
+F
+java:S2093ƒ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+U
+java:S4719Ã"9Replace charset name argument with StandardCharsets.UTF_8(åÉùÿÿÿÿ
+A	java:S106Å"+Replace this use of System.err by a logger.(åíüü
+F
+java:S2093´"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Ÿœãºùÿÿÿÿ
+R	java:S125ö"<This block of commented-out lines of code should be removed.(öõ¼á
+R	java:S125é"<This block of commented-out lines of code should be removed.(ÒŠª¯
+<
+java:S3398·"%Move this method into "OutputStream".(îÛ°–
+á
+java:S6541•"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 67 to 64, Complexity from 19 to 14, Nesting Level from 5 to 2, Number of Variables from 9 to 6.(Ÿœãºùÿÿÿÿ

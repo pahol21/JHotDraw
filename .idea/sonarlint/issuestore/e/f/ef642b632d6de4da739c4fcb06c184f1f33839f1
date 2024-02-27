@@ -1,0 +1,42 @@
+
+p
+java:S2293≥"YReplace the type specification in this constructor call with the diamond operator ("<>").(˘ÀùΩ
+p
+java:S2293∏"YReplace the type specification in this constructor call with the diamond operator ("<>").(˘ÀùΩ
+I
+java:S1121X".Extract the assignment out of this expression.(·˘ﬁâ˝ˇˇˇˇ
+D
+java:S1121Z".Extract the assignment out of this expression.(•¯ñ¬
+D
+java:S1121\".Extract the assignment out of this expression.(”¥‚÷
+I
+java:S1121^".Extract the assignment out of this expression.(å◊‡†¯ˇˇˇˇ
+I
+java:S1121`".Extract the assignment out of this expression.(Œ·¯¥˙ˇˇˇˇ
+D
+java:S1121c".Extract the assignment out of this expression.(¥¬˛ß
+D
+java:S1121e".Extract the assignment out of this expression.(î†®‰
+I
+java:S1121g".Extract the assignment out of this expression.(µ›ü˝˝ˇˇˇˇ
+I
+java:S1121i".Extract the assignment out of this expression.(ìÁ¸Ω¯ˇˇˇˇ
+I
+java:S1121k".Extract the assignment out of this expression.(‰î∫©˚ˇˇˇˇ
+r
+java:S1450¡"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(¥úΩùˇˇˇˇˇ
+u
+java:S1450¬"YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(À£≥–ˇˇˇˇˇ
+u
+java:S1450√"^Remove the "toolButtonGroup" field and declare it as a local variable in the relevant methods.(óä Ù
+>
+java:S19482"(Make "editor" transient or serializable.(≥ö‡¶
+V	java:S125S"<This block of commented-out lines of code should be removed.(Ù⁄„ä˝ˇˇˇˇ
+Z
+java:S1134R"DTake the required action to fix the issue indicated by this comment.(Ÿø≤·
+Q
+java:S1117q";Rename "drawing" which hides the field declared at line 49.(ˇÂ±±
+F
+java:S10681"+Remove this unused "drawing" private field.(“‚ÈÉ˚ˇˇˇˇ
+J
+java:S1068√"3Remove this unused "toolButtonGroup" private field.(óä Ù

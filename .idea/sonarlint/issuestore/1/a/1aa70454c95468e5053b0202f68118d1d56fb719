@@ -1,0 +1,61 @@
+
+n
+java:S1192,"SDefine a constant instead of duplicating this literal " is not accessible" 9 times.(¢Çá¥øÿÿÿÿ
+y
+java:S1488)"^Immediately return this expression instead of assigning it to the temporary variable "result".(ùõğûÿÿÿÿ
+s
+java:S1488@"^Immediately return this expression instead of assigning it to the temporary variable "result".(»é’,
+t
+java:S1488V"^Immediately return this expression instead of assigning it to the temporary variable "result".(¦¹í™
+u
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(—İ¡Ä
+z
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ùõğûÿÿÿÿ
+1
+java:S3878("Remove this array creation.(íÈ¶Ï
+^
+java:S3878)"CDisambiguate this call by either casting as "Object" or "Object[]".(ùõğûÿÿÿÿ
+S
+java:S3878?"8Remove this array creation and simply pass the elements.(¢ÎÒşÿÿÿÿ
+X
+java:S3878@"CDisambiguate this call by either casting as "Object" or "Object[]".(»é’,
+1
+java:S3878U"Remove this array creation.(ï§úƒ
+Y
+java:S3878V"CDisambiguate this call by either casting as "Object" or "Object[]".(¦¹í™
+2
+java:S3878Ê"Remove this array creation.(íÈ¶Ï
+_
+java:S3878Ë"CDisambiguate this call by either casting as "Object" or "Object[]".(ùõğûÿÿÿÿ
+2
+java:S3878Ü"Remove this array creation.(íÈ¶Ï
+_
+java:S3878İ"CDisambiguate this call by either casting as "Object" or "Object[]".(ùõğûÿÿÿÿ
+2
+java:S3878î"Remove this array creation.(íÈ¶Ï
+_
+java:S3878ï"CDisambiguate this call by either casting as "Object" or "Object[]".(ùõğûÿÿÿÿ
+2
+java:S3878€"Remove this array creation.(íÈ¶Ï
+_
+java:S3878"CDisambiguate this call by either casting as "Object" or "Object[]".(ùõğûÿÿÿÿ
+2
+java:S3878’"Remove this array creation.(ï§úƒ
+Z
+java:S3878“"CDisambiguate this call by either casting as "Object" or "Object[]".(¦¹í™
+N
+java:S3878£"8Remove this array creation and simply pass the elements.(øºáM
+_
+java:S3878¤"CDisambiguate this call by either casting as "Object" or "Object[]".(Óîªˆşÿÿÿÿ
+T
+java:S3878¶"8Remove this array creation and simply pass the elements.(¬ÖÃ¾ıÿÿÿÿ
+_
+java:S3878·"CDisambiguate this call by either casting as "Object" or "Object[]".(Óîªˆşÿÿÿÿ
+T
+java:S3878É"8Remove this array creation and simply pass the elements.(ç…Êáùÿÿÿÿ
+_
+java:S3878Ê"CDisambiguate this call by either casting as "Object" or "Object[]".(Óîªˆşÿÿÿÿ
+T
+java:S3878Ü"8Remove this array creation and simply pass the elements.(°Ä‰şÿÿÿÿ
+_
+java:S3878İ"CDisambiguate this call by either casting as "Object" or "Object[]".(Óîªˆşÿÿÿÿ

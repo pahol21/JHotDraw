@@ -1,0 +1,45 @@
+
+e
+java:S1192¨"IDefine a constant instead of duplicating this literal "datafile" 3 times.(Ø•æüÿÿÿÿ
+?
+java:S1604¼"(Make this anonymous inner class a lambda(Ù‡Ö
+D
+java:S1604£"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü·úÿÿÿÿ
+_
+java:S1134-"DTake the required action to fix the issue indicated by this comment.(ÒÉËÁıÿÿÿÿ
+_
+java:S11340"DTake the required action to fix the issue indicated by this comment.(ÇÒ¶Áÿÿÿÿÿ
+b
+java:S57386"GRemove this call to a deprecated class, it has been marked for removal.(ÛÃµ¿ùÿÿÿÿ
+Q	java:S125E"<This block of commented-out lines of code should be removed.(œÚ›
+I
+java:S1874m".Remove this use of "Locale"; it is deprecated.(İ¤û¢ıÿÿÿÿ
+@
+java:S1181t"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+@
+java:S1181~"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+u
+java:S2142©"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+F	java:S106É"+Replace this use of System.out by a logger.(ÄË—úÿÿÿÿ
+\
+java:S2147è"ECombine this catch with the one at line 230, which has the same body.(ßÈ´
+U
+java:S4719ä"9Replace charset name argument with StandardCharsets.UTF_8(±Ê‰¼şÿÿÿÿ
+F
+java:S2093â"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+B
+java:S1874¶"+Remove this use of "URL"; it is deprecated.(ë”Ç’
+F
+java:S2093Â"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+c
+java:S5738ò"GRemove this call to a deprecated class, it has been marked for removal.(å²œªüÿÿÿÿ
+A
+java:S1181õ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+G
+java:S1874ü"+Remove this use of "URL"; it is deprecated.(§ôãáşÿÿÿÿ
+e
+java:S3252§"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+K
+java:S1144Ø"/Remove this unused private "getDrawing" method.(ïš²Úùÿÿÿÿ

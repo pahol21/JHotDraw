@@ -1,0 +1,38 @@
+
+k
+java:S1192Õ"TUse already-defined constant 'LINER_PROPERTY' instead of duplicating its value here.(Øœ‹Œ
+E
+java:S1066S"/Merge this if statement with the enclosing one.(®ü°„
+K
+java:S1066Ì"/Merge this if statement with the enclosing one.(í¹ÓÞùÿÿÿÿ
+K
+java:S1066Õ"/Merge this if statement with the enclosing one.(í¹ÓÞùÿÿÿÿ
+a
+java:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(Ö±¬Ë
+Q	java:S110("<This class has 6 parents which is greater than 5 authorized.(ÿý¶ª
+˜
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ¤¾¥
+
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õãž±úÿÿÿÿ
+–
+java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆŽ²
+B
+java:S19482"'Make "liner" transient or serializable.(¯æËØúÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(„¥ñ÷
+7
+java:S1116["Remove this empty statement.(ôŸŽìúÿÿÿÿ
+7	java:S131y""Add a default case to this switch.(Ö±¬Ë
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ƒýÊ™
+W	java:S125õ"<This block of commented-out lines of code should be removed.(§°ÓÖùÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(Á¼ùò
+j
+java:S2975×"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(š™Šˆ
+[
+java:S1134Ý"DTake the required action to fix the issue indicated by this comment.(ŠèÒù
+W	java:S125ë"<This block of commented-out lines of code should be removed.(‡ä×ùÿÿÿÿ
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(úÔè«úÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(ú¯Óºýÿÿÿÿ
+[
+java:S1134­"DTake the required action to fix the issue indicated by this comment.(½Ê¿Í

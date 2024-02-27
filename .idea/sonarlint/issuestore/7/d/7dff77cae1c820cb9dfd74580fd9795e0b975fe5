@@ -1,0 +1,25 @@
+
+T
+java:S3878“"8Remove this array creation and simply pass the elements.(™¢çéùÿÿÿÿ
+_
+java:S3878”"CDisambiguate this call by either casting as "Object" or "Object[]".(ëñ¨¯ýÿÿÿÿ
+A	java:S106–"+Replace this use of System.err by a logger.(€ýÇÍ
+O
+java:S3878©"8Remove this array creation and simply pass the elements.(Šêú’
+_
+java:S3878ª"CDisambiguate this call by either casting as "Object" or "Object[]".(Ì”Åëÿÿÿÿÿ
+A	java:S106¬"+Replace this use of System.err by a logger.(Èäçõ
+O
+java:S3878õ"8Remove this array creation and simply pass the elements.(Â¼ƒæ
+Z
+java:S3878ø"CDisambiguate this call by either casting as "Object" or "Object[]".(ðŽÒ 
+F	java:S106ú"+Replace this use of System.err by a logger.(¦ë†ëþÿÿÿÿ
+F	java:S106ü"+Replace this use of System.err by a logger.(Žç’Íüÿÿÿÿ
+M
+java:S1172›"1Remove this unused method parameter "appleEvent".(Ž«ó‘ûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(·îºôýÿÿÿÿ
+T
+java:S3878Ê"8Remove this array creation and simply pass the elements.(†Žž§úÿÿÿÿ
+_
+java:S3878Ì"CDisambiguate this call by either casting as "Object" or "Object[]".(¹ØšŽùÿÿÿÿ
+A	java:S106Î"+Replace this use of System.err by a logger.(Åãõõ

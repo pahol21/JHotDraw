@@ -1,0 +1,32 @@
+
+r	java:S127c"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸ÓÑÎúÿÿÿÿ
+r	java:S127m"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸ÓÑÎúÿÿÿÿ
+@
+java:S1172#"+Remove this unused method parameter "join".(âÜ´{
+V	java:S125'"<This block of commented-out lines of code should be removed.(Ø„ãÕÿÿÿÿÿ
+_
+java:S11341"DTake the required action to fix the issue indicated by this comment.(Ê¶Å€ûÿÿÿÿ
+7	java:S1314""Add a default case to this switch.(ÜŸ•
+Y
+java:S11556">Use isEmpty() to check whether the collection is empty or not.(ÂÑçŸÿÿÿÿÿ
+Y
+java:S1155N">Use isEmpty() to check whether the collection is empty or not.(ÂÑçŸÿÿÿÿÿ
+h
+java:S3776W"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ËØ€ß
+T
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(µ·ç
+F
+java:S1197å"*Move the array designators [] to the type.(ßè©ëøÿÿÿÿ
+F
+java:S1197é"*Move the array designators [] to the type.(üÉÃûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(®‰Š†úÿÿÿÿ
+F
+java:S1068"0Remove this unused "outlineWidth" private field.(‡“Š³
+E
+java:S1068"*Remove this unused "dashes" private field.(“Ã™úÿÿÿÿÿ
+H
+java:S1068"-Remove this unused "dashPhase" private field.(¨ºÄõøÿÿÿÿ
+Q
+java:S1144å"5Remove this unused private "computeThickLine" method.(ßè©ëøÿÿÿÿ
+İ
+java:S6541W"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 134 to 64, Complexity from 21 to 14, Nesting Level from 3 to 2, Number of Variables from 16 to 6.(ËØ€ß

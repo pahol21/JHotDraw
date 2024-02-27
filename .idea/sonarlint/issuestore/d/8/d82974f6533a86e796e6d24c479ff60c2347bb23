@@ -1,0 +1,29 @@
+
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+o
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+u
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¦–Üûÿÿÿÿ
+f
+java:S1192Y"PDefine a constant instead of duplicating this literal "view.toggleGrid" 4 times.(¹ ˆ
+o
+java:S1192V"YDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 3 times.(Â‚Ÿ§
+D
+java:S1121Y".Extract the assignment out of this expression.(¹ ˆ
+C
+java:S1121]".Extract the assignment out of this expression.(»‘Ù}
+—
+java:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢™…‚
+y
+java:S4144Å"bUpdate this method so that its implementation is not identical to "createOpenChooser" on line 190.(ÍåŞß
+D
+java:S1948K")Make "actions" transient or serializable.(Œ¹ßÄøÿÿÿÿ
+Q
+java:S39856"6Remove this unused private "ToolButtonListener" class.(şıÔ‘ÿÿÿÿÿ
+5
+java:S2129]" Remove this "Double" constructor(»‘Ù}
+]
+java:S5738]"HRemove this call to a deprecated method, it has been marked for removal.(»‘Ù}
+F
+java:S1068K"+Remove this unused "actions" private field.(Œ¹ßÄøÿÿÿÿ

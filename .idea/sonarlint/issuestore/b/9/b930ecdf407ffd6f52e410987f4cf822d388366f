@@ -1,0 +1,17 @@
+
+K
+java:S3740£"/Provide the parametrized type for this generic.(µğıÿÿÿÿ
+?
+java:S1604ç"(Make this anonymous inner class a lambda(¨ïĞò
+@
+java:S1948T"%Make "app" transient or serializable.(ëÖÃ¬úÿÿÿÿ
+A
+java:S1172`"+Remove this unused method parameter "view".(Òˆ‡ô
+h
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ßêÉİ
+i
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(à®äº
+u
+java:S2142Ä"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+N
+java:S1117¹"7Rename "app" which hides the field declared at line 84.(›úß®

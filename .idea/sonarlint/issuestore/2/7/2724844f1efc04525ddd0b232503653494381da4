@@ -1,0 +1,50 @@
+
+o
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê’Ú
+o
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(çëıŠ
+p
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(»êöÜ
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨¾Ÿ˜
+p
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê’Ú
+p
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(çëıŠ
+z
+java:S1192"cDefine a constant instead of duplicating this literal "attribute.canvasHeight.toolTipText" 4 times.(üÍŒ
+x
+java:S1192r"bDefine a constant instead of duplicating this literal "attribute.canvasWidth.toolTipText" 4 times.(’ŸÔˆ
+{
+java:S11923"`Define a constant instead of duplicating this literal "org.jhotdraw.samples.svg.Labels" 3 times.(®èååüÿÿÿÿ
+a
+java:S1301;"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ
+7	java:S131;""Add a default case to this switch.(ş™ÅŞ
+D
+java:S1659j")Declare "heightLabel" on a separate line.(ĞËˆäûÿÿÿÿ
+D
+java:S1659k")Declare "heightField" on a separate line.(’÷Šúÿÿÿÿ
+A
+java:S1481I"&Remove this unused "d" local variable.(ô–Äçüÿÿÿÿ
+Y
+java:S3252X"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(¶—İ­
+Y
+java:S3252"BUse static access with "javax.swing.SwingConstants" for "LEADING".(ßÆ¶“
+Y
+java:S3252œ"BUse static access with "javax.swing.SwingConstants" for "LEADING".(§„ê
+V
+java:S3252Á"?Use static access with "javax.swing.SwingConstants" for "LEFT".(±¹‘µ
+\
+java:S3252Õ"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(ÆÃä×şÿÿÿÿ
+Y
+java:S3252Ü"BUse static access with "javax.swing.SwingConstants" for "LEADING".(¶„Á
+Z
+java:S3252å"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(÷ß•Á
+Y
+java:S3252Š"BUse static access with "javax.swing.SwingConstants" for "LEADING".(ßÆ¶“
+Y
+java:S3252£"BUse static access with "javax.swing.SwingConstants" for "LEADING".(§„ê
+s
+java:S2177Ì"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+O
+java:S1144Ì"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

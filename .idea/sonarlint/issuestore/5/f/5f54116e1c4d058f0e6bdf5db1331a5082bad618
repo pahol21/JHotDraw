@@ -1,0 +1,19 @@
+
+ò
+java:S1186º"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä›ßÚ
+D
+java:S1948B".Make "eventHandler" transient or serializable.(êäÎ¥
+D
+java:S1948H".Make "masterHandle" transient or serializable.(ñçÿÆ
+C
+java:S1948I"-Make "multicaster" transient or serializable.(®éœ˚
+I
+java:S1948N".Make "hoverHandles" transient or serializable.(˘Ωúä˝ˇˇˇˇ
+T
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(—§üê
+Q	java:S125o"<This block of commented-out lines of code should be removed.(„¡ò
+Z
+java:S1134n"DTake the required action to fix the issue indicated by this comment.(ÅªÄº
+W	java:S125Á"<This block of commented-out lines of code should be removed.(êüÃ∏˚ˇˇˇˇ
+i
+java:S3776˛"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(°éâ„

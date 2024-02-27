@@ -1,0 +1,15 @@
+
+T
+java:S5993G"9Change the visibility of this constructor to "protected".(Ò±¼ôÿÿÿÿÿ
+>
+java:S19483"(Make "editor" transient or serializable.(®¡‡³
+V	java:S1258"<This block of commented-out lines of code should be removed.(¸ýÆ²ùÿÿÿÿ
+i
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(æÎ±Œ
+K
+java:S1874è"4Remove this use of "getModifiers"; it is deprecated.(–¶ÇÌ
+K
+java:S1874î"4Remove this use of "getModifiers"; it is deprecated.(Ý¿¸ƒ
+K
+java:S1874€"4Remove this use of "getModifiers"; it is deprecated.(óõªä
+W	java:S125 "<This block of commented-out lines of code should be removed.(º´ã¡úÿÿÿÿ

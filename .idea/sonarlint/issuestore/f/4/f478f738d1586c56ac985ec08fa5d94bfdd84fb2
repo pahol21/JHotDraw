@@ -1,0 +1,7 @@
+
+F
+java:S1948 "+Make "displayer" transient or serializable.(½ŒÒíúÿÿÿÿ
+r
+java:S2177s"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+N
+java:S1144s"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

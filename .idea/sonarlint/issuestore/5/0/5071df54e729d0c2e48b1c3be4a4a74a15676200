@@ -1,0 +1,12 @@
+
+b
+java:S1301Ò"KReplace this "switch" statement by "if" statements to increase readability.(Ö±¬Ë
+N
+java:S2589Ê"7Remove this expression which always evaluates to "true"(­‹¸²
+T
+java:S5993="9Change the visibility of this constructor to "protected".(ßí¢Òüÿÿÿÿ
+o
+java:S2975Ä"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¬·´Þùÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(Ñ¤Ò²ýÿÿÿÿ
+8	java:S131Ò""Add a default case to this switch.(Ö±¬Ë
+W	java:S125í"<This block of commented-out lines of code should be removed.(Àù¢¢ÿÿÿÿÿ

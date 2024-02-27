@@ -1,0 +1,9 @@
+
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ªÔ´ûÿÿÿÿ
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(è©Êà
+m
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(öŽØ—úÿÿÿÿ
+m
+java:S2786'"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(É¡‰Þüÿÿÿÿ

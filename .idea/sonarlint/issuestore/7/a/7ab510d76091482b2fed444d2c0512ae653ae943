@@ -1,0 +1,113 @@
+
+o
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã´¬Øüÿÿÿÿ
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(²…Ÿ¤
+u
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(´µ¾Êúÿÿÿÿ
+b
+java:S1192¯"KDefine a constant instead of duplicating this literal "> element." 4 times.(…Êª
+`
+java:S1192Þ"IDefine a constant instead of duplicating this literal "> child " 3 times.(ƒ¹þØ
+u
+java:S1192Þ"^Define a constant instead of duplicating this literal "ODGStylesReader unsupported <" 8 times.(ƒ¹þØ
+c
+java:S1192À"GDefine a constant instead of duplicating this literal "family" 3 times.(ÑöÚŸþÿÿÿÿ
+f
+java:S1104'"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+h
+java:S1104("RMake family a static final constant or non-public and provide accessors if needed.(àê¾ä
+l
+java:S1104)"VMake parentName a static final constant or non-public and provide accessors if needed.(íž°Û
+J
+java:S2755„"3Disable access to external entities in XML parsing.(²µŸš
+e
+java:S3824Ž"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(”×Òè
+F
+java:S2160$"+Override the "equals" method in this class.(¹„¨ûÿÿÿÿ
+A
+java:S1452R"&Remove usage of generic wildcard type.(÷¸º°ÿÿÿÿÿ
+Q	java:S125S"<This block of commented-out lines of code should be removed.(™ÇÉ—
+Q	java:S125r"<This block of commented-out lines of code should be removed.(–Âè
+F	java:S106¨"+Replace this use of System.out by a logger.(ÛÀ™àÿÿÿÿÿ
+i
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ñò‰Ð
+F	java:S106Ä"+Replace this use of System.out by a logger.(·Ê³üÿÿÿÿ
+A	java:S106Þ"+Replace this use of System.out by a logger.(ƒ¹þØ
+A	java:S106í"+Replace this use of System.out by a logger.(Úð…¹
+F	java:S106ý"+Replace this use of System.out by a logger.(—Â³åÿÿÿÿÿ
+h
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(´îÀ)
+A	java:S106Ž"+Replace this use of System.out by a logger.(Úð…¹
+A	java:S106"+Replace this use of System.out by a logger.(ƒ¹þØ
+F	java:S106¢"+Replace this use of System.out by a logger.(—Â³åÿÿÿÿÿ
+ƒ
+java:S1130­"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(”è§
+?
+java:S1172­"(Remove this unused method parameter "a".(”è§
+A	java:S106¯"+Replace this use of System.out by a logger.(…Êª
+O
+java:S1854í"8Remove this useless assignment to local variable "name".(„÷ó‘
+M
+java:S1854ì"6Remove this useless assignment to local variable "ns".(è¸™¼
+`
+java:S1134Ë"DTake the required action to fix the issue indicated by this comment.(¼Å€ˆÿÿÿÿÿ
+`
+java:S1134å"DTake the required action to fix the issue indicated by this comment.(ƒãŒ¢ûÿÿÿÿ
+[
+java:S1134ç"DTake the required action to fix the issue indicated by this comment.(îÁé­
+>
+java:S1481ì"'Remove this unused "ns" local variable.(è¸™¼
+@
+java:S1481í")Remove this unused "name" local variable.(„÷ó‘
+R	java:S125î"<This block of commented-out lines of code should be removed.(ì–†å
+i
+java:S3776ý"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÏÀî¹
+A	java:S106‹"+Replace this use of System.out by a logger.(¯¾°ñ
+A	java:S106¥"+Replace this use of System.out by a logger.(ƒ¹þØ
+n
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(–žŽíøÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(ù…Œ“ùÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(£òŸ¤ùÿÿÿÿ
+A	java:S106Ü"+Replace this use of System.out by a logger.(ÁÖ÷Í
+ˆ
+java:S1130÷"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¡Ê•®úÿÿÿÿ
+I
+java:S1172÷"-Remove this unused method parameter "styles".(¡Ê•®úÿÿÿÿ
+A	java:S106ù"+Replace this use of System.out by a logger.(…Êª
+ˆ
+java:S1130…"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(çµà”ýÿÿÿÿ
+I
+java:S1172…"-Remove this unused method parameter "styles".(çµà”ýÿÿÿÿ
+A	java:S106‡"+Replace this use of System.out by a logger.(…Êª
+ƒ
+java:S1130¤"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÀÞ±
+N
+java:S1172¤"7Remove these unused method parameters "elem", "styles".(ÀÞ±
+R	java:S125¥"<This block of commented-out lines of code should be removed.(þäÏí
+ƒ
+java:S1130°"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Öê–ž
+D
+java:S1172°"-Remove this unused method parameter "styles".(Öê–ž
+A	java:S106²"+Replace this use of System.out by a logger.(…Êª
+ƒ
+java:S1130Â"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Æî½¡
+N
+java:S1172Â"7Remove these unused method parameters "elem", "styles".(Æî½¡
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(þäÏí
+ˆ
+java:S1130Ó"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(í¦¹›ÿÿÿÿÿ
+N
+java:S1172Ó"2Remove these unused method parameters "elem", "a".(í¦¹›ÿÿÿÿÿ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(þäÏí
+ˆ
+java:S1130ä"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(öŠæ†ÿÿÿÿÿ
+N
+java:S1172ä"2Remove these unused method parameters "elem", "a".(öŠæ†ÿÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(þäÏí
+ƒ
+java:S1130ñ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(úšñ
+ˆ
+java:S1130“"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(îÖÿ ùÿÿÿÿ

@@ -1,0 +1,9 @@
+
+C
+java:S1604:"(Make this anonymous inner class a lambda(ΨΈ°ηψÿÿÿÿ
+P
+java:S1948!"5Make "applicationListener" transient or serializable.(ϋηνήόÿÿÿÿ
+r
+java:S21779"WRename this method; there is a "private" method in the parent class with the same name.(”Ρκδÿÿÿÿÿ
+Y
+java:S1155S">Use isEmpty() to check whether the collection is empty or not.(λΞΒ¨ψÿÿÿÿ

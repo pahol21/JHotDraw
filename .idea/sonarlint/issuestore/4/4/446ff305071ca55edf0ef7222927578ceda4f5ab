@@ -1,0 +1,15 @@
+
+F
+java:S1066õ"/Merge this if statement with the enclosing one.(à„¾¢
+g
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ƒã„
+\
+java:S3252Œ"@Use static access with "java.text.CharacterIterator" for "DONE".(—”âžúÿÿÿÿ
+i
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ùíëÛ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(­‰¡Ì
+R	java:S125á"<This block of commented-out lines of code should be removed.(Žˆµ˜
+\
+java:S3252â"@Use static access with "java.text.CharacterIterator" for "DONE".(ƒ­²Šûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(º™Î×øÿÿÿÿ
+R	java:S125í"<This block of commented-out lines of code should be removed.(Ô©˜ 

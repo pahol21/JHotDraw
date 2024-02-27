@@ -1,0 +1,18 @@
+
+}
+java:S1488,"bImmediately return this expression instead of assigning it to the temporary variable "components".(½¸åÜøÿÿÿÿ
+h	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îóåÃıÿÿÿÿ
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ğ¤ˆ¸øÿÿÿÿ
+d	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áìŞØ
+i	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù•¸‚ûÿÿÿÿ
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„š˜µúÿÿÿÿ
+i	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àñ†¡ıÿÿÿÿ
+d	java:S100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó™Ü
+d	java:S100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªìƒ
+i	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å§¼‘úÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÿ„Ûùÿÿÿÿ
+i	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïèÈÅÿÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶§€
+H
+java:S1172"1Remove this unused method parameter "colorvalue".(É¶§€

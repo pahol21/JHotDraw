@@ -1,0 +1,41 @@
+
+—
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã—â´
+3
+java:S1118$"Hide this public constructor.(Ã—â´
+Z
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(½²¹
+[
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(¸ùùê
+[
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(èÕ•«
+`
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(“æÚøÿÿÿÿ
+[
+java:S1124P"EReorder the modifiers to comply with the Java Language Specification.(¦åÃ×
+[
+java:S1124T"EReorder the modifiers to comply with the Java Language Specification.(÷™çŞ
+[
+java:S1124X"EReorder the modifiers to comply with the Java Language Specification.(”ªªĞ
+[
+java:S1124\"EReorder the modifiers to comply with the Java Language Specification.(í—´Õ
+[
+java:S1124`"EReorder the modifiers to comply with the Java Language Specification.(É«İÀ
+`
+java:S1124d"EReorder the modifiers to comply with the Java Language Specification.(³ä˜ùÿÿÿÿ
+`
+java:S1124h"EReorder the modifiers to comply with the Java Language Specification.(Ôû¨¹ıÿÿÿÿ
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·í¦Óùÿÿÿÿ
+6
+java:S1659q" Declare "sy" on a separate line.(¼ù®ğ
+7	java:S131û""Add a default case to this switch.( à×H
+7	java:S131¶""Add a default case to this switch.( à×H
+7	java:S131ç""Add a default case to this switch.( à×H
+7	java:S131¢""Add a default case to this switch.( à×H
+7	java:S131ç""Add a default case to this switch.( à×H
+7	java:S131¢""Add a default case to this switch.( à×H
+7	java:S131ß""Add a default case to this switch.( à×H
+7	java:S131š""Add a default case to this switch.( à×H
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

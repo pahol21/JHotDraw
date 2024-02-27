@@ -1,0 +1,30 @@
+
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶™¶úùÿÿÿÿ
+t
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÈù³ÿÿÿÿÿ
+m
+java:S1192n"WDefine a constant instead of duplicating this literal "propertiesPanelVisible" 3 times.(¾ÁÓø
+>
+java:S1604Y"(Make this anonymous inner class a lambda(ÌÚ½­
+?
+java:S1604Ã"(Make this anonymous inner class a lambda(ÈØ¿»
+?
+java:S1604ˆ"(Make this anonymous inner class a lambda(ÈØ¿»
+>
+java:S1948I"(Make "editor" transient or serializable.(³šà¦
+g
+java:S3252m"QUse static access with "javax.swing.ScrollPaneConstants" for "LOWER_LEFT_CORNER".(Ïö¶Ü
+u
+java:S2142Ì"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+F	java:S106Â"+Replace this use of System.out by a logger.(ş™¶´ıÿÿÿÿ
+a
+java:S2147“"ECombine this catch with the one at line 273, which has the same body.(è®ã¶øÿÿÿÿ
+z
+java:S2142“"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+s
+java:S2177¤"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+Q
+java:S1068J"6Remove this unused "visibleConstrainer" private field.( ¤Ğùşÿÿÿÿ
+S
+java:S1068K"8Remove this unused "invisibleConstrainer" private field.(ö³ÉÔùÿÿÿÿ

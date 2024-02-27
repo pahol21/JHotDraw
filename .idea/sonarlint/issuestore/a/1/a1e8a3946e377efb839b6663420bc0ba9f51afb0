@@ -1,0 +1,24 @@
+
+g	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∑“˝ê
+u
+java:S1149r"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Äπﬁ“
+W	java:S107Ì"<Method has 8 parameters, which is greater than 7 authorized.(Ñ∞¡Ü˙ˇˇˇˇ
+W	java:S107Ï"<Method has 9 parameters, which is greater than 7 authorized.(ü’ïå¸ˇˇˇˇ
+T
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(Ö§∂˙˚ˇˇˇˇ
+á
+java:S1130U"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ˆ—¨—
+F
+java:S1874n"+Remove this use of "URL"; it is deprecated.(Ö≈™´¯ˇˇˇˇ
+É
+java:S1130Ö"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(∞≤ë»
+à
+java:S1130ë"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(è≠ÈΩ˝ˇˇˇˇ
+à
+java:S1130õ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(·êìß˛ˇˇˇˇ
+N
+java:S1854Ÿ"7Remove this useless assignment to local variable "buf".(œ‘∂Æ
+F
+java:S1481—"*Remove this unused "total" local variable.(ÛÀç†¸ˇˇˇˇ
+^
+java:S2445“"G"in" is a method parameter, and should not be used for synchronization.(ÀÎ»∫

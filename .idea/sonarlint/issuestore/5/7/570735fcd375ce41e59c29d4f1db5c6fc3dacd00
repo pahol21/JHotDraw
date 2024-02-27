@@ -1,0 +1,9 @@
+
+C
+java:S1604,"(Make this anonymous inner class a lambda(êÚƒ“ÿÿÿÿÿ
+—
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©£²ô
+D
+java:S1948")Make "ccModel" transient or serializable.(ð¥‚ûÿÿÿÿ
+Y
+java:S3252>"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(†°˜ã

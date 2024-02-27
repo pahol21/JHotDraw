@@ -1,0 +1,42 @@
+
+K
+java:S3740š"/Provide the parametrized type for this generic.(µğıÿÿÿÿ
+K
+java:S3740¼"/Provide the parametrized type for this generic.(µğıÿÿÿÿ
+]
+java:S1192_"GDefine a constant instead of duplicating this literal "<html>" 5 times.(ûğı
+u
+java:S1192h"`Define a constant instead of duplicating this literal "application.exit.dontSaveOption" 4 times.(ˆÀ•
+
+s
+java:S1192;"XDefine a constant instead of duplicating this literal "org.jhotdraw.app.Labels" 5 times.(•Éÿ‘ûÿÿÿÿ
+^
+java:S1192b"HDefine a constant instead of duplicating this literal "</b><p>" 4 times.(÷ßì
+z
+java:S1192l"dDefine a constant instead of duplicating this literal "Quaqua.OptionPane.destructiveOption" 3 times.(ô‘Õ
+y
+java:S1192g"^Define a constant instead of duplicating this literal "application.exit.cancelOption" 6 times.(ƒ‹—øÿÿÿÿ
+e
+java:S1192_"ODefine a constant instead of duplicating this literal "OptionPane.css" 5 times.(ûğı
+w
+java:S1192f"\Define a constant instead of duplicating this literal "application.exit.saveOption" 4 times.(¢¤ø«øÿÿÿÿ
+>
+java:S1604m"(Make this anonymous inner class a lambda(©›Îê
+D
+java:S1604²"(Make this anonymous inner class a lambda(” ‹üÿÿÿÿ
+?
+java:S1604Ö"(Make this anonymous inner class a lambda(©›Îê
+?
+java:S1604î"(Make this anonymous inner class a lambda(½Ş­Ö
+H
+java:S19484"-Make "unsavedView" transient or serializable.(¡…ˆĞşÿÿÿÿ
+h
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ßêÉİ
+R	java:S125±"<This block of commented-out lines of code should be removed.(Õû•®
+R	java:S125”"<This block of commented-out lines of code should be removed.(ßÔÓÔ
+u
+java:S2142§"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+u
+java:S2142Ê"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+Ü
+java:S6541@"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 97 to 64, Complexity from 16 to 14, Nesting Level from 5 to 2, Number of Variables from 15 to 6.(ßêÉİ

@@ -1,0 +1,11 @@
+
+]
+java:S1192L"GDefine a constant instead of duplicating this literal "\" in " 3 times.(­ğÖ­
+C
+java:S1948"(Make "source" transient or serializable.(Ïó¢ùÿÿÿÿ
+E
+java:S1948%"*Make "oldValue" transient or serializable.(àœ÷şÿÿÿÿ
+@
+java:S1948)"*Make "newValue" transient or serializable.(Ñ¹Ø
+>
+java:S1068-"(Remove this unused "type" private field.(¶ŒÛÚ

@@ -1,0 +1,41 @@
+
+F
+java:S2160"+Override the "equals" method in this class.(‰×Ûíıÿÿÿÿ
+@
+java:S1197$"*Move the array designators [] to the type.(“Ì¬â
+E
+java:S1197M"*Move the array designators [] to the type.(ŠæŞ”üÿÿÿÿ
+p
+java:S3012‰"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ºöãö
+p
+java:S3012¬"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ºöãö
+A
+java:S1197Ç"*Move the array designators [] to the type.(“”ÜŠ
+D
+java:S1905Ê"(Remove this unnecessary cast to "float".(ÂÀ‹Ûûÿÿÿÿ
+>
+java:S1905Ë"(Remove this unnecessary cast to "float".(àÒ»0
+D
+java:S1905Ì"(Remove this unnecessary cast to "float".(ñÖœâúÿÿÿÿ
+A
+java:S1197Ğ"*Move the array designators [] to the type.(ª—˜
+F
+java:S1197Ñ"*Move the array designators [] to the type.(£·Äìûÿÿÿÿ
+u
+java:S3012Ö"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¿èöÑÿÿÿÿÿ
+D
+java:S1905Ù"(Remove this unnecessary cast to "float".(›ğ’Êÿÿÿÿÿ
+A
+java:S1197õ"*Move the array designators [] to the type.(“”ÜŠ
+D
+java:S1905ø"(Remove this unnecessary cast to "float".(ÂÀ‹Ûûÿÿÿÿ
+>
+java:S1905ù"(Remove this unnecessary cast to "float".(àÒ»0
+D
+java:S1905ú"(Remove this unnecessary cast to "float".(ñÖœâúÿÿÿÿ
+A
+java:S1197ş"*Move the array designators [] to the type.(ª—˜
+F
+java:S1197ÿ"*Move the array designators [] to the type.(£·Äìûÿÿÿÿ
+u
+java:S3012„"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¿èöÑÿÿÿÿÿ

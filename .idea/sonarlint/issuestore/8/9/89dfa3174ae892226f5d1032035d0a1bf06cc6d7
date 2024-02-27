@@ -1,0 +1,11 @@
+
+>
+java:S5411,"(Use a primitive boolean expression here.(óá–˜
+h
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿ÜÑç
+Z
+java:S11344"DTake the required action to fix the issue indicated by this comment.(‘Éû×
+Q	java:S125>"<This block of commented-out lines of code should be removed.(ïù
+Q	java:S125F"<This block of commented-out lines of code should be removed.(Òââø
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

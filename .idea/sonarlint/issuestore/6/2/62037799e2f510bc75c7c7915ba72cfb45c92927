@@ -1,0 +1,13 @@
+
+ú
+java:S1186I"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¶éñ¯ˇˇˇˇ
+H
+java:S1948:"2Make "rubberbandStroke" transient or serializable.(€ıÂæ
+I
+java:S1948?".Make "hoverHandles" transient or serializable.(˘Ωúä˝ˇˇˇˇ
+U
+java:S1155ô">Use isEmpty() to check whether the collection is empty or not.(—§üê
+C
+java:S1172†"-Remove this unused method parameter "toggle".(¡•ΩL
+i
+java:S3776≠"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(°éâ„

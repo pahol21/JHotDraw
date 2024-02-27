@@ -1,0 +1,36 @@
+
+o
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğîã
+D
+java:S1604ß"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+=
+java:S1948)"(Make "models" transient or serializable.(¬¦ŞQ
+?
+java:S1948F")Make "handler" transient or serializable.(Æ¶Ø…
+m
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(™ÍÖúÿÿÿÿ
+`
+java:S3252R"EUse static access with "java.awt.color.ColorSpace" for "getInstance".(ßÍşÕüÿÿÿÿ
+\
+java:S3252R"AUse static access with "java.awt.color.ColorSpace" for "CS_sRGB".(ßÍşÕüÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(õĞŸşÿÿÿÿ
+`
+java:S3252i"EUse static access with "java.awt.color.ColorSpace" for "getInstance".(£İ­ğÿÿÿÿÿ
+^
+java:S3252i"CUse static access with "java.awt.color.ColorSpace" for "CS_CIEXYZ".(£İ­ğÿÿÿÿÿ
+`
+java:S3252j"EUse static access with "java.awt.color.ColorSpace" for "getInstance".(ı˜ˆûÿÿÿÿ
+\
+java:S3252j"AUse static access with "java.awt.color.ColorSpace" for "CS_PYCC".(ı˜ˆûÿÿÿÿ
+Z
+java:S3252†"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(ÿ·©ã
+\
+java:S3252·"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ìµÒ‰
+Y
+java:S3252º"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(µÑÅ-
+[
+java:S3252º"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(µÑÅ-
+e
+java:S3252ä"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+I
+java:S1068(".Remove this unused "colorLabel" private field.(÷Ø¸ÿÿÿÿÿ

@@ -1,0 +1,44 @@
+
+o
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(ùË½
+u
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïßô—øÿÿÿÿ
+I
+java:S1121`".Extract the assignment out of this expression.(¬ª®úÿÿÿÿ
+D
+java:S1121h".Extract the assignment out of this expression.(óˆÎ¶
+D
+java:S1121p".Extract the assignment out of this expression.(‡æ„ó
+I
+java:S1121{".Extract the assignment out of this expression.(šŸÜ²ûÿÿÿÿ
+J
+java:S1121ƒ".Extract the assignment out of this expression.(Ã¸øÿÿÿÿ
+E
+java:S1121".Extract the assignment out of this expression.(ËÆ’•
+D
+java:S1121£".Extract the assignment out of this expression.(œëëm
+J
+java:S1121¶".Extract the assignment out of this expression.(ßŞúùÿÿÿÿ
+E
+java:S1121¸".Extract the assignment out of this expression.(¯ ëí
+J
+java:S1121º".Extract the assignment out of this expression.(¡´íûÿÿÿÿ
+J
+java:S1121¼".Extract the assignment out of this expression.(éôçÄúÿÿÿÿ
+E
+java:S1121¿".Extract the assignment out of this expression.(›€öü
+E
+java:S1121Á".Extract the assignment out of this expression.(½ó¼ö
+a
+java:S1301A"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ
+7	java:S131A""Add a default case to this switch.(ş™ÅŞ
+s
+java:S2177ñ"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+O
+java:S1144ñ"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

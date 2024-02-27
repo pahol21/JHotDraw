@@ -1,0 +1,21 @@
+
+u
+java:S1192ì"YDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 3 times.(¸ÿÙÎıÿÿÿÿ
+J
+java:S1121‡".Extract the assignment out of this expression.(İî÷Ùøÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Ÿ£±Ïûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(Ÿ£±Ïûÿÿÿÿ
+K
+java:S1874±"4Remove this use of "BUTTON2_MASK"; it is deprecated.(¡˜úÆ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(Ã ³¥ÿÿÿÿÿ
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(çƒĞõúÿÿÿÿ
+`
+java:S3358¬"DExtract this nested ternary operation into an independent statement.(‰ÆÜüÿÿÿÿ
+`
+java:S3358¬"DExtract this nested ternary operation into an independent statement.(‰ÆÜüÿÿÿÿ
+7	java:S131³""Add a default case to this switch.( à×H
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo
+T
+java:S1144 "8Remove this unused private "fireAreaInvalidated" method.(ëçñ¶ıÿÿÿÿ

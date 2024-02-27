@@ -1,0 +1,16 @@
+
+G
+java:S1948",Make "attributes" transient or serializable.(Í«£¬úÿÿÿÿ
+V
+java:S11729";Remove this unused method parameter "compatibleTextAction".(¤í‰Åÿÿÿÿÿ
+R
+java:S3252="7Use static access with "javax.swing.Action" for "NAME".(“×é˜úÿÿÿÿ
+S
+java:S3252>"=Use static access with "javax.swing.Action" for "SMALL_ICON".(ãïž¬
+R
+java:S3252E"7Use static access with "javax.swing.Action" for "NAME".(“×é˜úÿÿÿÿ
+S
+java:S3252F"=Use static access with "javax.swing.Action" for "SMALL_ICON".(ãïž¬
+R
+java:S3252\"7Use static access with "javax.swing.Action" for "NAME".(ÔÓó–ûÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(—ì±œýÿÿÿÿ

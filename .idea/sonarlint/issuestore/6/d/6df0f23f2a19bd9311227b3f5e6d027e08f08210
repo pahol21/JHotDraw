@@ -1,0 +1,9 @@
+
+w
+java:S1450O"aRemove the "toolBarButtonGroup" field and declare it as a local variable in the relevant methods.(Ù÷úõ
+W
+java:S3252J"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(ÓÆ∞«
+Q
+java:S1068";Remove this unused "lastSelectedChooserName" private field.(«úèı
+L
+java:S1068O"6Remove this unused "toolBarButtonGroup" private field.(Ù÷úõ

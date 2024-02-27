@@ -1,0 +1,25 @@
+
+[
+java:S2184‰"DCast one of the operands of this subtraction operation to a "float".(†èîµ
+R
+java:S1854T"7Remove this useless assignment to local variable "pad".(ò»èßþÿÿÿÿ
+R
+java:S1854c"7Remove this useless assignment to local variable "pad".(ò»èßþÿÿÿÿ
+U
+java:S1659P"?Declare "cy" and all following declarations on a separate line.(ôÏ‹Ä
+C
+java:S1481Q"(Remove this unused "pad" local variable.(ˆž°¾ýÿÿÿÿ
+`
+java:S3252S"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ÓùîÑùÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(É—º‚üÿÿÿÿ
+Q	java:S125e"<This block of commented-out lines of code should be removed.(“ïëê
+\
+java:S3252"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(‚Ûé†
+w
+java:S3923Í"[Remove this conditional structure or edit its code blocks so that they're not all the same.(œ³éÕÿÿÿÿÿ
+_
+java:S3252Í"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(œ³éÕÿÿÿÿÿ
+G
+java:S1068"2Remove this unused "DISABLED_STOPS" private field.(ÜÚ…o
+N
+java:S1068"8Remove this unused "DISABLED_STOP_COLORS" private field.(ß„˜â

@@ -1,0 +1,27 @@
+
+?
+java:S1604¹"(Make this anonymous inner class a lambda(ê„Úá
+D
+java:S1604÷"(Make this anonymous inner class a lambda(¿·×„üÿÿÿÿ
+L
+java:S19484"6Make "ownerMovementHandler" transient or serializable.(Óæ€Ì
+Q	java:S107˜"<Method has 8 parameters, which is greater than 7 authorized.( çñ\
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ù¨ÕŒúÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¤Æ·°ýÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(ÉøŠÛúÿÿÿÿ
+R	java:S125ä"<This block of commented-out lines of code should be removed.(¦¥ò²
+R	java:S125æ"<This block of commented-out lines of code should be removed.(ÊêÑÆ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(óž×¸
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÀÝì
+W	java:S125¹"<This block of commented-out lines of code should be removed.(îÐÊéûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(˜÷øÍúÿÿÿÿ
+R	java:S125þ"<This block of commented-out lines of code should be removed.(×¬àš
+i
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰ÙÓ
+H
+java:S1172¹",Remove this unused method parameter "style".(Žæ›øÿÿÿÿ
+R	java:S125ç"<This block of commented-out lines of code should be removed.(“¸Ìå

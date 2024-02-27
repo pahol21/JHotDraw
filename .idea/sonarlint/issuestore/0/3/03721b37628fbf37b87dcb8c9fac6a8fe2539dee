@@ -1,0 +1,70 @@
+
+t	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+D
+java:S1604¶"(Make this anonymous inner class a lambda(ï¯ÿ¨ıÿÿÿÿ
+g
+java:S1301¤"KReplace this "switch" statement by "if" statements to increase readability.(„“ÉÇûÿÿÿÿ
+g
+java:S1301ƒ"KReplace this "switch" statement by "if" statements to increase readability.(„“ÉÇûÿÿÿÿ
+M
+java:S1948:"2Make "selectionHandles" transient or serializable.(³¯§ûÿÿÿÿ
+I
+java:S1948<"4Make "visibleConstrainer" transient or serializable.(àÍ‚%
+Q
+java:S1948="6Make "invisibleConstrainer" transient or serializable.(î•¦Äşÿÿÿÿ
+L
+java:S1948>"6Make "secondaryHandleOwner" transient or serializable.(ĞİÅÓ
+I
+java:S1948?".Make "activeHandle" transient or serializable.(ÕŒ¦ôÿÿÿÿÿ
+M
+java:S1948@"2Make "secondaryHandles" transient or serializable.(“­éÇúÿÿÿÿ
+>
+java:S1948F"(Make "editor" transient or serializable.(³šà¦
+F
+java:S1948H"0Make "backgroundTile" transient or serializable.(·îØ
+N
+java:S1948I"3Make "handleInvalidator" transient or serializable.(”¯ Ôüÿÿÿÿ
+K
+java:S1948X"0Make "drawingBufferV" transient or serializable.(ŸòìÌüÿÿÿÿ
+F
+java:S1948\"1Make "drawingBufferNV" transient or serializable.(Õ±K
+E
+java:S1948¦".Make "eventHandler" transient or serializable.(ß—
+_
+java:S1134%"DTake the required action to fix the issue indicated by this comment.(¸àĞüÿÿÿÿ
+@
+java:S1181o"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+˜
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚Œ®
+—
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ»†P
+
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë¤Î½øÿÿÿÿ
+˜
+java:S1186£"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘¬»Ï
+R	java:S125ê"<This block of commented-out lines of code should be removed.(ßÔÃÔ
+R	java:S125ò"<This block of commented-out lines of code should be removed.(ßÔÃÔ
+W
+java:S3252Ø"AUse static access with "javax.swing.SwingConstants" for "CENTER".(íßÍ#
+n
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(³íèâûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(ÓéÖ”úÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Î˜ßµøÿÿÿÿ
+=	java:S131¤""Add a default case to this switch.(„“ÉÇûÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(ƒ× “
+h
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÚÑ‡*
+W	java:S125ó"<This block of commented-out lines of code should be removed.(ÓéÖ”úÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(Î˜ßµøÿÿÿÿ
+=	java:S131ƒ""Add a default case to this switch.(„“ÉÇûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ƒ× “
+A	java:S106è"+Replace this use of System.out by a logger.(œÕÜ´
+n
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ì“çûÿÿÿÿ
+i
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÉÙ 
+Z
+java:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(Ñ÷ˆ£úÿÿÿÿ
+7
+java:S1659‰	" Declare "ch" on a separate line.(”ŒÛ

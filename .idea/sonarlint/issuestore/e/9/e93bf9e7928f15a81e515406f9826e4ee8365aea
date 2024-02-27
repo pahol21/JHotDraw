@@ -1,0 +1,27 @@
+
+\
+java:S2184ó"ECast one of the operands of this subtraction operation to a "double".(¶Ê¾§
+\
+java:S2184ó"ECast one of the operands of this subtraction operation to a "double".(¶Ê¾§
+\
+java:S2184û"ECast one of the operands of this subtraction operation to a "double".(¶Ê¾§
+\
+java:S2184û"ECast one of the operands of this subtraction operation to a "double".(¶Ê¾§
+K
+java:S1948A"5Make "prototypeAttributes" transient or serializable.(êØê±
+B
+java:S1948W"'Make "connectors" private or transient.(ÀÍ¤ÿÿÿÿÿ
+_
+java:S11349"DTake the required action to fix the issue indicated by this comment.(÷â×€ÿÿÿÿÿ
+N
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(¬Àµïùÿÿÿÿ
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¡‘‹¨øÿÿÿÿ
+D
+java:S1185Ç"(Remove this method to simply inherit it.(ü“‹ûÿÿÿÿ
+K
+java:S1172Š"4Remove this unused method parameter "createdFigure".(…Îƒ
+S
+java:S1854–"<Remove this useless assignment to local variable "oldValue".(ÂŠü¨
+D
+java:S1481–"-Remove this unused "oldValue" local variable.(ÂŠü¨

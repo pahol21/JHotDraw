@@ -1,0 +1,14 @@
+
+t
+java:S1192k"YDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 3 times.(›¥­ïÿÿÿÿÿ
+U
+java:S1854d"?Remove this useless assignment to local variable "editNewSize".(¬Æ¡¹
+F
+java:S1481d"0Remove this unused "editNewSize" local variable.(¬Æ¡¹
+V
+java:S1854ž"?Remove this useless assignment to local variable "editNewSize".(¬Æ¡¹
+7	java:S131†""Add a default case to this switch.( à×H
+G
+java:S1481ž"0Remove this unused "editNewSize" local variable.(¬Æ¡¹
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

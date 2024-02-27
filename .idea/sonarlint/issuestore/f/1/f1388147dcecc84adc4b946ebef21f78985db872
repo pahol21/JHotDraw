@@ -1,0 +1,22 @@
+
+
+java:S1186è"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æã±¬ùÿÿÿÿ
+I
+java:S1948-"3Make "defaultAttributes" transient or serializable.(£ŠÀ¸
+M
+java:S1948."2Make "handleAttributes" transient or serializable.(ÔÒ×¶ıÿÿÿÿ
+<
+java:S1948/"&Make "tool" transient or serializable.(¯Œñæ
+=
+java:S19480"'Make "views" transient or serializable.(Á¼²š
+G
+java:S19481",Make "activeView" transient or serializable.(ÃÊ‹¬úÿÿÿÿ
+C
+java:S19483"-Make "toolHandler" transient or serializable.(ÿï’Ô
+D
+java:S1948X".Make "focusHandler" transient or serializable.(ó—†
+P	java:S125a"<This block of commented-out lines of code should be removed.(ıâø(
+O
+java:S1854Õ"8Remove this useless assignment to local variable "view".(˜—¹œ
+U
+java:S1155Õ">Use isEmpty() to check whether the collection is empty or not.(˜—¹œ

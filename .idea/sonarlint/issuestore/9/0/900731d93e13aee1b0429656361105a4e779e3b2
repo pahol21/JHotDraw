@@ -1,0 +1,9 @@
+
+ƒ
+java:S1319%"hThe type of "families" should be an interface such as "List" rather than the implementation "ArrayList".(„ôñ·øÿÿÿÿ
+t
+java:S1210+"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(±–åØøÿÿÿÿ
+i
+java:S29759"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ñôãÌ
+M
+java:S1905^"2Remove this unnecessary cast to "MutableTreeNode".(¸þ ƒùÿÿÿÿ

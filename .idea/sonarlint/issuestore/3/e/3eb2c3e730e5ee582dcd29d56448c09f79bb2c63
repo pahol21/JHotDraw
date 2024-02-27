@@ -1,0 +1,21 @@
+
+F
+java:S1066ö"/Merge this if statement with the enclosing one.(…—’®
+T
+java:S2589Ü"8Remove this expression which always evaluates to "false"(ÄŠúÿÿÿÿ
+S
+java:S2589Û"7Remove this expression which always evaluates to "true"(åØÍûúÿÿÿÿ
+T
+java:S5993*"9Change the visibility of this constructor to "protected".(ÇÄÌşÿÿÿÿÿ
+G
+java:S1948 ",Make "attributes" transient or serializable.(¶­Şõúÿÿÿÿ
+7
+java:S23268"T is not used in the method.(ÀŒ‹Çÿÿÿÿÿ
+A
+java:S1905E"&Remove this unnecessary cast to "Map".(Ë´úÕşÿÿÿÿ
+E
+java:S1905")Remove this unnecessary cast to "Number".(²ìÛšÿÿÿÿÿ
+o
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¨©í›şÿÿÿÿ
+B
+java:S1452€"&Remove usage of generic wildcard type.(ÎÑ©üÿÿÿÿ

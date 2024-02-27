@@ -1,0 +1,12 @@
+
+J
+java:S1121œ".Extract the assignment out of this expression.(Ýî÷Ùøÿÿÿÿ
+E
+java:S1659!"/Declare "controlPointIndex" on a separate line.(Àš‹»
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ãÁð˜
+W
+java:S1117ž";Rename "oldNode" which hides the field declared at line 36.(ò†­¬ÿÿÿÿÿ
+7	java:S131Ÿ""Add a default case to this switch.( à×H
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

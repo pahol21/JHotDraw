@@ -1,0 +1,38 @@
+
+t
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(™½Ìàûÿÿÿÿ
+t
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(™½Ìàûÿÿÿÿ
+>
+java:S1604m"(Make this anonymous inner class a lambda(ßúîÙ
+K
+java:S1948*"0Make "drawingActions" transient or serializable.(•ÂÊ°øÿÿÿÿ
+M
+java:S1948."2Make "selectionActions" transient or serializable.(áìÃ¬şÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(Ï“ÌÎÿÿÿÿÿ
+A	java:S106œ"+Replace this use of System.out by a logger.(™äè¼
+Z
+java:S1155·">Use isEmpty() to check whether the collection is empty or not.(¿‰×úÿÿÿÿ
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ä‚Ó
+F	java:S106À"+Replace this use of System.out by a logger.(ƒ¨´–øÿÿÿÿ
+U
+java:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(çÜ¯
+U
+java:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(çÜ¯
+U
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(êØº
+U
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(êØº
+U
+java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(¬Óáş
+U
+java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(¬Óáş
+h
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(á·ÃR
+F	java:S106Š"+Replace this use of System.out by a logger.(Ìœáûÿÿÿÿ
+F	java:S106‘"+Replace this use of System.out by a logger.(äé½şÿÿÿÿ
+A	java:S106«"+Replace this use of System.out by a logger.(¥¼±‘
+A	java:S106Ì"+Replace this use of System.out by a logger.(‹ªÙ¼
+İ
+java:S6541¾"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 69 to 64, Complexity from 20 to 14, Nesting Level from 4 to 2, Number of Variables from 12 to 6.(ä‚Ó

@@ -1,0 +1,22 @@
+
+]
+java:S1192«"FDefine a constant instead of duplicating this literal "Owner" 3 times.(ËæÄ¯
+K
+java:S1066·"/Merge this if statement with the enclosing one.(æ°ëîşÿÿÿÿ
+r
+java:S1488{"\Immediately return this expression instead of assigning it to the temporary variable "that".(­¡ñÒ
+r
+java:S1488~"\Immediately throw this expression instead of assigning it to the temporary variable "error".(œ§ Ï
+
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•’á£şÿÿÿÿ
+
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨…ó¥üÿÿÿÿ
+
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êø¨´ıÿÿÿÿ
+G
+java:S1172e"1Remove this unused method parameter "connection".(ŞĞİ‰
+i
+java:S2975y"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(ŸâËï
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

@@ -1,0 +1,6 @@
+
+|
+java:S1192Ô"`Define a constant instead of duplicating this literal "javax.swing.plaf.FontUIResource" 4 times.(É«ü°ûÿÿÿÿ
+´
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(„ªóşÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(ßûšûÿÿÿÿ

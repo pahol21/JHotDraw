@@ -1,0 +1,16 @@
+
+T
+java:S5993x"9Change the visibility of this constructor to "protected".(äàóüÿÿÿÿ
+@
+java:S19481"*Make "layouter" transient or serializable.(å±¢Ï
+W	java:S125¬"<This block of commented-out lines of code should be removed.(ÉãÄ‰şÿÿÿÿ
+E
+java:S1940¾")Use the opposite operator (">=") instead.(¼Å¾ûÿÿÿÿ
+E
+java:S1940¾")Use the opposite operator (">=") instead.(¼Å¾ûÿÿÿÿ
+U
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(Ÿ–—î
+A
+java:S1481¡"*Remove this unused "found" local variable.(ÙÍÜ
+o
+java:S2975Ô"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ò¹Üóıÿÿÿÿ

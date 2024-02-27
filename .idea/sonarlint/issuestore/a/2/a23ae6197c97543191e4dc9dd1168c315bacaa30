@@ -1,0 +1,16 @@
+
+F
+java:S1066 "/Merge this if statement with the enclosing one.(™©ß“
+Q	java:S110("<This class has 7 parents which is greater than 5 authorized.(äÜ÷î
+—
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎØó
+E
+java:S1948,"*Make "layouter" transient or serializable.(ïì¤ýúÿÿÿÿ
+7
+java:S1116V"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Z
+java:S1155¥">Use isEmpty() to check whether the collection is empty or not.(‡áÑ˜ùÿÿÿÿ
+Z
+java:S1155°">Use isEmpty() to check whether the collection is empty or not.(‡áÑ˜ùÿÿÿÿ
+o
+java:S2975®"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ð–ü¨øÿÿÿÿ

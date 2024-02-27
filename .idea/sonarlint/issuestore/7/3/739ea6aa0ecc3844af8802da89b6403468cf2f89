@@ -1,0 +1,12 @@
+
+t
+java:S1192^"YDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 4 times.(¸ÿÙÎýÿÿÿÿ
+T
+java:S22598"?A "NullPointerException" could be thrown; "r" is nullable here.(ãÐêl
+O
+java:S5993 "9Change the visibility of this constructor to "protected".(„ˆ‹ý
+h
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ë×Ñý
+n	java:S131<"YComplete cases by adding the missing enum constants or add a default case to this switch.(¹Ôñº
+D
+java:S1481R")Remove this unused "edit" local variable.(µ•²çþÿÿÿÿ

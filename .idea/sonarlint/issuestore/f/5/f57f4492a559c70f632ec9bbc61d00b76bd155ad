@@ -1,0 +1,38 @@
+
+C
+java:S1604["(Make this anonymous inner class a lambda(êÚƒ“ÿÿÿÿÿ
+œ
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğìîşÿÿÿÿ
+v
+java:S1450"ZRemove the "springPanel" field and declare it as a local variable in the relevant methods.(Ñ·ÿ½ûÿÿÿÿ
+?
+java:S1948 ")Make "ccModel" transient or serializable.(ë‘¬İ
+[
+java:S3252 "EUse static access with "java.awt.color.ColorSpace" for "getInstance".(ë‘¬İ
+W
+java:S3252 "AUse static access with "java.awt.color.ColorSpace" for "CS_sRGB".(ë‘¬İ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(¯Ÿ¤ª
+_
+java:S3252±"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(Šüùÿÿÿÿÿ
+Q
+java:S1161´":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161·":Add the "@Override" annotation above this method signature(±“‚Æ
+Z
+java:S3252Ñ"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(ı™½ì
+Q
+java:S1161Ô":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(±“‚Æ
+_
+java:S3252ñ"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(¯æşÁùÿÿÿÿ
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161÷":Add the "@Override" annotation above this method signature(±“‚Æ
+F
+java:S1172Š"*Remove this unused method parameter "evt".(ßîƒÚıÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "evt".(ºİè¡ûÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "evt".(áóäõÿÿÿÿÿ

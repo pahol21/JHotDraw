@@ -1,0 +1,45 @@
+
+j
+java:S1192ƒ"SDefine a constant instead of duplicating this literal "Illegal component:" 3 times.(à€ˆ”
+f	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊåĞ‡
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œá‹ÿÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì“§øÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â´§‹úÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¿»˜úÿÿÿÿ
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íˆ™˜úÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ı†ú
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÅ©´ÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¹µf
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÂİ üÿÿÿÿ
+l	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ç…¦ûÿÿÿÿ
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¬ÓÙ
+g	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á©€è
+f	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Åø_
+l	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çñ¥Şûÿÿÿÿ
+g	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïßÙü
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÂÑÏ
+g	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Àçå
+P
+java:S3516ú"9Refactor this method to not always return the same value.(é§¸Æ
+g	java:S116%"MRename this field "Xr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÃÅ˜ûÿÿÿÿ
+g	java:S116)"MRename this field "Yr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì€ÿÓøÿÿÿÿ
+g	java:S116-"MRename this field "Zr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÌÇñıÿÿÿÿ
+Q	java:S125a"<This block of commented-out lines of code should be removed.(‰îÚ°
+[
+java:S1659•"?Declare "yr" and all following declarations on a separate line.(³İú†şÿÿÿÿ
+[
+java:S1659Ù"?Declare "fy" and all following declarations on a separate line.(ä˜½øÿÿÿÿ
+e
+java:S1871€"IThis case's code block is the same as the block for the case on line 252.(úâúÿÿÿÿ
+e
+java:S1871ş"IThis case's code block is the same as the block for the case on line 252.(ªëÅŞúÿÿÿÿ
+=	java:S131û""Add a default case to this switch.(¬Ÿ¸Øüÿÿÿÿ
+=	java:S131ˆ""Add a default case to this switch.(¬Ÿ¸Øüÿÿÿÿ
+=	java:S131•""Add a default case to this switch.(¬Ÿ¸Øüÿÿÿÿ
+A	java:S106«"+Replace this use of System.out by a logger.(…ÅÓ²
+A	java:S106­"+Replace this use of System.out by a logger.(áø¿¹
+@	java:S106¯"+Replace this use of System.out by a logger.(ÍÍô"
+A	java:S106±"+Replace this use of System.out by a logger.(‰½åå
+A	java:S106³"+Replace this use of System.out by a logger.(‰½åå
+C
+java:S10680"(Remove this unused "SRGB" private field.(“º­‰úÿÿÿÿ

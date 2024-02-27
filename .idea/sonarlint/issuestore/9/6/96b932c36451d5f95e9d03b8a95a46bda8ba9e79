@@ -1,0 +1,23 @@
+
+N
+java:S2589¸"7Remove this expression which always evaluates to "true"(§õ®ø
+o
+java:S1450%"TRemove the "start" field and declare it as a local variable in the relevant methods.(šÜ´…þÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(ú‹´öýÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ï€¥Úþÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(âŸ²ýÿÿÿÿ
+a
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.(ÈÁª¨øÿÿÿÿ
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(•‹¾´
+\
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(•‹¾´
+`
+java:S3358¦"DExtract this nested ternary operation into an independent statement.(õêÊÆþÿÿÿÿ
+`
+java:S3358¦"DExtract this nested ternary operation into an independent statement.(õêÊÆþÿÿÿÿ
+S
+java:S1068#"8Remove this unused "connectableConnector" private field.(¡Ôõþÿÿÿÿ
+D
+java:S1068%")Remove this unused "start" private field.(šÜ´…þÿÿÿÿ

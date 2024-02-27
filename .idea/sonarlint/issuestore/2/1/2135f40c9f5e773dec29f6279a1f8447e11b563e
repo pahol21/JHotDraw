@@ -1,0 +1,20 @@
+
+^
+java:S2259“"BA "NullPointerException" could be thrown; "text" is nullable here.(Ð·ªËüÿÿÿÿ
+;
+java:S1948#"%Make "min" transient or serializable.(ê—ë¶
+;
+java:S1948%"%Make "max" transient or serializable.(È¶ùù
+h
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(´ÎÅ+
+8
+java:S2111Ö"!Use "BigDecimal.valueOf" instead.(êÏêæ
+W	java:S125á"<This block of commented-out lines of code should be removed.(÷³Íôþÿÿÿÿ
+8
+java:S2111â"!Use "BigDecimal.valueOf" instead.(êÏêæ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÉÝûí
+E
+java:S1905Ñ")Remove this unnecessary cast to "Number".(™ô‹ýÿÿÿÿ
+@
+java:S1905Û")Remove this unnecessary cast to "Number".(ÓäœÊ

@@ -1,0 +1,37 @@
+
+s
+java:S1488Ž"\Immediately return this expression instead of assigning it to the temporary variable "tool".(¹Ïßß
+R	java:S107—"<Method has 8 parameters, which is greater than 7 authorized.(ŸèŒÕ
+_
+java:S11342"DTake the required action to fix the issue indicated by this comment.(ÁØàØúÿÿÿÿ
+h
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¿ÿœ•
+V	java:S125d"<This block of commented-out lines of code should be removed.(¬Íã”úÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(Ü—¦¸ÿÿÿÿÿ
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ŸèŒÕ
+\
+java:S3252 "@Use static access with "java.text.CharacterIterator" for "DONE".(¨ÆöÅúÿÿÿÿ
+?
+java:S1659¶"(Declare "maxDescent" on a separate line.(Ëž®Ü
+R	java:S125°"<This block of commented-out lines of code should be removed.(‡å˜·
+d
+java:S1871Ó"MThis branch's code block is the same as the block for the branch on line 209.(ô¦Ó©
+D	java:S108Ù")Either remove or fill this block of code.(Ø¸±øýÿÿÿÿ
+6
+java:S2129ô" Remove this "Double" constructor(˜ÞÚU
+^
+java:S5738ô"HRemove this call to a deprecated method, it has been marked for removal.(˜ÞÚU
+j
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ããöô
+ƒ
+java:S1130®"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ôœ×¡
+ˆ
+java:S1130µ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ñ¥é”þÿÿÿÿ
+h
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ìÑG
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(Ü—¦¸ÿÿÿÿÿ
+@
+java:S1068@"*Remove this unused "DASHES" private field.(Ëø†Î
+Ý
+java:S6541—"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 88 to 64, Complexity from 22 to 14, Nesting Level from 4 to 2, Number of Variables from 30 to 6.(ŸèŒÕ

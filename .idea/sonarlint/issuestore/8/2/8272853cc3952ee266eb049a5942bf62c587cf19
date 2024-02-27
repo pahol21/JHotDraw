@@ -1,0 +1,33 @@
+
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ëè•
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼âÏ¸
+u
+java:S1488’"YImmediately return this expression instead of assigning it to the temporary variable "r".(Œî®øÿÿÿÿ
+œ
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹øŞµÿÿÿÿÿ
+œ
+java:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡æÓÑÿÿÿÿÿ
+J
+java:S1948="/Make "bufferedImage" transient or serializable.(¶—Ìüÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(è½¨´ûÿÿÿÿ
+Z
+java:S1134Z"DTake the required action to fix the issue indicated by this comment.(„©ØĞ
+j
+java:S3252¹"SUse static access with "org.jhotdraw.draw.AttributeKeys" for "getStrokeTotalWidth".(Ğšñ•
+t
+java:S3252º"XUse static access with "org.jhotdraw.draw.AttributeKeys" for "getStrokeTotalMiterLimit".(¥—êüÿÿÿÿ
+j
+java:S2975Ñ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(°Ÿä›
+A
+java:S1181Ÿ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(ûƒÛ½ıÿÿÿÿ
+A
+java:S1181Ê"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+F
+java:S2093È"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+A
+java:S1181ß"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

@@ -1,0 +1,28 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ù´ğøÿÿÿÿ
+p
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ëè•
+p
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼âÏ¸
+F
+java:S1066Ü"/Merge this if statement with the enclosing one.(€Ë‰
+s
+java:S1488ç"\Immediately return this expression instead of assigning it to the temporary variable "that".(‚ı“’
+S
+java:S2589Û"7Remove this expression which always evaluates to "true"(Á³™”üÿÿÿÿ
+S
+java:S2589Ö"7Remove this expression which always evaluates to "true"(íú üıÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(½ÇòÔıÿÿÿÿ
+Y
+java:S3252—"BUse static access with "java.awt.geom.Path2D" for "WIND_EVEN_ODD".(ë…Ã†
+Y
+java:S3252˜"BUse static access with "java.awt.geom.Path2D" for "WIND_NON_ZERO".(ÖÂÜÊ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(œ‚Ó‡
+W	java:S125ç"<This block of commented-out lines of code should be removed.(Ÿ®íŞıÿÿÿÿ
+I
+java:S1905İ"2Remove this unnecessary cast to "ODGBezierFigure".(©Ó°€
+o
+java:S2975æ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Şÿ‚Ğûÿÿÿÿ
+D
+java:S10688")Remove this unused "DEBUG" private field.(ÀâŞøÿÿÿÿ

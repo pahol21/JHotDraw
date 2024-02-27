@@ -1,0 +1,66 @@
+
+t
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰‘èİùÿÿÿÿ
+t
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¢›˜ûÿÿÿÿ
+t
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ô‚øÿÿÿÿ
+D
+java:S1604ò"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+?
+java:S1604ª"(Make this anonymous inner class a lambda(ÑÃüÓ
+D
+java:S1604¶"(Make this anonymous inner class a lambda(Úµ‚—şÿÿÿÿ
+D
+java:S1604Á"(Make this anonymous inner class a lambda(£‰Ääÿÿÿÿÿ
+?
+java:S1604Í"(Make this anonymous inner class a lambda(©«¬Â
+D
+java:S1604Ú"(Make this anonymous inner class a lambda(‹Å»üÿÿÿÿ
+D
+java:S1604æ"(Make this anonymous inner class a lambda(„¥şûÿÿÿÿ
+?
+java:S1604ğ"(Make this anonymous inner class a lambda(êİ®€
+?
+java:S1604ı"(Make this anonymous inner class a lambda(Ñ¦Ûš
+y
+java:S1488„"]Immediately return this expression instead of assigning it to the temporary variable "error".(ÈšĞÆüÿÿÿÿ
+u
+java:S1450¬"YRemove the "dumpButton" field and declare it as a local variable in the relevant methods.(Ñç³ßøÿÿÿÿ
+q
+java:S1450­"ZRemove the "eraseButton" field and declare it as a local variable in the relevant methods.(±éÚÇ
+r
+java:S1450®"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+t
+java:S1450´"]Remove the "toleranceLabel" field and declare it as a local variable in the relevant methods.(°ù–À
+E
+java:S1948+"*Make "examples" transient or serializable.(‰‘èİùÿÿÿÿ
+D
+java:S1948Y")Make "handler" transient or serializable.(®ÉÇìÿÿÿÿÿ
+—
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç¨Î§
+œ
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ
+—
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ
+œ
+java:S1186R"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ
+œ
+java:S1186V"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ
+m
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(÷Ş÷øùÿÿÿÿ
+D	java:S108°")Either remove or fill this block of code.(•Ã…½úÿÿÿÿ
+e
+java:S3252õ"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+A
+java:S1172Š"*Remove this unused method parameter "evt".(Æ‚…¤
+F
+java:S1172"*Remove this unused method parameter "evt".(Õò£şÿÿÿÿ
+@
+java:S1172‘"*Remove this unused method parameter "evt".(åµı
+A
+java:S1172¨"*Remove this unused method parameter "evt".(«î´õ
+P
+java:S1144ş"4Remove this unused private "getSquaredError" method.(¹øáíúÿÿÿÿ
+â
+java:S6541`"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 118 to 64, Complexity from 35 to 14, Nesting Level from 5 to 2, Number of Variables from 32 to 6.(÷Ş÷øùÿÿÿÿ

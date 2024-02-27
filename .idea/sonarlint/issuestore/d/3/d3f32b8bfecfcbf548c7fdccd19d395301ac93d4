@@ -1,0 +1,33 @@
+
+[
+java:S2184Ì"DCast one of the operands of this subtraction operation to a "float".(™ÕË´
+a
+java:S2259ÿ"EA "NullPointerException" could be thrown; "selRect" is nullable here.(ĞÙïøÿÿÿÿ
+a
+java:S2259"EA "NullPointerException" could be thrown; "selRect" is nullable here.(ÎîüÙüÿÿÿÿ
+a
+java:S2259Ì"EA "NullPointerException" could be thrown; "selRect" is nullable here.(Œû Íûÿÿÿÿ
+\
+java:S2259ç"EA "NullPointerException" could be thrown; "selRect" is nullable here.(ı’µì
+C
+java:S1172."(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+E
+java:S14815"*Remove this unused "mtpui" local variable.(Ä¶â‰şÿÿÿÿ
+\
+java:S3252P"GUse static access with "javax.swing.LookAndFeel" for "installProperty".(°Å‹+
+Q	java:S125y"<This block of commented-out lines of code should be removed.(©Œé¸
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¥­å¿şÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(’Åİ×şÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(ê€€ûÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¦òëûıÿÿÿÿ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(ˆÌ‚
+s
+java:S2177Ù"WRename this method; there is a "private" method in the parent class with the same name.(°ø”‹ıÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(Äº‘œùÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢›œÔ
+
+java:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€²´Èşÿÿÿÿ
+[
+java:S1144Ù"?Remove this unused private "scrollableTabLayoutEnabled" method.(°ø”‹ıÿÿÿÿ

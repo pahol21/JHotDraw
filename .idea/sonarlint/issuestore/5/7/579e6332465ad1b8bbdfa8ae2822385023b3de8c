@@ -1,0 +1,23 @@
+
+>
+java:S1604L"(Make this anonymous inner class a lambda(ÌÚ½­
+>
+java:S1604c"(Make this anonymous inner class a lambda(ı…¢€
+?
+java:S1604Æ"(Make this anonymous inner class a lambda(ÈØ¿»
+?
+java:S1604á"(Make this anonymous inner class a lambda(ÈØ¿»
+>
+java:S1948="(Make "editor" transient or serializable.(³šà¦
+g
+java:S3252`"QUse static access with "javax.swing.ScrollPaneConstants" for "LOWER_LEFT_CORNER".(Ïö¶Ü
+\
+java:S2147Ó"ECombine this catch with the one at line 207, which has the same body.(åşáÿ
+u
+java:S2142Ï"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+a
+java:S2147ì"ECombine this catch with the one at line 234, which has the same body.(è®ã¶øÿÿÿÿ
+z
+java:S2142ì"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+s
+java:S2177ı"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ

@@ -1,0 +1,15 @@
+
+F
+java:S1066Î"/Merge this if statement with the enclosing one.(ğÁÙÀ
+b
+java:S1301È"KReplace this "switch" statement by "if" statements to increase readability.(¬ñ›Ì
+G
+java:S1948(",Make "attributes" transient or serializable.(Í«£¬úÿÿÿÿ
+D
+java:S1948;".Make "creationView" transient or serializable.(²‹¾æ
+A
+java:S1172P"+Remove this unused method parameter "name".(Æ®óß
+@	java:S106~"+Replace this use of System.out by a logger.(¯ÉÏÊ
+8	java:S131È""Add a default case to this switch.(¬ñ›Ì
+F	java:S106ÿ"+Replace this use of System.out by a logger.(÷Ú¿Úùÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(ê¸ºÁıÿÿÿÿ

@@ -1,0 +1,17 @@
+
+l
+java:S1192;"VUse already-defined constant 'ENABLED_PROPERTY' instead of duplicating its value here.(§Œ¸ª
+C
+java:S1604/"(Make this anonymous inner class a lambda(áýœåøÿÿÿÿ
+>
+java:S16047"(Make this anonymous inner class a lambda(–Ù†»
+N
+java:S5993F"9Change the visibility of this constructor to "protected".(ý À
+;
+java:S1948!"%Make "app" transient or serializable.(ø«÷Ô
+<
+java:S1948""&Make "view" transient or serializable.(ØÊ»¶
+P
+java:S1948/"5Make "applicationListener" transient or serializable.(áýœåøÿÿÿÿ
+D
+java:S19487".Make "viewListener" transient or serializable.(–Ù†»

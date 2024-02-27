@@ -1,0 +1,8 @@
+
+{
+java:S1488A"eImmediately return this expression instead of assigning it to the temporary variable "relativePoint".(¤¯¥¦
+m
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÓœÈýûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(×•Ðúþÿÿÿÿ
+C
+java:S1128".Remove this unused import 'org.jhotdraw.draw'.(Î¬ïo

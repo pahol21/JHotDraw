@@ -1,0 +1,16 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(¿Ù­W
+˜
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Èí’¯
+˜
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô÷Œ¤
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì”Åûÿÿÿÿÿ
+
+java:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×Ğ‰Ïúÿÿÿÿ
+K
+java:S2065%"0Remove the "transient" modifier from this field.(ïéÒÇùÿÿÿÿ
+E
+java:S1197J"*Move the array designators [] to the type.(ôê¬Ğøÿÿÿÿ
+?
+java:S1197V"*Move the array designators [] to the type.(ä…ş\

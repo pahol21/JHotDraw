@@ -1,0 +1,11 @@
+
+œ
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü·úÿÿÿÿ
+—
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒš
+r
+java:S2177B"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+u
+java:S1128"ZRemove this unused import 'org.jhotdraw.api.gui.AttributeEditor.ATTRIBUTE_VALUE_PROPERTY'.(÷‘—ıÿÿÿÿ
+N
+java:S1144B"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

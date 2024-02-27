@@ -1,0 +1,16 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(³Î”
+—
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°öÊÅ
+—
+java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÒÙî
+–
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ»†P
+—
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îáñÅ
+—
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘¬»Ï
+—
+java:S1186n"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚Œ®
+_
+java:S1134"DTake the required action to fix the issue indicated by this comment.(Ñ¢îàıÿÿÿÿ

@@ -1,0 +1,40 @@
+
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­â°¶
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á£ÿ‘
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊåĞ‡
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œá‹ÿÿÿÿÿ
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì“§øÿÿÿÿ
+l	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸øİÍùÿÿÿÿ
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘åúúÿÿÿÿ
+l	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶±¦±ùÿÿÿÿ
+g
+java:S1301Á"KReplace this "switch" statement by "if" statements to increase readability.(äÉõıÿÿÿÿ
+R
+java:S2387'"7"pixels" is the name of a field in "MemoryImageSource".(Ç‚äíıÿÿÿÿ
+:
+java:S1659("Declare "h" on a separate line.(Ùî¡¬üÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(í§ï½
+7
+java:S11164"Remove this empty statement.(ôŸìúÿÿÿÿ
+[
+java:S3252<"EUse static access with "java.awt.color.ColorSpace" for "getInstance".(ˆÚ¿Ë
+Y
+java:S3252<"CUse static access with "java.awt.color.ColorSpace" for "CS_CIEXYZ".(ˆÚ¿Ë
+m
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ØØ”şÿÿÿÿ
+>
+java:S1905O"(Remove this unnecessary cast to "float".(×İÓİ
+>
+java:S1905P"(Remove this unnecessary cast to "float".(“˜ø¶
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(í…Ë¦
+V	java:S125k"<This block of commented-out lines of code should be removed.(´˜øóşÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(´˜øóşÿÿÿÿ
+M
+java:S1172"1Remove this unused method parameter "components".(üÕ¢ùÿÿÿÿ
+K
+java:S1172…"/Remove these unused method parameters "x", "y".(Ö™—ãùÿÿÿÿ
+=
+java:S1168†"&Return an empty array instead of null.(¥¹ï
+W	java:S125™"<This block of commented-out lines of code should be removed.(Â´§‹úÿÿÿÿ
+t	java:S131Á"YComplete cases by adding the missing enum constants or add a default case to this switch.(äÉõıÿÿÿÿ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(ÓçèË

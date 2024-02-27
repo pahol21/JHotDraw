@@ -1,0 +1,46 @@
+
+b
+java:S1192”"FDefine a constant instead of duplicating this literal "shape" 3 times.(Êªä‘üÿÿÿÿ
+^
+java:S1192•"GDefine a constant instead of duplicating this literal "coords" 3 times.(¼²­è
+`
+java:S2259¿"IA "NullPointerException" could be thrown; "drawingRect" is nullable here.(”Ÿò¯
+O
+java:S2755¤"3Disable access to external entities in XML parsing.(ƒ¶ŠÊûÿÿÿÿ
+k
+java:S3008@"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øúøèûÿÿÿÿ
+—
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áìí›
+E
+java:S2093i"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+o
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(‚°„–
+n
+java:S2139«"XEither log this exception and handle it, or rethrow it with some contextual information.(İ£½}
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ä—Ÿ­
+F
+java:S1905Ø"/Remove this unnecessary cast to "BezierFigure".(”ÚŠ
+F	java:S106÷"+Replace this use of System.out by a logger.(¯¾…üÿÿÿÿ
+D
+java:S1905œ"(Remove this unnecessary cast to "Shape".(ùĞÈÑşÿÿÿÿ
+D
+java:S1905Â"(Remove this unnecessary cast to "Shape".(ÇÛÅùÿÿÿÿ
+ˆ
+java:S1130Š"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(º»Ü÷üÿÿÿÿ
+ˆ
+java:S1130™"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ôö÷™ÿÿÿÿÿ
+ˆ
+java:S1130 "lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(€âÁ…ıÿÿÿÿ
+ƒ
+java:S1130§"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Öô®œ
+ˆ
+java:S1130¯"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(»—„ùûÿÿÿÿ
+ˆ
+java:S1130Å"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¨»íØúÿÿÿÿ
+ˆ
+java:S1130Ò"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÀÙª†şÿÿÿÿ
+ˆ
+java:S1130ß"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ìëä øÿÿÿÿ
+D
+java:S1068@")Remove this unused "DEBUG" private field.(øúøèûÿÿÿÿ

@@ -1,0 +1,25 @@
+
+a
+java:S1192N"LDefine a constant instead of duplicating this literal " method on " 3 times.(›ÕD
+>
+java:S1604 "(Make this anonymous inner class a lambda(–Ù†»
+M
+java:S1948"7Make "selectedPropertyValue" transient or serializable.(£ŸÔÏ
+O
+java:S1948"9Make "deselectedPropertyValue" transient or serializable.(˜íëË
+D
+java:S1948 ".Make "viewListener" transient or serializable.(–Ù†»
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…õ¹¸ùÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‡ó´¬
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ú¸ÉÚüÿÿÿÿ
+@
+java:S1181M"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+Y
+java:S3878L"CDisambiguate this call by either casting as "Object" or "Object[]".(Ï«‡
+@
+java:S1181Y"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+A
+java:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

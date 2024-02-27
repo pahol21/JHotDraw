@@ -1,0 +1,108 @@
+
+o
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÄš“
+t
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(úœïõüÿÿÿÿ
+u
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şê¹ƒùÿÿÿÿ
+u
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şê¹ƒùÿÿÿÿ
+u
+java:S2293°
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(®¥¾ùÿÿÿÿ
+u
+java:S2293±
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Ãëîıÿÿÿÿ
+^
+java:S1192Ç"GDefine a constant instead of duplicating this literal "height" 4 times.(í’â¤
+c
+java:S1192ï"GDefine a constant instead of duplicating this literal "normal" 6 times.(ßÇÒºùÿÿÿÿ
+n
+java:S1192î"RDefine a constant instead of duplicating this literal "objectBoundingBox" 4 times.(¸Œ€ßøÿÿÿÿ
+b
+java:S1192Æ"FDefine a constant instead of duplicating this literal "width" 4 times.(¾Íàşÿÿÿÿ
+D
+java:S5411ï"(Use a primitive boolean expression here.(ßÇÒºùÿÿÿÿ
+?
+java:S5411‡"(Use a primitive boolean expression here.(ãî­Õ
+?
+java:S5411‘"(Use a primitive boolean expression here.(“îÀô
+O
+java:S2755£
+"3Disable access to external entities in XML parsing.(–ö¯ùÿÿÿÿ
+œ
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø¡Êøıÿÿÿÿ
+S	java:S107ã"=Method has 10 parameters, which is greater than 7 authorized.(›Ï³Ô
+S	java:S107û"=Method has 11 parameters, which is greater than 7 authorized.(Ğª‚
+R	java:S107¾"<Method has 8 parameters, which is greater than 7 authorized.(÷à‚
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Ä—Ÿ­
+F
+java:S1905¢"/Remove this unnecessary cast to "BezierFigure".(”ÚŠ
+F	java:S106Á"+Replace this use of System.out by a logger.(¯¾…üÿÿÿÿ
+F
+java:S1905™"/Remove this unnecessary cast to "BezierFigure".(¢…‘
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(˜¤ó
+F
+java:S1481É"*Remove this unused "color" local variable.(…Óïøÿÿÿÿÿ
+A
+java:S1481Ê"*Remove this unused "value" local variable.(õÕ‹Ä
+I
+java:S1481Ë"-Remove this unused "intValue" local variable.(®âÙâıÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(Ò©ƒÔÿÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(Ò©ƒÔÿÿÿÿÿ
+ƒ
+java:S1130ª"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+ƒ
+java:S1130Ì"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+A
+java:S1481Í"*Remove this unused "value" local variable.(õÕ‹Ä
+L
+java:S1481Î"0Remove this unused "doubleValue" local variable.(‰÷íüøÿÿÿÿ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(£ü¡è
+ƒ
+java:S1130—"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+F
+java:S1481˜"*Remove this unused "value" local variable.(““šçıÿÿÿÿ
+G
+java:S1481™"0Remove this unused "doubleValue" local variable.(¤»¾
+G
+java:S1172º"0Remove this unused method parameter "namespace".(¨·£ï
+L
+java:S1172Ä"0Remove this unused method parameter "namespace".(åøæúÿÿÿÿ
+o
+java:S3776Î"SRefactor this method to reduce its Cognitive Complexity from 112 to the 15 allowed.(æåï¢şÿÿÿÿ
+X
+java:S1854á"<Remove this useless assignment to local variable "previous".(‘ñĞâùÿÿÿÿ
+[
+java:S1854°"?Remove this useless assignment to local variable "nextCommand".(æõ§›ıÿÿÿÿ
+V
+java:S1854º"?Remove this useless assignment to local variable "nextCommand".(¯¸¾‚
+V
+java:S1854Ê"?Remove this useless assignment to local variable "nextCommand".(¯¸¾‚
+V
+java:S1854Ø"?Remove this useless assignment to local variable "nextCommand".(ø¶
+V
+java:S1854ë"?Remove this useless assignment to local variable "nextCommand".(ëÀå£
+Z
+java:S1155Ò">Use isEmpty() to check whether the collection is empty or not.(­Üÿÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(ºçÜ‡ùÿÿÿÿ
+ƒ
+java:S1130	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(äØ
+ˆ
+java:S1130‘	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ˆ¶§³ûÿÿÿÿ
+R	java:S125±	"<This block of commented-out lines of code should be removed.(â†Ò¬
+F
+java:S2093ø	"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+o
+java:S2139Œ
+"XEither log this exception and handle it, or rethrow it with some contextual information.(‚°„–
+P
+java:S4719
+"9Replace charset name argument with StandardCharsets.UTF_8(”İ­É
+B
+java:S1172¯
+"+Remove this unused method parameter "root".(ü¦ŞÍ
+ã
+java:S6541Î"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 161 to 64, Complexity from 21 to 14, Nesting Level from 7 to 2, Number of Variables from 10 to 6.(æåï¢şÿÿÿÿ

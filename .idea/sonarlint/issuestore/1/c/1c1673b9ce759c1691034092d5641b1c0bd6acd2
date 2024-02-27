@@ -1,0 +1,14 @@
+
+o
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åð
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤
+g
+java:S1301š"KReplace this "switch" statement by "if" statements to increase readability.(¹ºÜ‹ÿÿÿÿÿ
+g
+java:S1301®"KReplace this "switch" statement by "if" statements to increase readability.(¹ºÜ‹ÿÿÿÿÿ
+P	java:S125g"<This block of commented-out lines of code should be removed.(¢Éq
+W	java:S125"<This block of commented-out lines of code should be removed.(Ú®Ÿäûÿÿÿÿ
+i
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÓÌÂ¯
+R	java:S125½"<This block of commented-out lines of code should be removed.(Õ¿ä

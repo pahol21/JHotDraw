@@ -1,0 +1,24 @@
+
+e
+java:S1192Q"ODefine a constant instead of duplicating this literal "hideActionText" 5 times.(Ö‹àå
+I
+java:S1121H".Extract the assignment out of this expression.(¯ï¡èúÿÿÿÿ
+C
+java:S1121N".Extract the assignment out of this expression.(÷©‡*
+C
+java:S1121V".Extract the assignment out of this expression.(€ªàr
+I
+java:S1121]".Extract the assignment out of this expression.(•›ŞŸıÿÿÿÿ
+I
+java:S1121f".Extract the assignment out of this expression.(ê¯âçşÿÿÿÿ
+D
+java:S1121n".Extract the assignment out of this expression.(’²û˜
+a
+java:S13017"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ
+F
+java:S1948"+Make "displayer" transient or serializable.(½ŒÒíúÿÿÿÿ
+7	java:S1317""Add a default case to this switch.(ş™ÅŞ
+s
+java:S2177€"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+O
+java:S1144€"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

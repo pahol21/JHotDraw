@@ -1,0 +1,17 @@
+
+E
+java:S1066n"/Merge this if statement with the enclosing one.(¶Œó¯
+E
+java:S1066"/Merge this if statement with the enclosing one.(¶Œó¯
+
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü·úÿÿÿÿ
+œ
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã…±÷øÿÿÿÿ
+=
+java:S1948"'Make "value" transient or serializable.(şû½ˆ
+G
+java:S19488"1Make "documentHandler" transient or serializable.(€òø€
+s
+java:S2177—"WRename this method; there is a "private" method in the parent class with the same name.(ú‚²ıÿÿÿÿ
+O
+java:S1144¹"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

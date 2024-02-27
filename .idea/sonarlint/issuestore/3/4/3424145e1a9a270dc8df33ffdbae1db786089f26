@@ -1,0 +1,11 @@
+
+t	java:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(¹§àşÿÿÿÿ
+^
+java:S1659"CDeclare "closed" and all following declarations on a separate line.(°¯ø…ûÿÿÿÿ
+E
+java:S1948"*Make "doCancel" transient or serializable.(Éà¡Öÿÿÿÿÿ
+F
+java:S1948$"+Make "formatter" transient or serializable.(éúÂùùÿÿÿÿ
+B
+java:S1948%"'Make "owner" transient or serializable.(ÈºÕûùÿÿÿÿ
+R	java:S125ş"<This block of commented-out lines of code should be removed.(ÄÀÇš

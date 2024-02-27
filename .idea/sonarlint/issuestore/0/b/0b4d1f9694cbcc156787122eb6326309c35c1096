@@ -1,0 +1,13 @@
+
+x
+java:S1488""]Immediately return this expression instead of assigning it to the temporary variable "image".(Ï‚ÿùÿÿÿÿ
+x
+java:S1488*"]Immediately return this expression instead of assigning it to the temporary variable "image".(Ï‚ÿùÿÿÿÿ
+e
+java:S3252;"JUse static access with "java.awt.image.Raster" for "createWritableRaster".(ĞëÿÙÿÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(¶£ôÃüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(úØß×ıÿÿÿÿ
+u
+java:S2142“"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+6
+java:S1659Ã"Declare "h" on a separate line.(Í¤¾‡

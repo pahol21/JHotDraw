@@ -1,0 +1,49 @@
+
+t	java:S135Í"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+D
+java:S1604ê"(Make this anonymous inner class a lambda(ï¯ÿ¨ıÿÿÿÿ
+F
+java:S2065\"0Remove the "transient" modifier from this field.(¯¢
+K
+java:S2065]"0Remove the "transient" modifier from this field.(ÿÍÓÌşÿÿÿÿ
+[
+java:S1124\"EReorder the modifiers to comply with the Java Language Specification.(¯¢
+`
+java:S1124]"EReorder the modifiers to comply with the Java Language Specification.(ÿÍÓÌşÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(Ú¤ö®
+M
+java:S1135k"2Complete the task associated to this TODO comment.(é»¸£úÿÿÿÿ
+˜
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™¥…
+˜
+java:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚Œ®
+—
+java:S1186£"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ»†P
+
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë¤Î½øÿÿÿÿ
+˜
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘¬»Ï
+W
+java:S3252Ã"AUse static access with "javax.swing.SwingConstants" for "CENTER".(íßÍ#
+N
+java:S1135Ï"2Complete the task associated to this TODO comment.(ÆÉ¹ÿÿÿÿÿ
+N
+java:S1135ä"2Complete the task associated to this TODO comment.(èŸÃÇûÿÿÿÿ
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ì“çûÿÿÿÿ
+i
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÉÙ 
+…
+java:S3038¦"i"getDrawingToViewTransform" is defined in the "DrawingView" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+g
+java:S1128@"QRemove this unused import 'org.jhotdraw.draw.DrawingView.ACTIVE_HANDLE_PROPERTY'.(€Ë”ò
+m
+java:S1128A"WRemove this unused import 'org.jhotdraw.draw.DrawingView.CONSTRAINER_VISIBLE_PROPERTY'.(î›®ˆ
+a
+java:S1128B"KRemove this unused import 'org.jhotdraw.draw.DrawingView.DRAWING_PROPERTY'.(ÙØĞÂ
+t
+java:S1128C"YRemove this unused import 'org.jhotdraw.draw.DrawingView.INVISIBLE_CONSTRAINER_PROPERTY'.(İí´ıÿÿÿÿ
+m
+java:S1128D"WRemove this unused import 'org.jhotdraw.draw.DrawingView.VISIBLE_CONSTRAINER_PROPERTY'.(ùÿß
+B
+java:S1068Z"'Remove this unused "LOG" private field.(ºŸùÿÿÿÿ

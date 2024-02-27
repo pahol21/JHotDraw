@@ -1,0 +1,26 @@
+
+>
+java:S16049"(Make this anonymous inner class a lambda(…š­ª
+D
+java:S1604„"(Make this anonymous inner class a lambda(èÏÆËÿÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(‘ğ›Y
+t
+java:S1450²"XRemove the "separator" field and declare it as a local variable in the relevant methods.(õÃ§¥ıÿÿÿÿ
+B
+java:S1948("'Make "model" transient or serializable.(Ç…³÷ıÿÿÿÿ
+?
+java:S1948A")Make "handler" transient or serializable.(ïóî‘
+Q	java:S125/"<This block of commented-out lines of code should be removed.(Ãÿ
+7
+java:S1116@"Remove this empty statement.(ôŸìúÿÿÿÿ
+m
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¶şÒıÿÿÿÿ
+S
+java:S1854"7Remove this useless assignment to local variable "txt".(ĞÈ¸¡ÿÿÿÿÿ
+D
+java:S1481"(Remove this unused "txt" local variable.(ĞÈ¸¡ÿÿÿÿÿ
+A
+java:S1172¤"*Remove this unused method parameter "evt".(ÓØ…î
+A
+java:S1172¨"*Remove this unused method parameter "evt".(æ’”

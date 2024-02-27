@@ -1,0 +1,49 @@
+
+o
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦¡ã 
+p
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìÄş—
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(»êöÜ
+p
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨¾Ÿ˜
+u
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸¹Œúÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æõ—ûÿÿÿÿ
+~
+java:S1192³"bDefine a constant instead of duplicating this literal "Palette.Component.segmentPosition" 3 times.(Ëãƒ’ÿÿÿÿÿ
+{
+java:S11923"`Define a constant instead of duplicating this literal "org.jhotdraw.samples.svg.Labels" 3 times.(®èååüÿÿÿÿ
+b
+java:S1192³"FDefine a constant instead of duplicating this literal "first" 3 times.(Ëãƒ’ÿÿÿÿÿ
+a
+java:S1301G"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ
+F
+java:S1948-"+Make "displayer" transient or serializable.(½ŒÒíúÿÿÿÿ
+7	java:S131G""Add a default case to this switch.(ş™ÅŞ
+Y
+java:S3252c"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(¶—İ­
+Y
+java:S3252w"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(ö ¬
+V
+java:S3252¶"?Use static access with "javax.swing.SwingConstants" for "LEFT".(±¹‘µ
+\
+java:S3252Ë"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(ÆÃä×şÿÿÿÿ
+V
+java:S3252Î"?Use static access with "javax.swing.SwingConstants" for "LEFT".(Ùäğ÷
+Z
+java:S3252Û"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(÷ß•Á
+[
+java:S3252ñ"?Use static access with "javax.swing.SwingConstants" for "LEFT".(×ù°¢ûÿÿÿÿ
+Z
+java:S3252"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(ö ¬
+[
+java:S3252¡"?Use static access with "javax.swing.SwingConstants" for "LEFT".(®øÒ‘øÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(ßÂ‡™
+s
+java:S2177Ô"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+K
+java:S1128"5Remove this unused import 'org.jhotdraw.draw.action'.(»Ğ¸²
+O
+java:S1144Ô"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

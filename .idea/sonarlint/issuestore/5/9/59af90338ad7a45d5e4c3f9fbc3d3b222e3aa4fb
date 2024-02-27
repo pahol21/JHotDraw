@@ -1,0 +1,73 @@
+
+o	java:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(”İ‰ÿ
+‡
+java:S1319¢"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›¥Ñ¯
+‡
+java:S1319â"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öóÑ‹
+‡
+java:S1319ú"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ºéÿ†
+Œ
+java:S1319¸"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(½ ‰áûÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş­¾ûÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş­¾ûÿÿÿÿ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÓØŠûÿÿÿÿ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÓØŠûÿÿÿÿ
+f	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½×§
+f	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½×§
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºü°ûÿÿÿÿ
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºü°ûÿÿÿÿ
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºü°ûÿÿÿÿ
+g	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰óÇç
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÙ»äÿÿÿÿÿ
+
+java:S4165Ğ"cRemove this useless assignment; "tHat1" already holds the assigned value along all execution paths.(ÒšÛ³úÿÿÿÿ
+
+java:S4165İ"cRemove this useless assignment; "tHat2" already holds the assigned value along all execution paths.(°ŸÕìùÿÿÿÿ
+
+java:S4165î"hRemove this useless assignment; "tHatCenter" already holds the assigned value along all execution paths.(Ô­¹•
+h
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ì­—
+Z
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(ŞõªÔûÿÿÿÿ
+Z
+java:S1155È">Use isEmpty() to check whether the collection is empty or not.(ŞõªÔûÿÿÿÿ
+Z
+java:S1155å">Use isEmpty() to check whether the collection is empty or not.(Ôˆœ…øÿÿÿÿ
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºéÿ†
+c
+java:S1854£"GRemove this useless assignment to local variable "previousCornerAngle".(Àøùÿÿÿÿ
+O
+java:S1481ş"8Remove this unused "previousCornerAngle" local variable.(ÏÜÚ“
+Z
+java:S1155º">Use isEmpty() to check whether the collection is empty or not.(ŞõªÔûÿÿÿÿ
+i
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŒíÇ
+W	java:S125§"<This block of commented-out lines of code should be removed.(½ÉõÃüÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(üîâòúÿÿÿÿ
+[
+java:S1659è"?Declare "V2" and all following declarations on a separate line.(ş­¾ûÿÿÿÿ
+E
+java:S1659¨")Declare "denominator" on a separate line.(€ÃÓşÿÿÿÿ
+6
+java:S1659©" Declare "Q2" on a separate line.(½×§
+]
+java:S1659«"ADeclare "Q1_u" and all following declarations on a separate line.(ºü°ûÿÿÿÿ
+I
+java:S1172ú"-Remove this unused method parameter "uPrime".(¼Çôöúÿÿÿÿ
+;
+java:S1659‘"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+F
+java:S1144Ğ"/Remove this unused private "v2ScaleIII" method.(ô¨Ù”
+C
+java:S1144ó",Remove this unused private "v2AddII" method.(’ªĞÈ
+A
+java:S1144†"*Remove this unused private "v2Dot" method.(Ç£àÑ
+>
+java:S1144¨"'Remove this unused private "b0" method.(«²·
+>
+java:S1144­"'Remove this unused private "b1" method.(ƒšÍƒ
+C
+java:S1144²"'Remove this unused private "b2" method.(¯«¦¡şÿÿÿÿ
+C
+java:S1144·"'Remove this unused private "b3" method.(’‡©ıÿÿÿÿ

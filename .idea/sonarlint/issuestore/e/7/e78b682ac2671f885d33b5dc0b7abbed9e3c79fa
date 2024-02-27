@@ -1,0 +1,33 @@
+
+o
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦¡ã 
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìÄþ—
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(»êöÜ
+p
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨¾Ÿ˜
+{
+java:S11923"`Define a constant instead of duplicating this literal "org.jhotdraw.samples.svg.Labels" 3 times.(®èååüÿÿÿÿ
+a
+java:S1301G"KReplace this "switch" statement by "if" statements to increase readability.(þ™ÅÞ
+F
+java:S1948-"+Make "displayer" transient or serializable.(½ŒÒíúÿÿÿÿ
+7	java:S131G""Add a default case to this switch.(þ™ÅÞ
+V	java:S125["<This block of commented-out lines of code should be removed.(ÛžéÆûÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(­ïÞÿÿÿÿÿ
+Y
+java:S3252j"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(¶—Ý­
+V
+java:S3252™"?Use static access with "javax.swing.SwingConstants" for "LEFT".(±¹‘µ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(­ïÞÿÿÿÿÿ
+V
+java:S3252´"?Use static access with "javax.swing.SwingConstants" for "LEFT".(Ùäð÷
+Z
+java:S3252½"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(÷ß•Á
+s
+java:S2177õ"WRename this method; there is a "private" method in the parent class with the same name.(ü·úÿÿÿÿ
+K
+java:S1128"5Remove this unused import 'org.jhotdraw.draw.action'.(»Ð¸²
+O
+java:S1144õ"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

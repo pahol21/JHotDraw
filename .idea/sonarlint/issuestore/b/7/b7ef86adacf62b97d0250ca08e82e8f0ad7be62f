@@ -1,0 +1,7 @@
+
+s	java:S135:"YReduce the total number of break and continue statements in this loop to use at most one.(¹§àşÿÿÿÿ
+n	java:S135V"YReduce the total number of break and continue statements in this loop to use at most one.(ÎğÙÍ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(ÄÀÇš
+V	java:S125U"<This block of commented-out lines of code should be removed.(õ¬ßüÿÿÿÿ
+i
+java:S2975s"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ƒ½ğù

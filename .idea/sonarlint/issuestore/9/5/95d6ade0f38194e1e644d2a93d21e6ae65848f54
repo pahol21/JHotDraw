@@ -1,0 +1,13 @@
+
+`
+java:S1192Ğ"JDefine a constant instead of duplicating this literal "imageData" 3 times.(ßÛ“I
+t
+java:S1488x"^Immediately return this expression instead of assigning it to the temporary variable "bounds".(‡Ê·
+v
+java:S1488³"_Immediately return this expression instead of assigning it to the temporary variable "actions".(ô€Ï
+@
+java:S1905­")Remove this unnecessary cast to "Double".(­ŸÚŒ
+j
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ìöö¦
+A
+java:S1181½"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ

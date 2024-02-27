@@ -1,0 +1,35 @@
+
+t
+java:S1192^"^Define a constant instead of duplicating this literal "Quaqua.Component.visualMargin" 3 times.(ïÔŒ
+C
+java:S1604e"(Make this anonymous inner class a lambda(êÚƒ“ÿÿÿÿÿ
+—
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡ËË³
+v
+java:S1450º"ZRemove the "springPanel" field and declare it as a local variable in the relevant methods.(Ñ·ÿ½ûÿÿÿÿ
+D
+java:S1948"")Make "ccModel" transient or serializable.(Í¥íáÿÿÿÿÿ
+Y
+java:S3252¼"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(Å´œ=
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161Â":Add the "@Override" annotation above this method signature(±“‚Æ
+Z
+java:S3252à"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(ıóÚ’
+Q
+java:S1161ã":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161æ":Add the "@Override" annotation above this method signature(±“‚Æ
+Z
+java:S3252„"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(¦ÿ¢¯
+Q
+java:S1161‡":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(±“‚Æ
+A
+java:S1172¡"*Remove this unused method parameter "evt".(»¢ü÷
+A
+java:S1172¤"*Remove this unused method parameter "evt".(ı¤É¢
+F
+java:S1172§"*Remove this unused method parameter "evt".(ÎØ¥şûÿÿÿÿ

@@ -1,0 +1,11 @@
+
+C
+java:S1948$"-Make "arrangeable" transient or serializable.(×Ñò
+_
+java:S1134"DTake the required action to fix the issue indicated by this comment.(–Ã•îÿÿÿÿÿ
+l
+java:S1128"QRemove this unused import 'org.jhotdraw.api.gui.Arrangeable.Arrangement.CASCADE'.(ƒ¦”Ìùÿÿÿÿ
+o
+java:S1128"TRemove this unused import 'org.jhotdraw.api.gui.Arrangeable.Arrangement.HORIZONTAL'.(€êšúÿÿÿÿ
+h
+java:S1128"RRemove this unused import 'org.jhotdraw.api.gui.Arrangeable.Arrangement.VERTICAL'.(ŒÕÑ„

@@ -1,0 +1,23 @@
+
+k
+java:S1104ñ"OMake top a static final constant or non-public and provide accessors if needed.(ö„±›üÿÿÿÿ
+l
+java:S1104ò"PMake left a static final constant or non-public and provide accessors if needed.(èá‚Ùıÿÿÿÿ
+n
+java:S1104ó"RMake bottom a static final constant or non-public and provide accessors if needed.(¤´ÜÔşÿÿÿÿ
+h
+java:S1104ô"QMake right a static final constant or non-public and provide accessors if needed.(ò®¢ı
+f
+java:S1104¸"OMake top a static final constant or non-public and provide accessors if needed.(òÕ°¡
+l
+java:S1104¹"PMake left a static final constant or non-public and provide accessors if needed.( ¿¢õúÿÿÿÿ
+i
+java:S1104º"RMake bottom a static final constant or non-public and provide accessors if needed.(‡Š÷
+h
+java:S1104»"QMake right a static final constant or non-public and provide accessors if needed.(Š£Åú
+j
+java:S2975Ó"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+G
+java:S2160î"+Override the "equals" method in this class.(¾£¤Õşÿÿÿÿ
+B
+java:S2160µ"+Override the "equals" method in this class.(ï’Ñ¯

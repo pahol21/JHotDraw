@@ -1,0 +1,11 @@
+
+]
+java:S1192I"HDefine a constant instead of duplicating this literal "enabled" 3 times.(À¥—\
+C
+java:S1604F"(Make this anonymous inner class a lambda(Ø¸°çøÿÿÿÿ
+O
+java:S5993."9Change the visibility of this constructor to "protected".(êùÖ€
+;
+java:S1948("%Make "app" transient or serializable.(ø«÷Ô
+P
+java:S1948)"5Make "applicationListener" transient or serializable.(ûçíŞüÿÿÿÿ

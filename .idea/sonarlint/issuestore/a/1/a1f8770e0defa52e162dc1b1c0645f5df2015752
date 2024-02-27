@@ -1,0 +1,16 @@
+
+{
+java:S11920"`Define a constant instead of duplicating this literal "org.jhotdraw.samples.svg.Labels" 3 times.(®èååüÿÿÿÿ
+C
+java:S1604I"(Make this anonymous inner class a lambda(™¢³Íüÿÿÿÿ
+C
+java:S1604P"(Make this anonymous inner class a lambda(¼Ë“Šùÿÿÿÿ
+R
+java:S4973S"<Strings and Boxed types should be compared using "equals()".(íÎÌ€
+R
+java:S4973_"<Strings and Boxed types should be compared using "equals()".(ĞÉ™
+m
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼ Òşüÿÿÿÿ
+b
+java:S3252?"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Ì—İ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(ëÁë¢

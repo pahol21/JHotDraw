@@ -1,0 +1,46 @@
+
+t
+java:S1192s"^Define a constant instead of duplicating this literal "Quaqua.Component.visualMargin" 4 times.(‘±Ûı
+C
+java:S1604|"(Make this anonymous inner class a lambda(êÚƒ“ÿÿÿÿÿ
+œ
+java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•Èúÿÿÿÿ
+v
+java:S1450€"ZRemove the "springPanel" field and declare it as a local variable in the relevant methods.(Ñ·ÿ½ûÿÿÿÿ
+?
+java:S1948$")Make "ccModel" transient or serializable.(àé©´
+V	java:S125]"<This block of commented-out lines of code should be removed.(Œôÿıÿÿÿÿ
+E	java:S106c"+Replace this use of System.err by a logger.(äÓ£¶ûÿÿÿÿ
+Q	java:S125d"<This block of commented-out lines of code should be removed.(†€éˆ
+Z
+java:S3252Û"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(Çà´
+Q
+java:S1161Ş":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161á":Add the "@Override" annotation above this method signature(±“‚Æ
+Z
+java:S3252ÿ"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(âÂÅà
+Q
+java:S1161‚":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161…":Add the "@Override" annotation above this method signature(±“‚Æ
+_
+java:S3252£"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(ñÄ«ùùÿÿÿÿ
+Q
+java:S1161¦":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(±“‚Æ
+_
+java:S3252Ç"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(Ãö«ßùÿÿÿÿ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(ñ—Ú–
+Q
+java:S1161Í":Add the "@Override" annotation above this method signature(±“‚Æ
+F
+java:S1172ä"*Remove this unused method parameter "evt".(°¬ş´ùÿÿÿÿ
+A
+java:S1172ç"*Remove this unused method parameter "evt".(¼†Í
+F
+java:S1172ê"*Remove this unused method parameter "evt".(šôéÅøÿÿÿÿ
+F
+java:S1172í"*Remove this unused method parameter "evt".(Ì›–Šùÿÿÿÿ

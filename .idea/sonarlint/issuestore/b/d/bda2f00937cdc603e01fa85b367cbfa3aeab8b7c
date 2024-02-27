@@ -1,0 +1,30 @@
+
+u
+java:S1488±"YImmediately return this expression instead of assigning it to the temporary variable "p".(àĞÍØúÿÿÿÿ
+_
+java:S2184M"DCast one of the operands of this subtraction operation to a "float".(‰©ÆØùÿÿÿÿ
+`
+java:S2184Å"DCast one of the operands of this subtraction operation to a "float".(‰©ÆØùÿÿÿÿ
+_
+java:S3518¬"CMake sure this expression can't be zero before doing this division.(Ù€íòøÿÿÿÿ
+8
+java:S1659)"#Declare "flipY" on a separate line.(õÁ‚e
+Q
+java:S1854N";Remove this useless assignment to local variable "extentY".(ÔŸø¨
+B
+java:S1481N",Remove this unused "extentY" local variable.(ÔŸø¨
+Q	java:S125^"<This block of commented-out lines of code should be removed.(úõò¡
+V	java:S125a"<This block of commented-out lines of code should be removed.(ôëåÉøÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(êŒÃùÿÿÿÿ
+R
+java:S1854Æ";Remove this useless assignment to local variable "extentY".(ÔŸø¨
+U
+java:S1854Ñ"9Remove this useless assignment to local variable "index".(Â ÉÄùÿÿÿÿ
+;
+java:S1659Ç"%Declare "angular" on a separate line.(×Øy
+C
+java:S1481Æ",Remove this unused "extentY" local variable.(ÔŸø¨
+F
+java:S1481Ñ"*Remove this unused "index" local variable.(Â ÉÄùÿÿÿÿ
+@	java:S106÷"+Replace this use of System.out by a logger.(È©Úk
+F	java:S106û"+Replace this use of System.out by a logger.(ŸÚ¿Òùÿÿÿÿ

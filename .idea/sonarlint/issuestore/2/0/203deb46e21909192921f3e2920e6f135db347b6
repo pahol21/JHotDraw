@@ -1,0 +1,43 @@
+
+_
+java:S1192`"IDefine a constant instead of duplicating this literal "datafile" 4 times.(©øÅ
+I
+java:S1121z".Extract the assignment out of this expression.(˜“‰ïıÿÿÿÿ
+J
+java:S1121Š".Extract the assignment out of this expression.(˜“‰ïıÿÿÿÿ
+D
+java:S1604ó"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+U
+java:S1596¥">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(üµ³¹
+Z
+java:S1596¦">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(ñâäİùÿÿÿÿ
+u
+java:S1450‚"^Remove the "toolButtonGroup" field and declare it as a local variable in the relevant methods.(—ŠÊô
+]
+java:S5738%"GRemove this call to a deprecated class, it has been marked for removal.(£åõˆ
+@
+java:S1181E"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+@
+java:S1181O"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+P	java:S125V"<This block of commented-out lines of code should be removed.(Í³Ÿ#
+@	java:S106`"+Replace this use of System.out by a logger.(©øÅ
+A
+java:S1874e"+Remove this use of "URL"; it is deprecated.(ë”Ç’
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+>
+java:S1905¥"'Remove this unnecessary cast to "List".(üµ³¹
+C
+java:S1905¦"'Remove this unnecessary cast to "List".(ñâäİùÿÿÿÿ
+A
+java:S1181·"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+F
+java:S2093³"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093Æ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+e
+java:S3252÷"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+J
+java:S1068‚"3Remove this unused "toolButtonGroup" private field.(—ŠÊô
+O
+java:S1144ï"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

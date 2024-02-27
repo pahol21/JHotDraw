@@ -1,0 +1,16 @@
+
+>
+java:S1948""(Make "editor" transient or serializable.(³šà¦
+C
+java:S1948$"(Make "value1" transient or serializable.(Ð°û÷üÿÿÿÿ
+>
+java:S1948%"(Make "value2" transient or serializable.(Ð¤“ð
+L
+java:S1948&"6Make "compatibleTextAction" transient or serializable.(èžæÇ
+h
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ßêÉÝ
+d
+java:S4201E"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¢éó‹üÿÿÿÿ
+R
+java:S3252f"7Use static access with "javax.swing.Action" for "NAME".(ÔÓó–ûÿÿÿÿ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(ÖŒü

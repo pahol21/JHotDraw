@@ -1,0 +1,9 @@
+
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(¯Åôùýÿÿÿÿ
+R
+java:S1854M"<Remove this useless assignment to local variable "eoutcode".(£å€Ñ
+o
+java:S2975Õ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(˜Å¼”þÿÿÿÿ
+â
+java:S65413"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 145 to 64, Complexity from 42 to 14, Nesting Level from 3 to 2, Number of Variables from 17 to 6.(¯Åôùýÿÿÿÿ

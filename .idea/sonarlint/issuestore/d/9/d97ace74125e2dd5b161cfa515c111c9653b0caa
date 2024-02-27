@@ -1,0 +1,20 @@
+
+K
+java:S3740·"/Provide the parametrized type for this generic.(ŽµŽðýÿÿÿÿ
+P
+java:S1141x"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141}"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+D
+java:S1604—"(Make this anonymous inner class a lambda(¥æ¨³ùÿÿÿÿ
+h
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ßêÉÝ
+=
+java:S1181«"!Catch Exception instead of Error.(Â¯¸êûÿÿÿÿ
+<
+java:S1181®"%Catch Exception instead of Throwable.(Öž¶
+u
+java:S2142Â"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+A	java:S106Ä"+Replace this use of System.out by a logger.(ÚŽÂâ
+`
+java:S1134Æ"DTake the required action to fix the issue indicated by this comment.(Þå÷Ëûÿÿÿÿ

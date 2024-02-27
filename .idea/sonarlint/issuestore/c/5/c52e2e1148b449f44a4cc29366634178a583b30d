@@ -1,0 +1,87 @@
+
+E
+java:S1121„".Extract the assignment out of this expression.(üËİÇ
+E
+java:S1121".Extract the assignment out of this expression.(üËİÇ
+J
+java:S1121 ".Extract the assignment out of this expression.(‹µ”õşÿÿÿÿ
+J
+java:S1121¬".Extract the assignment out of this expression.(‹µ”õşÿÿÿÿ
+E
+java:S1121´".Extract the assignment out of this expression.(üËİÇ
+J
+java:S1121Ï".Extract the assignment out of this expression.(œ¼Œàşÿÿÿÿ
+E
+java:S1121Ó".Extract the assignment out of this expression.(Äï“â
+E
+java:S1121Ú".Extract the assignment out of this expression.(Äï“â
+J
+java:S1121ï".Extract the assignment out of this expression.(ï²‘ºÿÿÿÿÿ
+J
+java:S1121ş".Extract the assignment out of this expression.(ï²‘ºÿÿÿÿÿ
+J
+java:S1121¬".Extract the assignment out of this expression.(„«¤–ıÿÿÿÿ
+E
+java:S1121¹".Extract the assignment out of this expression.(Äï“â
+E
+java:S1121Ì".Extract the assignment out of this expression.(Äï“â
+J
+java:S1121â".Extract the assignment out of this expression.(œ¼Œàşÿÿÿÿ
+E
+java:S1121ï".Extract the assignment out of this expression.(üËİÇ
+E
+java:S1121".Extract the assignment out of this expression.(üËİÇ
+E
+java:S1121§".Extract the assignment out of this expression.(å‰èï
+J
+java:S1121¶".Extract the assignment out of this expression.(ÓáÈ²ÿÿÿÿÿ
+F
+java:S1066°"/Merge this if statement with the enclosing one.(èóâª
+g
+java:S1104_"QMake ttype a static final constant or non-public and provide accessors if needed.(¶ìë±
+l
+java:S1104„"PMake sval a static final constant or non-public and provide accessors if needed.(õ‹Ğûÿÿÿÿ
+l
+java:S1104"PMake nval a static final constant or non-public and provide accessors if needed.(½òİ¥úÿÿÿÿ
+?
+java:S1659$"$Declare "endpos" on a separate line.(õŒ–åÿÿÿÿÿ
+E
+java:S1197&"*Move the array designators [] to the type.(ÊäÀıÿÿÿÿ
+E
+java:S1197>"*Move the array designators [] to the type.(Êÿ«øÿÿÿÿ
+Z
+java:S1134q"DTake the required action to fix the issue indicated by this comment.(²äÙ¢
+Z
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(¹ğùŞüÿÿÿÿ
+j
+java:S3776ô"SRefactor this method to reduce its Cognitive Complexity from 298 to the 15 allowed.(ê€Şõ
+V
+java:S1854¾":Remove this useless assignment to local variable "decexp".(ËûÅ“ÿÿÿÿÿ
+F
+java:S1197ù"*Move the array designators [] to the type.(®¤¥Õúÿÿÿÿ
+U
+java:S1117˜"9Rename "ctype" which hides the field declared at line 62.(ıïÀÉıÿÿÿÿ
+W
+java:S1119»";Refactor the code to remove this label and the need for it.(•…¿õûÿÿÿÿ
+5
+java:S1065»"Remove this unused label.(•…¿õûÿÿÿÿ
+@
+java:S1905Ñ")Remove this unnecessary cast to "double".(«İ¾¿
+@
+java:S1905Ø")Remove this unnecessary cast to "double".(«İ¾¿
+R
+java:S1119à";Refactor the code to remove this label and the need for it.(Öè¼¿
+@
+java:S1197Ó"*Move the array designators [] to the type.(é…±#
+[
+java:S3358Ù"DExtract this nested ternary operation into an independent statement.( Èïè
+=	java:S131""Add a default case to this switch.(îÇËúÿÿÿÿ
+@
+java:S1197Ÿ"*Move the array designators [] to the type.(é…±#
+R	java:S125±"<This block of commented-out lines of code should be removed.(à®ÅÏ
+ƒ
+java:S1130Í"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(˜ºªÔ
+F
+java:S1197Ù"*Move the array designators [] to the type.(¾ä‰áüÿÿÿÿ
+ß
+java:S6541ô"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 368 to 64, Complexity from 128 to 14, Nesting Level from 6 to 2, Number of Variables from 19 to 6.(ê€Şõ

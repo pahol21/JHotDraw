@@ -1,0 +1,13 @@
+
+D
+java:S1948;")Make "tracker" transient or serializable.(ÚÌ ÿüÿÿÿÿ
+E
+java:S1948?"/Make "handleTracker" transient or serializable.(øŞ
+I
+java:S1948C"3Make "selectAreaTracker" transient or serializable.(ŸŠ¼
+H
+java:S1948G"-Make "dragTracker" transient or serializable.(ÕÂêËøÿÿÿÿ
+K
+java:S1948k"0Make "trackerHandler" transient or serializable.(‚ƒ»ıÿÿÿÿ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(¦ÆòËøÿÿÿÿ

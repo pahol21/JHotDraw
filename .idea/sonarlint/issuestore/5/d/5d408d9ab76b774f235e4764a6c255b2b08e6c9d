@@ -1,0 +1,110 @@
+
+T
+java:S2589ñ"8Remove this expression which always evaluates to "false"(šç±‚øÿÿÿÿ
+S
+java:S2589ñ"7Remove this expression which always evaluates to "true"(šç±‚øÿÿÿÿ
+O
+java:S2589ï"8Remove this expression which always evaluates to "false"(ú¾Ÿ¦
+T
+java:S2589í"8Remove this expression which always evaluates to "false"(Ñ³–Úúÿÿÿÿ
+S
+java:S2589í"7Remove this expression which always evaluates to "true"(Ñ³–Úúÿÿÿÿ
+N
+java:S2589ë"7Remove this expression which always evaluates to "true"(ãô…¶
+O
+java:S2589ë"8Remove this expression which always evaluates to "false"(ãô…¶
+N
+java:S2589ï"7Remove this expression which always evaluates to "true"(ú¾Ÿ¦
+l
+java:S30089"VRename this field "IS_ROLLOVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É³˜¦
+q
+java:S3008:"[Rename this field "IS_DIVIDER_DRAWN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¬¶¾
+s
+java:S3008p"]Rename this field "FOCUSED_COMP_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿’¤º
+˜
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÒÖÂ¡
+˜
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìßİË
+w
+java:S1450,"aRemove the "dockingSensitivity" field and declare it as a local variable in the relevant methods.(½ÿÚ
+P
+java:S1133Q"5Do not forget to remove this deprecated code someday.(ÛÓºîüÿÿÿÿ
+J
+java:S1133["5Do not forget to remove this deprecated code someday.(ˆµ€c
+P
+java:S1133e"5Do not forget to remove this deprecated code someday.(÷ÁĞ»øÿÿÿÿ
+P
+java:S1133o"5Do not forget to remove this deprecated code someday.(‚Äİƒıÿÿÿÿ
+C
+java:S1172r"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+C
+java:S1125’"'Remove the unnecessary boolean literal.(»ÂÑÈıÿÿÿÿ
+M
+java:S2696¹"6Make the enclosing method "static" or remove this set.(„ì˜à
+M
+java:S2696¼"6Make the enclosing method "static" or remove this set.(Î¡Ø“
+R
+java:S2696¿"6Make the enclosing method "static" or remove this set.(Ş’¬ùÿÿÿÿ
+R
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(ß˜Ôíÿÿÿÿÿ
+M
+java:S2696Ì"6Make the enclosing method "static" or remove this set.(èÿ‰
+R
+java:S2696Í"6Make the enclosing method "static" or remove this set.(‘ªïÅøÿÿÿÿ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÃÙœæıÿÿÿÿ
+E
+java:S1172Ú".Remove this unused method parameter "toolbar".(‡à¯Á
+D	java:S108Ş")Either remove or fill this block of code.(àãƒıÿÿÿÿ
+D
+java:S1172ç"(Remove this unused method parameter "b".(ÕÔØ÷şÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(Œê‡Æşÿÿÿÿ
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(»ùáıÿÿÿÿ
+>
+java:S1125±"'Remove the unnecessary boolean literal.(ÆåÅƒ
+_
+java:S3252ğ"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(Æ Œ¥ûÿÿÿÿ
+\
+java:S3252ò"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(Ú¥‰£
+>
+java:S1125Ğ"'Remove the unnecessary boolean literal.(ÆåÅƒ
+R	java:S125×"<This block of commented-out lines of code should be removed.(ªËÆ
+C
+java:S1125ó"'Remove the unnecessary boolean literal.(«©Øîùÿÿÿÿ
+R	java:S125ô"<This block of commented-out lines of code should be removed.(ªËÆ
+>
+java:S1125€"'Remove the unnecessary boolean literal.(ÆåÅƒ
+i
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ßêÉİ
+˜
+java:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’ÆÍ
+
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ¶Ãßùÿÿÿÿ
+˜
+java:S1186Ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€İ§ò
+—
+java:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÓ…
+˜
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø¾»®
+>
+java:S1125º"'Remove the unnecessary boolean literal.(´•Æì
+n
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğéËøÿÿÿÿ
+\
+java:S3252ô"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(•ÛúÄ
+Y
+java:S3252õ"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(Ñ†+
+\
+java:S3252÷"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ûİ…ù
+>
+java:S1125	"'Remove the unnecessary boolean literal.(ÆåÅƒ
+a
+java:S3252¹
+"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(˜½ë şÿÿÿÿ
+G
+java:S1068("1Remove this unused "floatingFrame" private field.(¸İëğ
+L
+java:S1068,"6Remove this unused "dockingSensitivity" private field.(½ÿÚ
+E
+java:S1144›".Remove this unused private "isBlocked" method.(ôØ‰¿

@@ -1,0 +1,25 @@
+
+o
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ÀÊ•
+t
+java:S1488x"^Immediately return this expression instead of assigning it to the temporary variable "bounds".(‡Ê·
+C
+java:S5411:"(Use a primitive boolean expression here.(ïÙ–¿üÿÿÿÿ
+C
+java:S5411Y"(Use a primitive boolean expression here.(ïÙ–¿üÿÿÿÿ
+C
+java:S5411"(Use a primitive boolean expression here.(ïÙ–¿üÿÿÿÿ
+D
+java:S5411›"(Use a primitive boolean expression here.(ïÙ–¿üÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(ñğ’
+>
+java:S1659H"#Declare "growy" on a separate line.(ßÑİºıÿÿÿÿ
+>
+java:S1659a"#Declare "growy" on a separate line.(ßÑİºıÿÿÿÿ
+?
+java:S1659"#Declare "growy" on a separate line.(ßÑİºıÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ìüĞ§
+?
+java:S1659ª"#Declare "growy" on a separate line.(ßÑİºıÿÿÿÿ
+o
+java:S2975ò"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(à…º‹ıÿÿÿÿ

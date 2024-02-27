@@ -1,0 +1,8 @@
+
+n
+java:S1450("XRemove the "isVerbose" field and declare it as a local variable in the relevant methods.(Æ„¦÷
+>
+java:S1125¤"'Remove the unnecessary boolean literal.(÷ú“Ë
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¹ðÙ‘þÿÿÿÿ
+C
+java:S1068("-Remove this unused "isVerbose" private field.(Æ„¦÷

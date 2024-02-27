@@ -1,0 +1,15 @@
+
+J
+java:S1066b"/Merge this if statement with the enclosing one.(úûµëıÿÿÿÿ
+J
+java:S1066m"/Merge this if statement with the enclosing one.(úûµëıÿÿÿÿ
+>
+java:S1948"(Make "editor" transient or serializable.(³šà¦
+@
+java:S1948"+Make "fillShape" transient or serializable.(ø®M
+C
+java:S1948"-Make "strokeShape" transient or serializable.(´¾³û
+h
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ã Æ
+_
+java:S3551L"IMake this method "synchronized" to match the parent class implementation.(ã Æ

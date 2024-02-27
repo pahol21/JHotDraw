@@ -1,0 +1,13 @@
+
+N
+java:S5993G"9Change the visibility of this constructor to "protected".(íû¬"
+H
+java:S1948"-Make "application" transient or serializable.(£šß™şÿÿÿÿ
+E
+java:S1948#"*Make "executor" transient or serializable.(·½—Ãüÿÿÿÿ
+B
+java:S1948+"-Make "preferences" transient or serializable.(ğÍû.
+H
+java:S1948<"-Make "disposables" transient or serializable.(ñşâìúÿÿÿÿ
+O
+java:S1144¢"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ

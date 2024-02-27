@@ -1,0 +1,23 @@
+
+p
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(þöãò
+o
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(êâˆ
+^
+java:S1192|"HUse already-defined constant 'ID' instead of duplicating its value here.(ÝÝ¯ú
+_
+java:S1134"DTake the required action to fix the issue indicated by this comment.(‚øÇ¢þÿÿÿÿ
+>
+java:S1172f"(Remove this unused method parameter "e".(º³¸Ž
+V	java:S125q"<This block of commented-out lines of code should be removed.(Ý—•Ìýÿÿÿÿ
+D
+java:S1185Œ"(Remove this method to simply inherit it.(ß•þŠþÿÿÿÿ
+D
+java:S1172•"(Remove this unused method parameter "e".(Ð£Áœÿÿÿÿÿ
+=
+java:S1481Ÿ"&Remove this unused "f" local variable.(ØÝÚï
+N
+java:S1854÷"7Remove this useless assignment to local variable "bez".(Ž¢ö
+D	java:S108â")Either remove or fill this block of code.(®è¢Éÿÿÿÿÿ
+?
+java:S1481÷"(Remove this unused "bez" local variable.(Ž¢ö

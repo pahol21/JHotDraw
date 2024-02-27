@@ -1,0 +1,18 @@
+
+I
+java:S1121\".Extract the assignment out of this expression.(‡™’òùÿÿÿÿ
+O
+java:S5993("9Change the visibility of this constructor to "protected".(ä¦ÿ
+D
+java:S1948!".Make "inputFormats" transient or serializable.(èã«¼
+J
+java:S1948""/Make "outputFormats" transient or serializable.(†ûòîüÿÿÿÿ
+P
+java:S1854\"5Remove this useless assignment to local variable "f".(‡™’òùÿÿÿÿ
+A
+java:S1481["&Remove this unused "f" local variable.(ïè…õûÿÿÿÿ
+@	java:S106{"+Replace this use of System.out by a logger.(¸€¸
+A	java:S106‘"+Replace this use of System.out by a logger.(°íÄ
+j
+java:S2975®"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ºã‚—
+W	java:S125œ"<This block of commented-out lines of code should be removed.(Î¨Ãúÿÿÿÿ

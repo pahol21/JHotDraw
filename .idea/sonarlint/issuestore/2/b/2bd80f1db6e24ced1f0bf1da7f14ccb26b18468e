@@ -1,0 +1,11 @@
+
+C
+java:S16041"(Make this anonymous inner class a lambda(¿ àùÿÿÿÿ
+œ
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü·úÿÿÿÿ
+—
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õçÏÔ
+q
+java:S1450""VRemove the "handler" field and declare it as a local variable in the relevant methods.(áµø…øÿÿÿÿ
+D
+java:S1948"")Make "handler" transient or serializable.(áµø…øÿÿÿÿ

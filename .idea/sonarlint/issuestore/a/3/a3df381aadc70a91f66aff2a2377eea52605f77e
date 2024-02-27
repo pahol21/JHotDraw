@@ -1,0 +1,25 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(¸÷ÿ
+H
+java:S1659&"2Declare "opacitySliderHandler" on a separate line.(ª¾Ş«
+x
+java:S1450¨"aRemove the "bgColorButtonGroup" field and declare it as a local variable in the relevant methods.(ıØùŠ
+p
+java:S1450ª"YRemove the "colorLabel" field and declare it as a local variable in the relevant methods.(ªÏû
+w
+java:S1450¬"[Remove the "opacityLabel" field and declare it as a local variable in the relevant methods.(ÈÆ†•úÿÿÿÿ
+K
+java:S1948&"5Make "opacityFieldHandler" transient or serializable.(ª¾Ş«
+L
+java:S1948&"6Make "opacitySliderHandler" transient or serializable.(ª¾Ş«
+Y
+java:S3252/"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(÷ß•Á
+d
+java:S3252t"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+F
+java:S1172Ÿ"*Remove this unused method parameter "evt".(©ö»ƒúÿÿÿÿ
+M
+java:S1068¨"6Remove this unused "bgColorButtonGroup" private field.(ıØùŠ
+I
+java:S1144;"4Remove this unused private "getColorChooser" method.(ÑÅ€9

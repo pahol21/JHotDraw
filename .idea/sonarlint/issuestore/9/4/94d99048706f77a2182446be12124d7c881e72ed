@@ -1,0 +1,80 @@
+
+F
+java:S3740º"/Provide the parametrized type for this generic.(ŞšíŠ
+K
+java:S3740»"/Provide the parametrized type for this generic.(–Ã¾ûÿÿÿÿ
+K
+java:S3740Ï"/Provide the parametrized type for this generic.(ÏˆÙşÿÿÿÿ
+K
+java:S3740×"/Provide the parametrized type for this generic.(–Ã¾ûÿÿÿÿ
+F
+java:S3740ì"/Provide the parametrized type for this generic.(çºİŞ
+K
+java:S3740ô"/Provide the parametrized type for this generic.(–Ã¾ûÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(ŞšíŠ
+K
+java:S3740Å"/Provide the parametrized type for this generic.(ÏˆÙşÿÿÿÿ
+F
+java:S3740ä"/Provide the parametrized type for this generic.(çºİŞ
+K
+java:S1066¼"/Merge this if statement with the enclosing one.(İû£Ìşÿÿÿÿ
+K
+java:S1066Û"/Merge this if statement with the enclosing one.(İû£Ìşÿÿÿÿ
+u
+java:S1488?"ZImmediately return this expression instead of assigning it to the temporary variable "ui".(ÆÙªÄûÿÿÿÿ
+b
+java:S2259­"KA "NullPointerException" could be thrown; "newCollection" is nullable here.(ø¾’Õ
+D
+java:S1172p")Remove this unused method parameter "fc".(‚ÔÜ úÿÿÿÿ
+E
+java:S1172¢")Remove this unused method parameter "fc".(ÉÖÕòşÿÿÿÿ
+E
+java:S1172¦")Remove this unused method parameter "fc".(ÏÎü”ÿÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(öŞ¡Å
+W
+java:S1854"ARemove this useless assignment to local variable "oldCollection".(ä²Í#
+H
+java:S1481"2Remove this unused "oldCollection" local variable.(ä²Í#
+R
+java:S1119¬";Refactor the code to remove this label and the need for it.(…ç¡¿
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(—õ¡
+Y
+java:S1854È"=Remove this useless assignment to local variable "oldFamily".(Î•çÄÿÿÿÿÿ
+J
+java:S1481È".Remove this unused "oldFamily" local variable.(Î•çÄÿÿÿÿÿ
+R
+java:S1854è";Remove this useless assignment to local variable "oldFace".(­Ã
+C
+java:S1481è",Remove this unused "oldFace" local variable.(­Ã
+˜
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÎ±Œ
+˜
+java:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬ë‡î
+
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ
+˜
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ
+
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ
+
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ
+7	java:S131""Add a default case to this switch.( à×H
+D	java:S108 ")Either remove or fill this block of code.(¯¤›øÿÿÿÿ
+?	java:S108­")Either remove or fill this block of code.(ç¹ñ®
+}
+java:S4144ş"aUpdate this method so that its implementation is not identical to "treeNodesChanged" on line 503.(È ·üÿÿÿÿ
+}
+java:S4144…"aUpdate this method so that its implementation is not identical to "treeNodesChanged" on line 503.(şèÑúÿÿÿÿÿ
+x
+java:S4144Œ"aUpdate this method so that its implementation is not identical to "treeNodesChanged" on line 503.(±à
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğéËøÿÿÿÿ
+E
+java:S3398Ä".Move this method into "SelectionPanelHandler".(—õ¡
+E
+java:S3398".Move this method into "SelectionPanelHandler".(öŞ¡Å
+E
+java:S3398ã".Move this method into "SelectionPanelHandler".(³éïô

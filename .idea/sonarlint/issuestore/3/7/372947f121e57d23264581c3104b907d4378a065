@@ -1,0 +1,9 @@
+
+
+java:S1319Œ"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(œŸ¥åûÿÿÿÿ
+U
+java:S4719Ž"9Replace charset name argument with StandardCharsets.UTF_8(¢Þ†‘üÿÿÿÿ
+Z
+java:S1155¬">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ
+C
+java:S1068?".Remove this unused "formatName" private field.(Ø¨¬U

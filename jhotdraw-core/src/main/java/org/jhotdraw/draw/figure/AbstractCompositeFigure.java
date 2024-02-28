@@ -46,7 +46,7 @@ public abstract class AbstractCompositeFigure
      * A Layouter determines how the children of the CompositeFigure
      * are laid out graphically.
      */
-    protected Layouter layouter;
+    protected transient Layouter layouter;
     /**
      * The children that this figure is composed of
      *
@@ -592,8 +592,7 @@ public abstract class AbstractCompositeFigure
         return children.get(index);
     }
 
-    @Override
-    public AbstractCompositeFigure clone() {
+    public AbstractCompositeFigure (AbstractCompositeFigure other) {
         AbstractCompositeFigure that = (AbstractCompositeFigure) super.clone();
         that.children = new ArrayList<>();
         that.eventHandler = that.createEventHandler();
@@ -602,7 +601,6 @@ public abstract class AbstractCompositeFigure
             that.children.add(thatChild);
             thatChild.addFigureListener(that.eventHandler);
         }
-        return that;
     }
 
     @Override

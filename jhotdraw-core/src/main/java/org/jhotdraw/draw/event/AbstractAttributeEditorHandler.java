@@ -115,8 +115,8 @@ public abstract class AbstractAttributeEditorHandler<T> implements Disposable {
         private static final long serialVersionUID = 1L;
         private Set<Figure> editedFigures;
         private AttributeKey<T> attributeKey;
-        private T editRedoValue;
-        protected LinkedList<Object> editUndoData;
+        private transient T editRedoValue;
+        protected transient LinkedList<Object> editUndoData;
 
         public UndoableAttributeEdit(Set<Figure> editedFigures, AttributeKey<T> attributeKey, T editRedoValue, LinkedList<Object> editUndoData) {
             this.editedFigures = editedFigures;

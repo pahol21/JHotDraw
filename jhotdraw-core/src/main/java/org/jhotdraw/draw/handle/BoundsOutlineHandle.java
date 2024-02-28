@@ -122,14 +122,17 @@ public class BoundsOutlineHandle extends AbstractHandle {
 
     @Override
     public void trackStart(Point anchor, int modifiersEx) {
+        //Empty on purpose
     }
 
     @Override
     public void trackStep(Point anchor, Point lead, int modifiersEx) {
+        //Empty on purpose
     }
 
     @Override
     public void trackEnd(Point anchor, Point lead, int modifiersEx) {
+        //Empty on purpose
     }
 
     @Override

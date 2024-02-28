@@ -21,10 +21,11 @@ public class CompositeTransferable implements Transferable, ClipboardOwner {
     private HashMap<DataFlavor, Transferable> transferables = new HashMap<>();
     private LinkedList<DataFlavor> flavors = new LinkedList<>();
 
-    /**
-     * Creates a new instance of CompositeTransferable
-     */
+
     public CompositeTransferable() {
+        /**
+        * Creates a new instance of CompositeTransferable
+        */
     }
 
     public void add(Transferable t) {
@@ -83,5 +84,6 @@ public class CompositeTransferable implements Transferable, ClipboardOwner {
 
     @Override
     public void lostOwnership(Clipboard clipboard, Transferable contents) {
+        //Empty on purpose
     }
 }

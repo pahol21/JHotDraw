@@ -7,6 +7,7 @@
  */
 package org.jhotdraw.app;
 
+import java.io.Serializable;
 import java.net.URI;
 import java.util.*;
 import java.util.concurrent.*;
@@ -23,55 +24,31 @@ import org.jhotdraw.util.prefs.PreferencesUtil;
  * @author Werner Randelshofer
  * @version $Id$
  */
-public abstract class AbstractView extends JPanel implements View {
+public abstract class AbstractView extends JPanel implements View, Serializable {
 
     private static final long serialVersionUID = 1L;
-    private Application application;
+    private transient Application application;
     /**
-     * The executor used to perform background tasks for the View in a
-     * controlled manner. This executor ensures that all background tasks
-     * are executed sequentually.
+     * The executor is transient because ExecutorService is not serializable.
      */
-    protected ExecutorService executor;
-    /**
-     * This is set to true, if the view has unsaved changes.
-     */
+    private transient ExecutorService executor;
     private boolean hasUnsavedChanges;
     /**
-     * The preferences of the view.
+     * Preferences is managed by Java Preferences API and does not need to be serialized.
      */
-    protected Preferences preferences;
-    /**
-     * This id is used to make multiple open views of the same URI
-     * identifiable.
-     */
+    private transient Preferences preferences;
     private int multipleOpenId = 1;
-    /**
-     * This is set to true, if the view is showing.
-     */
     private boolean isShowing;
-    /**
-     * The title of the view.
-     */
     private String title;
     /**
-     * List of objects that need to be disposed when this view is disposed.
+     * If Disposable objects are not serializable, keep this as transient and manage lifecycle manually.
      */
-    private LinkedList<Disposable> disposables;
-    /**
-     * The URI of the view.
-     * Has a null value, if the view has not been loaded from a URI
-     * or has not been saved yet.
-     */
+    private transient LinkedList<Disposable> disposables;
     protected URI uri;
 
-    /**
-     * Creates a new instance.
-     */
     public AbstractView() {
         preferences = PreferencesUtil.userNodeForPackage(getClass());
     }
-
     /**
      * Initializes the view.
      * This method does nothing, subclasses don't neet to call super.

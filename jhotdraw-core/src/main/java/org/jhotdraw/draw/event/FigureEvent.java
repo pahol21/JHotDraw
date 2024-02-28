@@ -37,8 +37,8 @@ public class FigureEvent extends EventObject {
     private static final long serialVersionUID = 1L;
     private Rectangle2D.Double invalidatedArea;
     private AttributeKey<?> attribute;
-    private Object oldValue;
-    private Object newValue;
+    private transient Object oldValue;
+    private transient Object newValue;
 
     /**
      * Constructs an event for the given source Figure.

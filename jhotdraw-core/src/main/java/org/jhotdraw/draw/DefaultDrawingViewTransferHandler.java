@@ -60,6 +60,7 @@ public class DefaultDrawingViewTransferHandler extends TransferHandler {
      * Creates a new instance.
      */
     public DefaultDrawingViewTransferHandler() {
+        //Empty on purpose
     }
 
     @Override
@@ -378,6 +379,7 @@ FileFormatLoop:                     for (InputFormat format : drawing.getInputFo
                 CompositeFigureListener removeListener = new CompositeFigureListener() {
                     @Override
                     public void figureAdded(CompositeFigureEvent e) {
+                        //Empty on purpose
                     }
 
                     @Override
@@ -554,6 +556,7 @@ SearchLoop: for (InputFormat format : drawing.getInputFormats()) {
          */
         @Override
         public void dragEnter(DragSourceDragEvent dsde) {
+            //Empty on purpose
         }
 
         /**
@@ -561,6 +564,7 @@ SearchLoop: for (InputFormat format : drawing.getInputFormats()) {
          */
         @Override
         public void dragOver(DragSourceDragEvent dsde) {
+            //Empty on purpose
         }
 
         /**
@@ -568,6 +572,7 @@ SearchLoop: for (InputFormat format : drawing.getInputFormats()) {
          */
         @Override
         public void dragExit(DragSourceEvent dsde) {
+            //Empty on purpose
         }
 
         /**
@@ -588,6 +593,7 @@ SearchLoop: for (InputFormat format : drawing.getInputFormats()) {
 
         @Override
         public void dropActionChanged(DragSourceDragEvent dsde) {
+            //Empty on purpose
         }
     }
 
@@ -611,6 +617,7 @@ SearchLoop: for (InputFormat format : drawing.getInputFormats()) {
          */
         @Override
         protected void registerListeners() {
+            //Empty on purpose
         }
 
         /**
@@ -620,6 +627,7 @@ SearchLoop: for (InputFormat format : drawing.getInputFormats()) {
          */
         @Override
         protected void unregisterListeners() {
+            //Empty on purpose
         }
     }
 }

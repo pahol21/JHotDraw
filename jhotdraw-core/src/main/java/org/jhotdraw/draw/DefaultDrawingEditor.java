@@ -42,13 +42,13 @@ import org.jhotdraw.draw.tool.Tool;
 public class DefaultDrawingEditor extends AbstractBean implements DrawingEditor {
 
     private static final long serialVersionUID = 1L;
-    private HashMap<AttributeKey<?>, Object> defaultAttributes = new HashMap<>();
-    private HashMap<AttributeKey<?>, Object> handleAttributes = new HashMap<>();
-    private Tool tool;
-    private HashSet<DrawingView> views;
-    private DrawingView activeView;
+    private transient HashMap<AttributeKey<?>, Object> defaultAttributes = new HashMap<>();
+    private transient HashMap<AttributeKey<?>, Object> handleAttributes = new HashMap<>();
+    private transient Tool tool;
+    private transient HashSet<DrawingView> views;
+    private transient DrawingView activeView;
     private boolean isEnabled = true;
-    private ToolHandler toolHandler;
+    private transient ToolHandler toolHandler;
 
     private class ToolHandler extends ToolAdapter {
 
@@ -85,7 +85,7 @@ public class DefaultDrawingEditor extends AbstractBean implements DrawingEditor 
     /**
      * The focus handler.
      */
-    private FocusListener focusHandler = new FocusListener() {
+    private transient FocusListener focusHandler = new FocusListener() {
         @Override
         public void focusGained(FocusEvent e) {
             setActiveView(findView((Container) e.getSource()));
@@ -230,6 +230,7 @@ public class DefaultDrawingEditor extends AbstractBean implements DrawingEditor 
 
     @Override
     public void setCursor(Cursor c) {
+        //Empty on purpose
     }
 
     @Override

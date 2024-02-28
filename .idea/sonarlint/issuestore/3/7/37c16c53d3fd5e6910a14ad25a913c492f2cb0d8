@@ -13,10 +13,6 @@ O
 java:S5993ª"9Change the visibility of this constructor to "protected".(‡é!
 m
 java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğéËøÿÿÿÿ
-D
-java:S1948v"/Make "editRedoValue" transient or serializable.(‰ïë=
-I
-java:S1948w".Make "editUndoData" transient or serializable.(¦ş»Òÿÿÿÿÿ
 S
 java:S1854¾"<Remove this useless assignment to local variable "oldValue".(Ğ©“²
 D

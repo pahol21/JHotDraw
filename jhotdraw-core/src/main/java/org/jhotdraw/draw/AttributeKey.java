@@ -42,7 +42,7 @@ public class AttributeKey<T> implements Serializable {
     /**
      * Holds the default value.
      */
-    private T defaultValue;
+    private transient T defaultValue;
     /**
      * Specifies whether null values are allowed.
      */

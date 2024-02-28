@@ -1,19 +1,19 @@
 
-F
-java:S1066ì"/Merge this if statement with the enclosing one.(ØØÉç
-S
-java:S2589Ñ"7Remove this expression which always evaluates to "true"(åØÍûúÿÿÿÿ
-T
-java:S2589Ò"8Remove this expression which always evaluates to "false"(ÄŠúÿÿÿÿ
+M
+java:S1066ê"/Merge this if statement with the enclosing one.(ØØÉç8·Ó¿„ß1
+Z
+java:S2589Ï"7Remove this expression which always evaluates to "true"(åØÍûúÿÿÿÿ8ãÔ¿„ß1
+[
+java:S2589Ğ"8Remove this expression which always evaluates to "false"(ÄŠúÿÿÿÿ8ãÔ¿„ß1
+V
+java:S5993/"9Change the visibility of this constructor to "protected".(Î“êÀ8åÔ¿„ß1
+\
+java:S5993»"9Change the visibility of this constructor to "protected".(ÜôÌüÿÿÿÿ8åÔ¿„ß1
+H
+java:S1905J"&Remove this unnecessary cast to "Map".(Ë´úÕşÿÿÿÿ8ìÔ¿„ß1
+L
+java:S1905Š")Remove this unnecessary cast to "Number".(²ìÛšÿÿÿÿÿ8óÔ¿„ß1
 O
-java:S5993/"9Change the visibility of this constructor to "protected".(Î“êÀ
-G
-java:S1948%",Make "attributes" transient or serializable.(¶­Şõúÿÿÿÿ
-A
-java:S1905J"&Remove this unnecessary cast to "Map".(Ë´úÕşÿÿÿÿ
-E
-java:S1905Š")Remove this unnecessary cast to "Number".(²ìÛšÿÿÿÿÿ
-j
-java:S2975¼"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ØÓ”ˆ
-B
-java:S1452÷"&Remove usage of generic wildcard type.(ÎÑ©üÿÿÿÿ
+java:S1172»",Remove this unused method parameter "other".(ÜôÌüÿÿÿÿ8öÔ¿„ß1
+I
+java:S1452õ"&Remove usage of generic wildcard type.(ÎÑ©üÿÿÿÿ8úÔ¿„ß1

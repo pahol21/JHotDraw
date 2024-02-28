@@ -1553,3 +1553,5 @@ gjhotdraw-gui/src/main/java/org/jhotdraw/gui/plaf/palette/colorchooser/PaletteCo
 ajhotdraw-gui/src/main/java/org/jhotdraw/gui/plaf/palette/colorchooser/PaletteSwatchesChooser.java,6/5/6570044d001547730d366e4b51f177bd8529b8c0
 ê
 `jhotdraw-samples/jhotdraw-samples-misc/src/main/java/org/jhotdraw/samples/teddy/io/LFWriter.java,6/d/6db5569ed640d864350f88b21f62526dcd766e4f
+z
+Jjhotdraw-actions/src/test/java/org/jhotdraw/action/edit/CutActionTest.java,0/a/0a388c21623d8a63661f05e173cfc14f7e24f2cc

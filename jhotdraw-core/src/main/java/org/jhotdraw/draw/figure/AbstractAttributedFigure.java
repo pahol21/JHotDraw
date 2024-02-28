@@ -34,7 +34,7 @@ public abstract class AbstractAttributedFigure extends AbstractFigure implements
     /**
      * Holds the attributes of the figure.
      */
-    private HashMap<AttributeKey<?>, Object> attributes = new HashMap<>();
+    private transient HashMap<AttributeKey<?>, Object> attributes = new HashMap<>();
     /**
      * Forbidden attributes can't be put by the put() operation. They can only
      * be changed by put().
@@ -184,14 +184,12 @@ public abstract class AbstractAttributedFigure extends AbstractFigure implements
     protected void drawText(java.awt.Graphics2D g) {
     }
 
-    @Override
-    public AbstractAttributedFigure clone() {
+    public AbstractAttributedFigure (AbstractAttributedFigure other) {
         AbstractAttributedFigure that = (AbstractAttributedFigure) super.clone();
         that.attributes = new HashMap<>(this.attributes);
         if (this.forbiddenAttributes != null) {
             that.forbiddenAttributes = new HashSet<>(this.forbiddenAttributes);
         }
-        return that;
     }
 
     protected void writeAttributes(DOMOutput out) throws IOException {

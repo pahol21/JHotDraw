@@ -1,21 +1,23 @@
 
-F
-java:S1066ö"/Merge this if statement with the enclosing one.(…—’®
-T
-java:S2589Ü"8Remove this expression which always evaluates to "false"(ÄŠúÿÿÿÿ
-S
-java:S2589Û"7Remove this expression which always evaluates to "true"(åØÍûúÿÿÿÿ
-T
-java:S5993*"9Change the visibility of this constructor to "protected".(ÇÄÌþÿÿÿÿÿ
-G
-java:S1948 ",Make "attributes" transient or serializable.(¶­Þõúÿÿÿÿ
-7
-java:S23268"T is not used in the method.(ÀŒ‹Çÿÿÿÿÿ
-A
-java:S1905E"&Remove this unnecessary cast to "Map".(Ë´úÕþÿÿÿÿ
-E
-java:S1905ž")Remove this unnecessary cast to "Number".(²ìÛšÿÿÿÿÿ
-o
-java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¨©í›þÿÿÿÿ
-B
-java:S1452€"&Remove usage of generic wildcard type.(ÎÑ©üÿÿÿÿ
+M
+java:S1066÷"/Merge this if statement with the enclosing one.(…—’®8ƒü»„ß1
+[
+java:S2589Ý"8Remove this expression which always evaluates to "false"(ÄŠúÿÿÿÿ8£ý»„ß1
+Z
+java:S2589Ü"7Remove this expression which always evaluates to "true"(åØÍûúÿÿÿÿ8£ý»„ß1
+[
+java:S5993,"9Change the visibility of this constructor to "protected".(ÇÄÌþÿÿÿÿÿ8¥ý»„ß1
+V
+java:S5993É"9Change the visibility of this constructor to "protected".(Ç™°~8¥ý»„ß1
+>
+java:S2326:"T is not used in the method.(ÀŒ‹Çÿÿÿÿÿ8©ý»„ß1
+H
+java:S1905G"&Remove this unnecessary cast to "Map".(Ë´úÕþÿÿÿÿ8ªý»„ß1
+L
+java:S1905 ")Remove this unnecessary cast to "Number".(²ìÛšÿÿÿÿÿ8±ý»„ß1
+I
+java:S1172É",Remove this unused method parameter "other".(Ç™°~8²ý»„ß1
+I
+java:S1452"&Remove usage of generic wildcard type.(ÎÑ©üÿÿÿÿ8µý»„ß1
+`
+java:S1128">Remove this unused import 'org.jhotdraw.draw.AbstractDrawing'.(ÐÎ¡äÿÿÿÿÿ8Úª¼„ß1

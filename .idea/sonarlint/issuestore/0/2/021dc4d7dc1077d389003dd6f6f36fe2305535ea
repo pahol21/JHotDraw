@@ -1,62 +1,46 @@
 
-o
-java:S1192u"YDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 4 times.(Øªáí
 f
-java:S1192v"PDefine a constant instead of duplicating this literal "edit.paste.text" 3 times.(ä««
+java:S1192w"PDefine a constant instead of duplicating this literal "edit.paste.text" 3 times.(ä««
+o
+java:S1192v"YDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 4 times.(Øªáí
 P
-java:S1141f"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+java:S1141g"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
 Q
-java:S1141”"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-—
-java:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î×ùÆ
+java:S1141•"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
 h
-java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 92 to the 15 allowed.(Ý½ŠÃ
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 92 to the 15 allowed.(Ý½ŠÃ
 Y
-java:S1155X">Use isEmpty() to check whether the collection is empty or not.(æ®‹Ëûÿÿÿÿ
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(æ®‹Ëûÿÿÿÿ
 A
-java:S1181ý"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+java:S1181þ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
 V
-java:S1119b";Refactor the code to remove this label and the need for it.(Ðå‚žüÿÿÿÿ
+java:S1119c";Refactor the code to remove this label and the need for it.(Ðå‚žüÿÿÿÿ
 W
-java:S1119";Refactor the code to remove this label and the need for it.(ÇÎñœÿÿÿÿÿ
+java:S1119‘";Refactor the code to remove this label and the need for it.(ÇÎñœÿÿÿÿÿ
 C
-java:S1125¿"'Remove the unnecessary boolean literal.(€êæÀþÿÿÿÿ
+java:S1125À"'Remove the unnecessary boolean literal.(€êæÀþÿÿÿÿ
 R
-java:S1119É";Refactor the code to remove this label and the need for it.(ùŠš©
+java:S1119Ê";Refactor the code to remove this label and the need for it.(ùŠš©
 0
-java:S1065É"Remove this unused label.(ùŠš©
+java:S1065Ê"Remove this unused label.(ùŠš©
 u
-java:S2142ö"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
+java:S2142÷"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰éÕ
 U
-java:S1155Ø">Use isEmpty() to check whether the collection is empty or not.(¨¤…ö
-R	java:S125’"<This block of commented-out lines of code should be removed.(í–üê
+java:S1155Ù">Use isEmpty() to check whether the collection is empty or not.(¨¤…ö
+R	java:S125“"<This block of commented-out lines of code should be removed.(í–üê
 Z
-java:S1155¯">Use isEmpty() to check whether the collection is empty or not.(¾×éŸÿÿÿÿÿ
+java:S1155°">Use isEmpty() to check whether the collection is empty or not.(¾×éŸÿÿÿÿÿ
 n
-java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Øñ®ìûÿÿÿÿ
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Øñ®ìûÿÿÿÿ
 Z
-java:S1155É">Use isEmpty() to check whether the collection is empty or not.(¡öäÖýÿÿÿÿ
+java:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(¡öäÖýÿÿÿÿ
 T
-java:S1155Í">Use isEmpty() to check whether the collection is empty or not.(—€ì!
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(—€ì!
 i
-java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(³Ê¿’
-W	java:S125ù"<This block of commented-out lines of code should be removed.(ŸÑÔÈýÿÿÿÿ
-˜
-java:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ¼ë¾
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(³Ê¿’
+W	java:S125ú"<This block of commented-out lines of code should be removed.(ŸÑÔÈýÿÿÿÿ
 W
-java:S1119á";Refactor the code to remove this label and the need for it.(Ðå‚žüÿÿÿÿ
-˜
-java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë²é®
-˜
-java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÔ³¢
-˜
-java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±«Ÿ˜
-
-java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø–ßÀûÿÿÿÿ
-W	java:S125’"<This block of commented-out lines of code should be removed.(óËá¤øÿÿÿÿ
-˜
-java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â›…õ
-˜
-java:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä—±£
+java:S1119ã";Refactor the code to remove this label and the need for it.(Ðå‚žüÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(óËá¤øÿÿÿÿ
 K
-java:S1144ð"/Remove this unused private "getDrawing" method.(ñšá®ûÿÿÿÿ
+java:S1144ò"/Remove this unused private "getDrawing" method.(ñšá®ûÿÿÿÿ

@@ -11,6 +11,8 @@ import java.awt.*;
 import java.awt.geom.*;
 import java.io.*;
 import java.util.*;
+
+import org.jhotdraw.draw.AbstractDrawing;
 import org.jhotdraw.draw.AttributeKey;
 import org.jhotdraw.draw.AttributeKeys;
 import static org.jhotdraw.draw.AttributeKeys.*;
@@ -29,7 +31,7 @@ import org.jhotdraw.xml.DOMOutput;
 public abstract class AbstractAttributedCompositeFigure extends AbstractCompositeFigure {
 
     private static final long serialVersionUID = 1L;
-    private HashMap<AttributeKey<?>, Object> attributes = new HashMap<>();
+    private transient HashMap<AttributeKey<?>, Object> attributes = new HashMap<>();
     /**
      * Forbidden attributes can't be put by the put() operation.
      * They can only be changed by put().
@@ -195,14 +197,13 @@ public abstract class AbstractAttributedCompositeFigure extends AbstractComposit
     protected void drawText(java.awt.Graphics2D g) {
     }
 
-    @Override
-    public AbstractAttributedCompositeFigure clone() {
+
+    public AbstractAttributedCompositeFigure (AbstractAttributedCompositeFigure other) {
         AbstractAttributedCompositeFigure that = (AbstractAttributedCompositeFigure) super.clone();
         that.attributes = new HashMap<>(this.attributes);
         if (this.forbiddenAttributes != null) {
             that.forbiddenAttributes = new HashSet<>(this.forbiddenAttributes);
         }
-        return that;
     }
 
     protected void writeAttributes(DOMOutput out) throws IOException {

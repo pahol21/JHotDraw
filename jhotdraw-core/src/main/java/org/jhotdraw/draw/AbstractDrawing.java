@@ -30,8 +30,8 @@ public abstract class AbstractDrawing extends AbstractAttributedCompositeFigure 
     private static final long serialVersionUID = 1L;
     private static final Object LOCK = new JPanel().getTreeLock();
     private transient FontRenderContext fontRenderContext;
-    private LinkedList<InputFormat> inputFormats = new LinkedList<>();
-    private LinkedList<OutputFormat> outputFormats = new LinkedList<>();
+    private transient LinkedList<InputFormat> inputFormats = new LinkedList<>();
+    private transient LinkedList<OutputFormat> outputFormats = new LinkedList<>();
     private static boolean debugMode = false;
 
     /**
@@ -169,13 +169,12 @@ public abstract class AbstractDrawing extends AbstractAttributedCompositeFigure 
         }
         return drawingArea;
     }*/
-    @Override
+
     @SuppressWarnings("unchecked")
-    public AbstractDrawing clone() {
+    public AbstractDrawing (AbstractDrawing other) {
         AbstractDrawing that = (AbstractDrawing) super.clone();
         that.inputFormats = (this.inputFormats == null) ? null : (LinkedList<InputFormat>) this.inputFormats.clone();
         that.outputFormats = (this.outputFormats == null) ? null : (LinkedList<OutputFormat>) this.outputFormats.clone();
-        return that;
     }
 
     public static boolean isDebugMode() {

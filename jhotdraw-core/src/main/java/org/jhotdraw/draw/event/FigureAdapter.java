@@ -18,29 +18,36 @@ public class FigureAdapter implements FigureListener {
 
     @Override
     public void areaInvalidated(FigureEvent e) {
+        //Empty on purpose
     }
 
     @Override
     public void attributeChanged(FigureEvent e) {
+        //Empty on purpose
     }
 
     @Override
     public void figureAdded(FigureEvent e) {
+        //Empty on purpose
     }
 
     @Override
     public void figureChanged(FigureEvent e) {
+        //Empty on purpose
     }
 
     @Override
     public void figureRemoved(FigureEvent e) {
+        //Empty on purpose
     }
 
     @Override
     public void figureRequestRemove(FigureEvent e) {
+        //Empty on purpose
     }
 
     @Override
     public void figureHandlesChanged(FigureEvent e) {
+        //Empty on purpose
     }
 }

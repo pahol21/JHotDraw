@@ -55,22 +55,22 @@ public class DefaultDrawingView
      * used to select the figures.
      */
     private Set<Figure> selectedFigures = new LinkedHashSet<>();
-    private LinkedList<Handle> selectionHandles = new LinkedList<>();
+    private transient LinkedList<Handle> selectionHandles = new LinkedList<>();
     private boolean isConstrainerVisible = false;
-    private Constrainer visibleConstrainer = new GridConstrainer(8, 8);
-    private Constrainer invisibleConstrainer = new GridConstrainer();
-    private Handle secondaryHandleOwner;
-    private Handle activeHandle;
-    private LinkedList<Handle> secondaryHandles = new LinkedList<>();
+    private transient Constrainer visibleConstrainer = new GridConstrainer(8, 8);
+    private transient Constrainer invisibleConstrainer = new GridConstrainer();
+    private transient Handle secondaryHandleOwner;
+    private transient Handle activeHandle;
+    private transient LinkedList<Handle> secondaryHandles = new LinkedList<>();
     private boolean handlesAreValid = true;
     private transient Dimension cachedPreferredSize;
     private double scaleFactor = 1;
     private Point translation = new Point(0, 0);
     private int detailLevel;
-    private DrawingEditor editor;
+    private transient DrawingEditor editor;
     private JLabel emptyDrawingLabel;
-    protected BufferedImage backgroundTile;
-    private FigureListener handleInvalidator = new FigureAdapter() {
+    protected transient BufferedImage backgroundTile;
+    private transient FigureListener handleInvalidator = new FigureAdapter() {
         @Override
         public void figureHandlesChanged(FigureEvent e) {
             invalidateHandles();
@@ -85,11 +85,11 @@ public class DefaultDrawingView
     /**
      * The drawingBuffer holds a rendered image of the drawing (in view coordinates).
      */
-    private VolatileImage drawingBufferV;
+    private transient VolatileImage drawingBufferV;
     /**
      * The drawingBuffer holds a rendered image of the drawing (in view coordinates).
      */
-    private BufferedImage drawingBufferNV;
+    private transient BufferedImage drawingBufferNV;
     /**
      * Holds the drawing area (in view coordinates) which is in the drawing buffer.
      */
@@ -272,6 +272,7 @@ public class DefaultDrawingView
 
         @Override
         public void figureHandlesChanged(FigureEvent e) {
+            //Empty on purpose
         }
 
         @Override
@@ -281,17 +282,20 @@ public class DefaultDrawingView
 
         @Override
         public void figureAdded(FigureEvent e) {
+            //Empty on purpose
         }
 
         @Override
         public void figureRemoved(FigureEvent e) {
+            //Empty on purpose
         }
 
         @Override
         public void figureRequestRemove(FigureEvent e) {
+            //Empty on purpose
         }
     }
-    private EventHandler eventHandler;
+    private transient EventHandler eventHandler;
 
     /**
      * Creates new instance.

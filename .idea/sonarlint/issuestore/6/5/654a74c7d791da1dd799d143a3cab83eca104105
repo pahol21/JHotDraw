@@ -5,5 +5,3 @@ b
 java:S1192Š"FDefine a constant instead of duplicating this literal "clone" 3 times.(¦°ÈÙÿÿÿÿÿ
 x
 java:S1488È"\Immediately return this expression instead of assigning it to the temporary variable "edit".(Åƒèàüÿÿÿÿ
-I
-java:S1948-".Make "defaultValue" transient or serializable.(ØŸß¥ùÿÿÿÿ

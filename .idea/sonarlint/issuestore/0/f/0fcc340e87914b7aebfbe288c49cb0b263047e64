@@ -1,16 +1,16 @@
 
-T
-java:S5993x"9Change the visibility of this constructor to "protected".(äàóüÿÿÿÿ
-@
-java:S19481"*Make "layouter" transient or serializable.(å±¢Ï
-W	java:S125¬"<This block of commented-out lines of code should be removed.(ÉãÄ‰şÿÿÿÿ
-E
-java:S1940¾")Use the opposite operator (">=") instead.(¼Å¾ûÿÿÿÿ
-E
-java:S1940¾")Use the opposite operator (">=") instead.(¼Å¾ûÿÿÿÿ
-U
-java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(Ÿ–—î
-A
-java:S1481¡"*Remove this unused "found" local variable.(ÙÍÜ
-o
-java:S2975Ô"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ò¹Üóıÿÿÿÿ
+[
+java:S5993x"9Change the visibility of this constructor to "protected".(äàóüÿÿÿÿ8ÅÑÁ„ß1
+W
+java:S5993Ó"9Change the visibility of this constructor to "protected".(ë©±Š8ÅÑÁ„ß1
+^	java:S125¬"<This block of commented-out lines of code should be removed.(ÉãÄ‰şÿÿÿÿ8ÕÑÁ„ß1
+L
+java:S1940¾")Use the opposite operator (">=") instead.(¼Å¾ûÿÿÿÿ8×ÑÁ„ß1
+L
+java:S1940¾")Use the opposite operator (">=") instead.(¼Å¾ûÿÿÿÿ8×ÑÁ„ß1
+\
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(Ÿ–—î8ØÑÁ„ß1
+H
+java:S1481¡"*Remove this unused "found" local variable.(ÙÍÜ8ŞÑÁ„ß1
+J
+java:S1172Ó",Remove this unused method parameter "other".(ë©±Š8åÑÁ„ß1
